@@ -1,0 +1,3 @@
+usar la api de flash, tener un achivo students.json con 50 estudiantes con id(codigo), nombres, apellidos, carrera, fecha de nacimiento, facultad, 
+materias va a ser un arreglo de objetos materia, cada objeto materia tiene id, grupo(g1, g2 etc), nombre, horario objeto con campos hora inicio y hora final
+mapearlo de mi pc al contenedor y en flask hacer un endpoint que muestre todos los estudiantes con todos sus campos :)
