@@ -1,0 +1,2536 @@
+[
+    {
+        "id": "S001",
+        "nombres": "Iker",
+        "apellidos": "Palomares",
+        "carrera": "Medicina",
+        "fecha_nacimiento": "2004-07-12",
+        "facultad": "Ingeniería",
+        "materias": [
+            {
+                "id": "MAT101",
+                "grupo": "G1",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G2",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "14:00",
+                    "hora_final": "16:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G3",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "9:00",
+                    "hora_final": "11:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G2",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "9:00",
+                    "hora_final": "11:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S002",
+        "nombres": "María José",
+        "apellidos": "Planas",
+        "carrera": "Derecho",
+        "fecha_nacimiento": "1997-11-11",
+        "facultad": "Ciencias Sociales",
+        "materias": [
+            {
+                "id": "HIS101",
+                "grupo": "G3",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "10:00",
+                    "hora_final": "12:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G2",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "18:00",
+                    "hora_final": "20:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G3",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "11:00",
+                    "hora_final": "13:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G3",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "9:00",
+                    "hora_final": "11:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G2",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S003",
+        "nombres": "Omar",
+        "apellidos": "Gomila",
+        "carrera": "Ingeniería de Sistemas",
+        "fecha_nacimiento": "2006-07-17",
+        "facultad": "Ciencias Sociales",
+        "materias": [
+            {
+                "id": "MAT101",
+                "grupo": "G3",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G1",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "14:00",
+                    "hora_final": "16:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G2",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S004",
+        "nombres": "Rafael",
+        "apellidos": "Sacristán",
+        "carrera": "Administración",
+        "fecha_nacimiento": "1999-10-12",
+        "facultad": "Humanidades",
+        "materias": [
+            {
+                "id": "MAT101",
+                "grupo": "G2",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G1",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G2",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "18:00",
+                    "hora_final": "20:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G2",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "18:00",
+                    "hora_final": "20:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S005",
+        "nombres": "Rufina",
+        "apellidos": "Blanes",
+        "carrera": "Derecho",
+        "fecha_nacimiento": "2000-04-24",
+        "facultad": "Salud",
+        "materias": [
+            {
+                "id": "PRO101",
+                "grupo": "G1",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "8:00",
+                    "hora_final": "10:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G1",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "10:00",
+                    "hora_final": "12:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G1",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "17:00",
+                    "hora_final": "19:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G1",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G2",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "10:00",
+                    "hora_final": "12:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S006",
+        "nombres": "Catalina",
+        "apellidos": "Lago",
+        "carrera": "Derecho",
+        "fecha_nacimiento": "1997-06-28",
+        "facultad": "Humanidades",
+        "materias": [
+            {
+                "id": "PRO101",
+                "grupo": "G3",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "14:00",
+                    "hora_final": "16:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G2",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "14:00",
+                    "hora_final": "16:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G3",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "15:00",
+                    "hora_final": "17:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G1",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "15:00",
+                    "hora_final": "17:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G1",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G1",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "8:00",
+                    "hora_final": "10:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S007",
+        "nombres": "Trinidad",
+        "apellidos": "Barrios",
+        "carrera": "Ingeniería de Sistemas",
+        "fecha_nacimiento": "1999-05-03",
+        "facultad": "Ciencias Sociales",
+        "materias": [
+            {
+                "id": "PRO101",
+                "grupo": "G1",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "18:00",
+                    "hora_final": "20:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G2",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G2",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "18:00",
+                    "hora_final": "20:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G2",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "8:00",
+                    "hora_final": "10:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G1",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G1",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "17:00",
+                    "hora_final": "19:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S008",
+        "nombres": "Amando",
+        "apellidos": "Frías",
+        "carrera": "Ingeniería Civil",
+        "fecha_nacimiento": "1996-03-29",
+        "facultad": "Salud",
+        "materias": [
+            {
+                "id": "HIS101",
+                "grupo": "G3",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "14:00",
+                    "hora_final": "16:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G1",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "10:00",
+                    "hora_final": "12:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G3",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G1",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "10:00",
+                    "hora_final": "12:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G2",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "14:00",
+                    "hora_final": "16:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S009",
+        "nombres": "Jenaro",
+        "apellidos": "Castilla",
+        "carrera": "Psicología",
+        "fecha_nacimiento": "1996-07-20",
+        "facultad": "Humanidades",
+        "materias": [
+            {
+                "id": "MAT101",
+                "grupo": "G3",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "15:00",
+                    "hora_final": "17:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G3",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "11:00",
+                    "hora_final": "13:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G1",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "8:00",
+                    "hora_final": "10:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S010",
+        "nombres": "Lorenza",
+        "apellidos": "Pintor",
+        "carrera": "Ingeniería de Sistemas",
+        "fecha_nacimiento": "1996-12-15",
+        "facultad": "Ciencias Sociales",
+        "materias": [
+            {
+                "id": "BIO101",
+                "grupo": "G2",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G1",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "14:00",
+                    "hora_final": "16:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G3",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G3",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "10:00",
+                    "hora_final": "12:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G3",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "12:00",
+                    "hora_final": "14:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G2",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S011",
+        "nombres": "Daniela",
+        "apellidos": "Salcedo",
+        "carrera": "Administración",
+        "fecha_nacimiento": "1999-09-22",
+        "facultad": "Humanidades",
+        "materias": [
+            {
+                "id": "FIS101",
+                "grupo": "G1",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "14:00",
+                    "hora_final": "16:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G1",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "10:00",
+                    "hora_final": "12:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G3",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "12:00",
+                    "hora_final": "14:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S012",
+        "nombres": "Visitación",
+        "apellidos": "Llopis",
+        "carrera": "Administración",
+        "fecha_nacimiento": "2000-11-27",
+        "facultad": "Humanidades",
+        "materias": [
+            {
+                "id": "FIS101",
+                "grupo": "G1",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "11:00",
+                    "hora_final": "13:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G2",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "18:00",
+                    "hora_final": "20:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G1",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G3",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "11:00",
+                    "hora_final": "13:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G2",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "8:00",
+                    "hora_final": "10:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G2",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "9:00",
+                    "hora_final": "11:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S013",
+        "nombres": "Liliana",
+        "apellidos": "Vega",
+        "carrera": "Medicina",
+        "fecha_nacimiento": "1997-11-03",
+        "facultad": "Ingeniería",
+        "materias": [
+            {
+                "id": "BIO101",
+                "grupo": "G1",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "15:00",
+                    "hora_final": "17:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G3",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "10:00",
+                    "hora_final": "12:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G1",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "15:00",
+                    "hora_final": "17:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S014",
+        "nombres": "Roberto",
+        "apellidos": "Serna",
+        "carrera": "Psicología",
+        "fecha_nacimiento": "2007-03-18",
+        "facultad": "Ciencias Sociales",
+        "materias": [
+            {
+                "id": "PRO101",
+                "grupo": "G3",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "11:00",
+                    "hora_final": "13:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G1",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G1",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G1",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "15:00",
+                    "hora_final": "17:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G2",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S015",
+        "nombres": "Merche",
+        "apellidos": "Barrera",
+        "carrera": "Ingeniería Civil",
+        "fecha_nacimiento": "1994-09-08",
+        "facultad": "Ciencias Económicas",
+        "materias": [
+            {
+                "id": "HIS101",
+                "grupo": "G2",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "12:00",
+                    "hora_final": "14:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G3",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "17:00",
+                    "hora_final": "19:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G2",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "15:00",
+                    "hora_final": "17:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G3",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "17:00",
+                    "hora_final": "19:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G3",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S016",
+        "nombres": "América",
+        "apellidos": "Soriano",
+        "carrera": "Medicina",
+        "fecha_nacimiento": "2000-05-14",
+        "facultad": "Ciencias Sociales",
+        "materias": [
+            {
+                "id": "QUI101",
+                "grupo": "G3",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G3",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "18:00",
+                    "hora_final": "20:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G2",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "8:00",
+                    "hora_final": "10:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S017",
+        "nombres": "Juan Francisco",
+        "apellidos": "Roma",
+        "carrera": "Psicología",
+        "fecha_nacimiento": "1994-12-06",
+        "facultad": "Humanidades",
+        "materias": [
+            {
+                "id": "BIO101",
+                "grupo": "G2",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G1",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "15:00",
+                    "hora_final": "17:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G1",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "8:00",
+                    "hora_final": "10:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G3",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "14:00",
+                    "hora_final": "16:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G3",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "10:00",
+                    "hora_final": "12:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S018",
+        "nombres": "Maximiano",
+        "apellidos": "Alberdi",
+        "carrera": "Ingeniería Civil",
+        "fecha_nacimiento": "2005-07-26",
+        "facultad": "Ciencias Económicas",
+        "materias": [
+            {
+                "id": "MAT101",
+                "grupo": "G1",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "9:00",
+                    "hora_final": "11:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G1",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "17:00",
+                    "hora_final": "19:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G2",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "14:00",
+                    "hora_final": "16:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S019",
+        "nombres": "Cristian",
+        "apellidos": "Noguera",
+        "carrera": "Ingeniería de Sistemas",
+        "fecha_nacimiento": "1998-08-30",
+        "facultad": "Humanidades",
+        "materias": [
+            {
+                "id": "PRO101",
+                "grupo": "G3",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "12:00",
+                    "hora_final": "14:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G3",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "10:00",
+                    "hora_final": "12:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G1",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "15:00",
+                    "hora_final": "17:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G3",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G2",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "18:00",
+                    "hora_final": "20:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S020",
+        "nombres": "Nilo",
+        "apellidos": "Gil",
+        "carrera": "Derecho",
+        "fecha_nacimiento": "1997-12-08",
+        "facultad": "Salud",
+        "materias": [
+            {
+                "id": "QUI101",
+                "grupo": "G3",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G3",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "17:00",
+                    "hora_final": "19:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G1",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "8:00",
+                    "hora_final": "10:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G3",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "10:00",
+                    "hora_final": "12:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S021",
+        "nombres": "Jonatan",
+        "apellidos": "Francisco",
+        "carrera": "Administración",
+        "fecha_nacimiento": "2005-08-07",
+        "facultad": "Ingeniería",
+        "materias": [
+            {
+                "id": "HIS101",
+                "grupo": "G2",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G3",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G3",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G3",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "17:00",
+                    "hora_final": "19:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G3",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "9:00",
+                    "hora_final": "11:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S022",
+        "nombres": "Sara",
+        "apellidos": "Tello",
+        "carrera": "Medicina",
+        "fecha_nacimiento": "2001-02-12",
+        "facultad": "Ciencias Sociales",
+        "materias": [
+            {
+                "id": "FIS101",
+                "grupo": "G2",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G1",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "11:00",
+                    "hora_final": "13:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G3",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G3",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S023",
+        "nombres": "Julieta",
+        "apellidos": "Gimenez",
+        "carrera": "Ingeniería de Sistemas",
+        "fecha_nacimiento": "1994-11-14",
+        "facultad": "Ingeniería",
+        "materias": [
+            {
+                "id": "PRO101",
+                "grupo": "G2",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G2",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "9:00",
+                    "hora_final": "11:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G1",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "11:00",
+                    "hora_final": "13:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G3",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G3",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "12:00",
+                    "hora_final": "14:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S024",
+        "nombres": "Candelario",
+        "apellidos": "Arce",
+        "carrera": "Derecho",
+        "fecha_nacimiento": "1999-12-05",
+        "facultad": "Ciencias Económicas",
+        "materias": [
+            {
+                "id": "BIO101",
+                "grupo": "G3",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G2",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G1",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "10:00",
+                    "hora_final": "12:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G3",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "10:00",
+                    "hora_final": "12:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G3",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "14:00",
+                    "hora_final": "16:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G2",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S025",
+        "nombres": "Aura",
+        "apellidos": "Vidal",
+        "carrera": "Psicología",
+        "fecha_nacimiento": "2007-03-30",
+        "facultad": "Ingeniería",
+        "materias": [
+            {
+                "id": "BIO101",
+                "grupo": "G3",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "17:00",
+                    "hora_final": "19:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G2",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G2",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "14:00",
+                    "hora_final": "16:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G1",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S026",
+        "nombres": "José María",
+        "apellidos": "Seco",
+        "carrera": "Ingeniería de Sistemas",
+        "fecha_nacimiento": "2005-02-27",
+        "facultad": "Salud",
+        "materias": [
+            {
+                "id": "HIS101",
+                "grupo": "G3",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "18:00",
+                    "hora_final": "20:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G1",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G2",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "15:00",
+                    "hora_final": "17:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G3",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "9:00",
+                    "hora_final": "11:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G2",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "10:00",
+                    "hora_final": "12:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G1",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S027",
+        "nombres": "Jesusa",
+        "apellidos": "Linares",
+        "carrera": "Derecho",
+        "fecha_nacimiento": "1995-03-06",
+        "facultad": "Humanidades",
+        "materias": [
+            {
+                "id": "BIO101",
+                "grupo": "G1",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G2",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "11:00",
+                    "hora_final": "13:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G3",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "12:00",
+                    "hora_final": "14:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G2",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "11:00",
+                    "hora_final": "13:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S028",
+        "nombres": "Guiomar",
+        "apellidos": "Roca",
+        "carrera": "Medicina",
+        "fecha_nacimiento": "1998-08-08",
+        "facultad": "Ingeniería",
+        "materias": [
+            {
+                "id": "FIS101",
+                "grupo": "G3",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "17:00",
+                    "hora_final": "19:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G3",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "11:00",
+                    "hora_final": "13:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G3",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S029",
+        "nombres": "Rosa",
+        "apellidos": "Fuertes",
+        "carrera": "Ingeniería de Sistemas",
+        "fecha_nacimiento": "2001-04-22",
+        "facultad": "Humanidades",
+        "materias": [
+            {
+                "id": "HIS101",
+                "grupo": "G2",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G1",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "11:00",
+                    "hora_final": "13:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G1",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "17:00",
+                    "hora_final": "19:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G1",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G2",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S030",
+        "nombres": "Samanta",
+        "apellidos": "Busquets",
+        "carrera": "Ingeniería de Sistemas",
+        "fecha_nacimiento": "2006-06-22",
+        "facultad": "Salud",
+        "materias": [
+            {
+                "id": "BIO101",
+                "grupo": "G1",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "18:00",
+                    "hora_final": "20:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G2",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "10:00",
+                    "hora_final": "12:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G1",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "8:00",
+                    "hora_final": "10:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G1",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "10:00",
+                    "hora_final": "12:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G3",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S031",
+        "nombres": "Marc",
+        "apellidos": "Aller",
+        "carrera": "Psicología",
+        "fecha_nacimiento": "2001-09-16",
+        "facultad": "Ingeniería",
+        "materias": [
+            {
+                "id": "MAT101",
+                "grupo": "G2",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "10:00",
+                    "hora_final": "12:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G1",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G3",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G2",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "18:00",
+                    "hora_final": "20:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G3",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "15:00",
+                    "hora_final": "17:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G3",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "12:00",
+                    "hora_final": "14:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S032",
+        "nombres": "Mauricio",
+        "apellidos": "Paz",
+        "carrera": "Administración",
+        "fecha_nacimiento": "2003-12-10",
+        "facultad": "Ciencias Sociales",
+        "materias": [
+            {
+                "id": "FIS101",
+                "grupo": "G3",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "9:00",
+                    "hora_final": "11:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G3",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "8:00",
+                    "hora_final": "10:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G2",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S033",
+        "nombres": "Bernabé",
+        "apellidos": "Cabrera",
+        "carrera": "Ingeniería de Sistemas",
+        "fecha_nacimiento": "2007-03-14",
+        "facultad": "Ciencias Sociales",
+        "materias": [
+            {
+                "id": "HIS101",
+                "grupo": "G3",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "17:00",
+                    "hora_final": "19:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G2",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G3",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "12:00",
+                    "hora_final": "14:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G1",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "15:00",
+                    "hora_final": "17:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G3",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "10:00",
+                    "hora_final": "12:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G1",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "8:00",
+                    "hora_final": "10:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S034",
+        "nombres": "Tecla",
+        "apellidos": "Vives",
+        "carrera": "Psicología",
+        "fecha_nacimiento": "1999-07-27",
+        "facultad": "Ciencias Sociales",
+        "materias": [
+            {
+                "id": "BIO101",
+                "grupo": "G3",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "9:00",
+                    "hora_final": "11:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G3",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G3",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "17:00",
+                    "hora_final": "19:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G1",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G1",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "11:00",
+                    "hora_final": "13:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G3",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "17:00",
+                    "hora_final": "19:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S035",
+        "nombres": "Octavio",
+        "apellidos": "Calleja",
+        "carrera": "Medicina",
+        "fecha_nacimiento": "1995-11-08",
+        "facultad": "Humanidades",
+        "materias": [
+            {
+                "id": "FIS101",
+                "grupo": "G3",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "14:00",
+                    "hora_final": "16:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G3",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "18:00",
+                    "hora_final": "20:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G1",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "11:00",
+                    "hora_final": "13:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G1",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "17:00",
+                    "hora_final": "19:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S036",
+        "nombres": "Montserrat",
+        "apellidos": "Suárez",
+        "carrera": "Medicina",
+        "fecha_nacimiento": "2004-02-17",
+        "facultad": "Salud",
+        "materias": [
+            {
+                "id": "BIO101",
+                "grupo": "G1",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "11:00",
+                    "hora_final": "13:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G1",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G1",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "12:00",
+                    "hora_final": "14:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S037",
+        "nombres": "Fermín",
+        "apellidos": "Navas",
+        "carrera": "Derecho",
+        "fecha_nacimiento": "2000-01-18",
+        "facultad": "Humanidades",
+        "materias": [
+            {
+                "id": "MAT101",
+                "grupo": "G1",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G2",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G2",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "11:00",
+                    "hora_final": "13:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S038",
+        "nombres": "Alberto",
+        "apellidos": "Escudero",
+        "carrera": "Medicina",
+        "fecha_nacimiento": "2001-12-24",
+        "facultad": "Ciencias Sociales",
+        "materias": [
+            {
+                "id": "MAT101",
+                "grupo": "G3",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "11:00",
+                    "hora_final": "13:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G2",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G3",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "11:00",
+                    "hora_final": "13:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G2",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "15:00",
+                    "hora_final": "17:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G1",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "11:00",
+                    "hora_final": "13:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G2",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "15:00",
+                    "hora_final": "17:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S039",
+        "nombres": "Régulo",
+        "apellidos": "Luque",
+        "carrera": "Medicina",
+        "fecha_nacimiento": "2004-01-30",
+        "facultad": "Ingeniería",
+        "materias": [
+            {
+                "id": "FIS101",
+                "grupo": "G2",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "8:00",
+                    "hora_final": "10:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G3",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G1",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "17:00",
+                    "hora_final": "19:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G2",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "9:00",
+                    "hora_final": "11:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S040",
+        "nombres": "Berta",
+        "apellidos": "Ballester",
+        "carrera": "Medicina",
+        "fecha_nacimiento": "1995-05-30",
+        "facultad": "Ciencias Sociales",
+        "materias": [
+            {
+                "id": "HIS101",
+                "grupo": "G2",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "10:00",
+                    "hora_final": "12:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G3",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "11:00",
+                    "hora_final": "13:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G2",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "9:00",
+                    "hora_final": "11:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S041",
+        "nombres": "Martín",
+        "apellidos": "Lastra",
+        "carrera": "Derecho",
+        "fecha_nacimiento": "1996-01-18",
+        "facultad": "Salud",
+        "materias": [
+            {
+                "id": "PRO101",
+                "grupo": "G1",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "12:00",
+                    "hora_final": "14:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G1",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G1",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G1",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G3",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S042",
+        "nombres": "Eugenio",
+        "apellidos": "Cánovas",
+        "carrera": "Derecho",
+        "fecha_nacimiento": "1994-12-06",
+        "facultad": "Ingeniería",
+        "materias": [
+            {
+                "id": "MAT101",
+                "grupo": "G2",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "12:00",
+                    "hora_final": "14:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G3",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G1",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "14:00",
+                    "hora_final": "16:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G1",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "18:00",
+                    "hora_final": "20:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G2",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "15:00",
+                    "hora_final": "17:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G1",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "12:00",
+                    "hora_final": "14:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S043",
+        "nombres": "Borja",
+        "apellidos": "Morales",
+        "carrera": "Ingeniería de Sistemas",
+        "fecha_nacimiento": "2001-12-05",
+        "facultad": "Ingeniería",
+        "materias": [
+            {
+                "id": "BIO101",
+                "grupo": "G1",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G2",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G3",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "9:00",
+                    "hora_final": "11:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S044",
+        "nombres": "Cleto",
+        "apellidos": "Palomares",
+        "carrera": "Derecho",
+        "fecha_nacimiento": "2001-05-21",
+        "facultad": "Humanidades",
+        "materias": [
+            {
+                "id": "MAT101",
+                "grupo": "G1",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "14:00",
+                    "hora_final": "16:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G3",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G1",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "15:00",
+                    "hora_final": "17:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G1",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "18:00",
+                    "hora_final": "20:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G2",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "15:00",
+                    "hora_final": "17:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G2",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "18:00",
+                    "hora_final": "20:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S045",
+        "nombres": "Elba",
+        "apellidos": "Garmendia",
+        "carrera": "Psicología",
+        "fecha_nacimiento": "2006-03-31",
+        "facultad": "Ciencias Económicas",
+        "materias": [
+            {
+                "id": "BIO101",
+                "grupo": "G2",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G1",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "15:00",
+                    "hora_final": "17:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G1",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "14:00",
+                    "hora_final": "16:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S046",
+        "nombres": "Severino",
+        "apellidos": "Carlos",
+        "carrera": "Derecho",
+        "fecha_nacimiento": "2005-03-13",
+        "facultad": "Salud",
+        "materias": [
+            {
+                "id": "HIS101",
+                "grupo": "G2",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "11:00",
+                    "hora_final": "13:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G3",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G1",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "18:00",
+                    "hora_final": "20:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G1",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S047",
+        "nombres": "Paco",
+        "apellidos": "Agudo",
+        "carrera": "Ingeniería Civil",
+        "fecha_nacimiento": "2001-09-07",
+        "facultad": "Salud",
+        "materias": [
+            {
+                "id": "QUI101",
+                "grupo": "G2",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "17:00",
+                    "hora_final": "19:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G1",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G3",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "11:00",
+                    "hora_final": "13:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G1",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "9:00",
+                    "hora_final": "11:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S048",
+        "nombres": "Jose Carlos",
+        "apellidos": "Huertas",
+        "carrera": "Medicina",
+        "fecha_nacimiento": "1995-06-30",
+        "facultad": "Salud",
+        "materias": [
+            {
+                "id": "QUI101",
+                "grupo": "G1",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "15:00",
+                    "hora_final": "17:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G1",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "14:00",
+                    "hora_final": "16:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G3",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G3",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "15:00",
+                    "hora_final": "17:00"
+                }
+            },
+            {
+                "id": "HIS101",
+                "grupo": "G3",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G2",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "12:00",
+                    "hora_final": "14:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S049",
+        "nombres": "Felipe",
+        "apellidos": "Castells",
+        "carrera": "Medicina",
+        "fecha_nacimiento": "2006-10-03",
+        "facultad": "Ciencias Sociales",
+        "materias": [
+            {
+                "id": "MAT101",
+                "grupo": "G3",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "9:00",
+                    "hora_final": "11:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G1",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G2",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            }
+        ]
+    },
+    {
+        "id": "S050",
+        "nombres": "Iván",
+        "apellidos": "Valenzuela",
+        "carrera": "Ingeniería de Sistemas",
+        "fecha_nacimiento": "1996-10-05",
+        "facultad": "Ciencias Sociales",
+        "materias": [
+            {
+                "id": "HIS101",
+                "grupo": "G2",
+                "nombre": "Historia Universal",
+                "horario": {
+                    "hora_inicio": "13:00",
+                    "hora_final": "15:00"
+                }
+            },
+            {
+                "id": "MAT101",
+                "grupo": "G3",
+                "nombre": "Matemáticas I",
+                "horario": {
+                    "hora_inicio": "12:00",
+                    "hora_final": "14:00"
+                }
+            },
+            {
+                "id": "PRO101",
+                "grupo": "G3",
+                "nombre": "Programación I",
+                "horario": {
+                    "hora_inicio": "16:00",
+                    "hora_final": "18:00"
+                }
+            },
+            {
+                "id": "FIS101",
+                "grupo": "G2",
+                "nombre": "Física I",
+                "horario": {
+                    "hora_inicio": "7:00",
+                    "hora_final": "9:00"
+                }
+            },
+            {
+                "id": "BIO101",
+                "grupo": "G1",
+                "nombre": "Biología General",
+                "horario": {
+                    "hora_inicio": "15:00",
+                    "hora_final": "17:00"
+                }
+            },
+            {
+                "id": "QUI101",
+                "grupo": "G3",
+                "nombre": "Química I",
+                "horario": {
+                    "hora_inicio": "10:00",
+                    "hora_final": "12:00"
+                }
+            }
+        ]
+    }
+]
