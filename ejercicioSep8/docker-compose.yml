@@ -1,0 +1,33 @@
+services:
+  neo4j:
+    image: neo4j:5.22.0-community
+    restart: always
+    environment:
+      NEO4J_AUTH: "${NEO4J_USER}/${NEO4J_PASSWORD}"
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    volumes:
+      - neo4j_data:/data
+    networks:
+      - app_network
+
+  backend:
+    build: ./backend
+    restart: always
+    depends_on:
+      - neo4j
+    env_file:
+      - .env
+    networks:
+      - app_network
+    ports:
+      - "${EXPRESS_PORT:-3000}:3000"
+
+volumes:
+  neo4j_data:
+    driver: local
+
+networks:
+  app_network:
+    driver: bridge

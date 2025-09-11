@@ -1,0 +1,10001 @@
+cityId,name
+1,San Andrés de Sotavento
+2,Mistrató
+3,La Llanada
+4,Popayán
+5,Bolívar
+6,San Luis de Palenque
+7,Fusagasugá
+8,El Peñón
+9,Anserma
+10,Frontino
+11,Samaniego
+12,Cali
+13,Solita
+14,Ayapel
+15,Nariño
+16,Supatá
+17,Venadillo
+18,Oporapa
+19,Belén
+20,La Victoria
+21,Funes
+22,Soatá
+23,Tinjacá
+24,Zapayán
+25,Tópaga
+26,El Espino
+27,Manizales
+28,Yacopí
+29,Vetas
+30,Villa Rica
+31,Alejandría
+32,Bolívar
+33,El Tarra
+34,Santa Rosa de Cabal
+35,Nátaga
+36,Sasaima
+37,Chivolo
+38,Altos del Rosario
+39,Coveñas
+40,Chita
+41,Tinjacá
+42,Cotorra
+43,Puerto Carreño
+44,Armero
+45,Jenesano
+46,Chiquinquirá
+47,El Carmen de Chucurí
+48,Zapatoca
+49,Los Santos
+50,San Jacinto
+51,San Antonio
+52,Villa Rica
+53,Campohermoso
+54,Fosca
+55,Almeida
+56,Puerto Leguízamo
+57,Samaná
+58,Charalá
+59,Covarachía
+60,Sotaquirá
+61,Pana Pana
+62,Tunja
+63,Barranquilla
+64,Campamento
+65,San Martín
+66,Tarazá
+67,La Vega
+68,San Carlos de Guaroa
+69,Susacón
+70,Linares
+71,Cubará
+72,Calamar
+73,Florencia
+74,San Antonio del Tequendama
+75,La Ceja
+76,Ayapel
+77,Zapayán
+78,Tibaná
+79,Neira
+80,Padilla
+81,San Bernardo
+82,La Belleza
+83,Valencia
+84,Morales
+85,Piedecuesta
+86,Apulo
+87,Herrán
+88,Chinchiná
+89,San Fernando
+90,Tello
+91,El Retén
+92,Santana
+93,Barranco de Loba
+94,Togüí
+95,Anolaima
+96,Salamina
+97,Gutiérrez
+98,Nátaga
+99,Soatá
+100,Angelópolis
+101,Tibirita
+102,Puerto Santander
+103,Támesis
+104,El Tambo
+105,Florida
+106,Río Quito
+107,Campohermoso
+108,Calima
+109,Barrancabermeja
+110,Macanal
+111,Arcabuco
+112,Rovira
+113,La Macarena
+114,Río Quito
+115,Vigía del Fuerte
+116,Concordia
+117,Suárez
+118,Pelaya
+119,Topaipí
+120,San Pedro de los Milagros
+121,El Zulia
+122,Girón
+123,Puente Nacional
+124,San José del Palmar
+125,El Tambo
+126,Santiago
+127,Manaure
+128,Istmina
+129,Copacabana
+130,Pueblo Rico
+131,La Virginia
+132,Rovira
+133,La Unión
+134,Quimbaya
+135,Busbanzá
+136,Palmar de Varela
+137,Tota
+138,La Capilla
+139,La Esperanza
+140,Suárez
+141,La Celia
+142,San Francisco
+143,Zetaquira
+144,Marinilla
+145,Pensilvania
+146,Ubaque
+147,Gamarra
+148,Une
+149,Nimaima
+150,El Tambo
+151,La Sierra
+152,Puerto Colombia
+153,Puerto Libertador
+154,Agua de Dios
+155,Maceo
+156,Unión Panamericana
+157,Yacopí
+158,Nariño
+159,Plato
+160,Giraldo
+161,Albania
+162,Guapotá
+163,Zetaquira
+164,Tiquisio
+165,Floresta
+166,Tadó
+167,Cotorra
+168,Río Iró
+169,Curillo
+170,Coyaima
+171,Nimaima
+172,Puerto Nariño
+173,Sampués
+174,San Pedro de los Milagros
+175,San Joaquín
+176,Jerusalén
+177,Santa Marta
+178,Samaná
+179,Durania
+180,Mapiripán
+181,Tuchín
+182,Pachavita
+183,Tenjo
+184,Mahates
+185,Chivor
+186,Tarqui
+187,Landázuri
+188,Apartadó
+189,El Playón
+190,Puerto López
+191,Floresta
+192,Baranoa
+193,Tinjacá
+194,Simití
+195,Gutiérrez
+196,Simijaca
+197,Natagaima
+198,Saldaña
+199,Atrato
+200,Belén
+201,La Palma
+202,Piedras
+203,Albania
+204,Algeciras
+205,Cucunubá
+206,Paz de Ariporo
+207,San Francisco
+208,Marquetalia
+209,Aratoca
+210,Bagadó
+211,Miranda
+212,Boavita
+213,San Pedro de los Milagros
+214,Puerto Leguízamo
+215,Norosí
+216,La Belleza
+217,Bosconia
+218,Somondoco
+219,El Peñón
+220,La Merced
+221,Pueblo Rico
+222,Oiba
+223,La Salina
+224,Trujillo
+225,Onzaga
+226,Palmar
+227,Santa Helena del Opón
+228,Somondoco
+229,Pueblo Nuevo
+230,Anserma
+231,Hatonuevo
+232,Elías
+233,Puerres
+234,Covarachía
+235,La Victoria
+236,Santa Bárbara
+237,Alvarado
+238,Sogamoso
+239,Piamonte
+240,Trujillo
+241,Algeciras
+242,Ciénaga
+243,Hato Corozal
+244,Cerrito
+245,Bolívar
+246,Sitionuevo
+247,El Roble
+248,Fusagasugá
+249,Solano
+250,El Cantón del San Pablo
+251,Espinal
+252,Viterbo
+253,El Rosario
+254,Campo de la Cruz
+255,Valparaíso
+256,Remolino
+257,Palmira
+258,Barranquilla
+259,Miraflores
+260,Florencia
+261,Morales
+262,Paicol
+263,Herveo
+264,Moniquirá
+265,Soplaviento
+266,Funes
+267,Villanueva
+268,Valle de San José
+269,Santa Rosalía
+270,La Vega
+271,Ráquira
+272,Chita
+273,Tuta
+274,Envigado
+275,San Pablo
+276,San José de Toluviejo
+277,Suaita
+278,Río Iró
+279,Toledo
+280,San Luis de Sincé
+281,Anzoátegui
+282,Ciénaga
+283,San Andrés de Tumaco
+284,Puerto Tejada
+285,El Retorno
+286,Los Palmitos
+287,Yacuanquer
+288,Caldas
+289,Santa Bárbara
+290,Becerril
+291,Tinjacá
+292,Rovira
+293,Mogotes
+294,Arbeláez
+295,Ubaque
+296,Palocabildo
+297,Enciso
+298,Amalfi
+299,San Agustín
+300,La Victoria
+301,Nariño
+302,Cota
+303,Guateque
+304,San Pedro de los Milagros
+305,Funza
+306,Cotorra
+307,Mogotes
+308,Guachetá
+309,Boyacá
+310,Guadalajara de Buga
+311,Pisba
+312,Santa Rosa de Cabal
+313,Garzón
+314,Vegachí
+315,San Benito
+316,Belén de Umbría
+317,El Tambo
+318,Ciénega
+319,Iza
+320,Vegachí
+321,Norosí
+322,Turbaná
+323,Peque
+324,Cubará
+325,Nobsa
+326,Barranquilla
+327,Chivatá
+328,San Andrés de Cuerquía
+329,San José del Guaviare
+330,Valledupar
+331,Planadas
+332,Consacá
+333,Guadalupe
+334,Algarrobo
+335,Onzaga
+336,San José del Palmar
+337,Los Santos
+338,Sutatausa
+339,El Colegio
+340,Palmira
+341,Mosquera
+342,San Vicente Ferrer
+343,Santa Cruz de Mompox
+344,El Águila
+345,Puebloviejo
+346,Gachalá
+347,Vergara
+348,Cocorná
+349,Saravena
+350,Piamonte
+351,Gachancipá
+352,Chaguaní
+353,Barranca de Upía
+354,Pacoa
+355,Cogua
+356,Yavaraté
+357,Cerrito
+358,Garzón
+359,Acandí
+360,Icononzo
+361,Junín
+362,Iles
+363,Ulloa
+364,Villahermosa
+365,Bolívar
+366,Cuaspud Carlosama
+367,Algarrobo
+368,Chivolo
+369,Nimaima
+370,Villa Caro
+371,Chinú
+372,Titiribí
+373,Hatonuevo
+374,Campohermoso
+375,Sucre
+376,Tuta
+377,Fosca
+378,Envigado
+379,Venecia
+380,Ansermanuevo
+381,Toro
+382,Chima
+383,Villagómez
+384,Chitaraque
+385,Armenia
+386,Viracachá
+387,Caracolí
+388,San Pablo
+389,Barranquilla
+390,Manzanares
+391,Supatá
+392,Venecia
+393,Acacías
+394,Melgar
+395,Alpujarra
+396,Miranda
+397,Ituango
+398,Chía
+399,La Chorrera
+400,La Esperanza
+401,El Bagre
+402,Cali
+403,Cartagena del Chairá
+404,Majagual
+405,San Jacinto
+406,Angelópolis
+407,Guasca
+408,Chaparral
+409,Girardot
+410,Madrid
+411,San Estanislao
+412,Medio Baudó
+413,Pedraza
+414,Medio San Juan
+415,Mercaderes
+416,Santacruz
+417,Polonuevo
+418,Río Viejo
+419,Arauquita
+420,Alcalá
+421,Soplaviento
+422,Manaure
+423,Campamento
+424,Pupiales
+425,Toca
+426,Cartagena del Chairá
+427,Dolores
+428,Purísima de la Concepción
+429,Santacruz
+430,Guavatá
+431,Tarso
+432,Amalfi
+433,San Carlos
+434,La Belleza
+435,Olaya
+436,Valparaíso
+437,Valle de San Juan
+438,Cunday
+439,Bajo Baudó
+440,Lenguazaque
+441,Dosquebradas
+442,Toro
+443,Magüí
+444,Arboleda
+445,Cartago
+446,Puerto López
+447,Contadero
+448,Villagarzón
+449,La Paz
+450,Carmen del Darién
+451,Guapi
+452,La Celia
+453,Marsella
+454,Girón
+455,Pedraza
+456,Valle de San José
+457,Morales
+458,Albán
+459,Ponedera
+460,El Doncello
+461,Sabanalarga
+462,Cacahual
+463,Belén
+464,Puerto Nariño
+465,Caparrapí
+466,La Calera
+467,Río Viejo
+468,Teorama
+469,San Jacinto
+470,Valle de San José
+471,Papunahua
+472,Boyacá
+473,San Agustín
+474,Buenavista
+475,Yondó
+476,Pore
+477,Solita
+478,Paya
+479,Úmbita
+480,San Carlos
+481,Anzoátegui
+482,Gámbita
+483,Guamal
+484,Natagaima
+485,Vegachí
+486,Floridablanca
+487,Río de Oro
+488,Tierralta
+489,Molagavita
+490,Curití
+491,Concepción
+492,Chimichagua
+493,Güicán de la Sierra
+494,Remolino
+495,Otanche
+496,Funes
+497,La Salina
+498,San Pedro
+499,Mercaderes
+500,Santa Rosa del Sur
+501,Socorro
+502,Campamento
+503,Guacarí
+504,Villa Caro
+505,Puerto Salgar
+506,Fortul
+507,Puerto Rondón
+508,El Encanto
+509,Piamonte
+510,La Unión
+511,Puerto Santander
+512,Barranca de Upía
+513,Mosquera
+514,Santa Rosa
+515,Santa Rosa de Viterbo
+516,Carepa
+517,Anzoátegui
+518,Nueva Granada
+519,Puerto Santander
+520,El Playón
+521,Florián
+522,Candelaria
+523,Jordán
+524,El Castillo
+525,Útica
+526,Nimaima
+527,Cértegui
+528,Remolino
+529,San José del Fragua
+530,Candelaria
+531,Ambalema
+532,Talaigua Nuevo
+533,Piedecuesta
+534,Mongua
+535,Padilla
+536,Ábrego
+537,Susacón
+538,Belén de Umbría
+539,Canalete
+540,El Molino
+541,Cerinza
+542,Morichal
+543,Puerto Libertador
+544,Bochalema
+545,Vegachí
+546,Hacarí
+547,Aranzazu
+548,Retiro
+549,Valledupar
+550,Aranzazu
+551,Condoto
+552,Quipile
+553,Piojó
+554,Santa Bárbara de Pinto
+555,Tangua
+556,Pinillos
+557,Susa
+558,Pauna
+559,Manatí
+560,Bojayá
+561,Ituango
+562,Leiva
+563,Briceño
+564,La Celia
+565,El Molino
+566,Guamal
+567,Yavaraté
+568,Rovira
+569,Manaure Balcón del Cesar
+570,Confines
+571,Fómeque
+572,Colombia
+573,Mercaderes
+574,Berbeo
+575,Gualmatán
+576,Roncesvalles
+577,Puerto Berrío
+578,Villarrica
+579,Norcasia
+580,Guachucal
+581,Briceño
+582,Granada
+583,Neiva
+584,Dolores
+585,Piedecuesta
+586,Contratación
+587,San Fernando
+588,Jambaló
+589,Yopal
+590,Junín
+591,Caicedo
+592,Nariño
+593,Morales
+594,Algeciras
+595,Curillo
+596,Medio San Juan
+597,Venecia
+598,Cravo Norte
+599,Almaguer
+600,Pachavita
+601,Santa Catalina
+602,Coper
+603,Villagarzón
+604,Guamal
+605,Charta
+606,Bucarasica
+607,El Santuario
+608,Liborina
+609,Santa Ana
+610,Santa Helena del Opón
+611,Providencia
+612,Salgar
+613,Puerto Santander
+614,El Rosario
+615,San Felipe
+616,Apartadó
+617,Sipí
+618,El Peñón
+619,Purificación
+620,Fúquene
+621,Santa Catalina
+622,Bolívar
+623,Villa de San Diego de Ubaté
+624,Villanueva
+625,San Mateo
+626,Facatativá
+627,Pandi
+628,Duitama
+629,California
+630,San Cristóbal
+631,San Cayetano
+632,Bojacá
+633,El Peñón
+634,Villagarzón
+635,Yarumal
+636,Sasaima
+637,Corinto
+638,Ciénega
+639,Chíquiza
+640,San Eduardo
+641,Cajibío
+642,San Martín de Loba
+643,Campo de la Cruz
+644,El Bagre
+645,Valle de San José
+646,Usiacurí
+647,Santo Domingo
+648,Corrales
+649,Albania
+650,Tibaná
+651,Concepción
+652,Chita
+653,Orocué
+654,Barrancominas
+655,La Florida
+656,Gachetá
+657,Rionegro
+658,Silos
+659,Supatá
+660,Tocancipá
+661,Santa Rosa de Cabal
+662,Puerto Nare
+663,Suesca
+664,Togüí
+665,Yaguará
+666,San Miguel de Sema
+667,El Playón
+668,Purísima de la Concepción
+669,La Cumbre
+670,Marquetalia
+671,Villapinzón
+672,Consacá
+673,Mapiripán
+674,Paya
+675,Sandoná
+676,Toledo
+677,Puerto Wilches
+678,Sabanas de San Ángel
+679,Pradera
+680,Distracción
+681,San Bernardo del Viento
+682,Junín
+683,Yolombó
+684,Vergara
+685,Manta
+686,Orito
+687,Guacamayas
+688,Sabanalarga
+689,Chimichagua
+690,Puerto Triunfo
+691,Zaragoza
+692,Remolino
+693,Sativanorte
+694,Río Viejo
+695,Taminango
+696,Santa Rosa de Cabal
+697,Campo de la Cruz
+698,Jericó
+699,Turbaná
+700,Concepción
+701,Santander de Quilichao
+702,Nueva Granada
+703,Nátaga
+704,La Uvita
+705,Riosucio
+706,Remolino
+707,San Sebastián de Buenavista
+708,Pereira
+709,Istmina
+710,El Peñol
+711,Manizales
+712,Buenaventura
+713,Agrado
+714,Panqueba
+715,Santa Rosa
+716,Hato Corozal
+717,Cepitá
+718,Monguí
+719,Granada
+720,Nocaima
+721,Neiva
+722,Villamaría
+723,San Miguel
+724,Albania
+725,Gachantivá
+726,Pupiales
+727,Gámeza
+728,Génova
+729,Cuítiva
+730,Barbosa
+731,Cómbita
+732,Quipile
+733,La Chorrera
+734,Montecristo
+735,Santa Isabel
+736,Sopetrán
+737,Supatá
+738,San Jerónimo
+739,Río Iró
+740,Puerres
+741,Contadero
+742,Ortega
+743,Paya
+744,Murillo
+745,Contratación
+746,Envigado
+747,Valle del Guamuez
+748,Puerto Salgar
+749,Puerto Colombia
+750,Calamar
+751,San Diego
+752,Suesca
+753,Timaná
+754,Herrán
+755,La Tola
+756,Medio Atrato
+757,Campamento
+758,Calarcá
+759,Icononzo
+760,Ipiales
+761,Pasca
+762,Lourdes
+763,Guadalupe
+764,Guamal
+765,Providencia
+766,Frontino
+767,Maicao
+768,Tona
+769,Luruaco
+770,El Carmen de Viboral
+771,Toribío
+772,Concordia
+773,Supía
+774,La Capilla
+775,San Jacinto
+776,Palestina
+777,Carmen de Carupa
+778,Tinjacá
+779,La Unión
+780,Puerto Boyacá
+781,El Piñón
+782,San Benito
+783,Caramanta
+784,Pijiño del Carmen
+785,Victoria
+786,Cotorra
+787,Guasca
+788,Francisco Pizarro
+789,Carolina
+790,Chía
+791,Puerto Triunfo
+792,Bosconia
+793,La Vega
+794,Medio San Juan
+795,Guatapé
+796,San Vicente del Caguán
+797,Los Córdobas
+798,Chitagá
+799,Olaya
+800,Santa María
+801,Santo Domingo
+802,Guamo
+803,Cañasgordas
+804,Istmina
+805,Andalucía
+806,Tierralta
+807,Bosconia
+808,Medina
+809,San Pedro de Cartago
+810,Cáceres
+811,Chámeza
+812,Nueva Granada
+813,Toribío
+814,Encino
+815,Santiago de Tolú
+816,San Gil
+817,Santa Helena del Opón
+818,Santa Rosa del Sur
+819,Ancuya
+820,Altos del Rosario
+821,El Banco
+822,Guacarí
+823,Fundación
+824,Balboa
+825,Envigado
+826,San Cayetano
+827,Cepitá
+828,Encino
+829,Piendamó - Tunía
+830,Montería
+831,La Virginia
+832,Zaragoza
+833,Cañasgordas
+834,Montebello
+835,Arenal
+836,Tamalameque
+837,Zapayán
+838,Villagarzón
+839,Santa Rosa de Viterbo
+840,La Merced
+841,Caloto
+842,Tunja
+843,Montelíbano
+844,Pitalito
+845,Pinillos
+846,Yumbo
+847,Simacota
+848,Villa del Rosario
+849,Ayapel
+850,Betéitiva
+851,Plato
+852,Caicedonia
+853,Villavicencio
+854,Ayapel
+855,Uribia
+856,Sapuyes
+857,Tibasosa
+858,El Carmen de Viboral
+859,Puerto Rico
+860,Arcabuco
+861,Villagarzón
+862,Cañasgordas
+863,Paime
+864,Caldono
+865,Angostura
+866,Pasto
+867,Jericó
+868,Boyacá
+869,Charalá
+870,Guachetá
+871,Bojayá
+872,San Miguel
+873,Bugalagrande
+874,San Sebastián de Buenavista
+875,El Doncello
+876,Duitama
+877,Chiquinquirá
+878,Caramanta
+879,Granada
+880,Manzanares
+881,Puracé
+882,Cajamarca
+883,Piedecuesta
+884,El Charco
+885,Paz de Río
+886,Melgar
+887,Sabanalarga
+888,Ráquira
+889,Nariño
+890,La Chorrera
+891,Junín
+892,Hispania
+893,Ventaquemada
+894,La Pedrera
+895,El Tambo
+896,San Marcos
+897,Aipe
+898,Puerto Boyacá
+899,Guachetá
+900,Soracá
+901,Morelia
+902,Solano
+903,Hatonuevo
+904,Floresta
+905,Providencia
+906,Pueblo Rico
+907,Chiscas
+908,Acevedo
+909,Contratación
+910,Páez
+911,San José de Uré
+912,Nunchía
+913,La Vega
+914,Fundación
+915,Santa Rosa de Osos
+916,Cuaspud Carlosama
+917,Balboa
+918,Mocoa
+919,Bajo Baudó
+920,Santa Rosa
+921,Zambrano
+922,Nobsa
+923,Nechí
+924,Guasca
+925,Vetas
+926,La Mesa
+927,Puente Nacional
+928,La Esperanza
+929,Candelaria
+930,Pupiales
+931,Yalí
+932,Páramo
+933,Norcasia
+934,San Juan de Urabá
+935,Santa María
+936,San Luis de Sincé
+937,Oicatá
+938,El Peñón
+939,Zona Bananera
+940,Galán
+941,Jenesano
+942,San Miguel
+943,San Sebastián
+944,Pelaya
+945,Cacahual
+946,Montería
+947,San Juanito
+948,El Zulia
+949,Chíquiza
+950,Valledupar
+951,Bosconia
+952,Calima
+953,Motavita
+954,Pore
+955,Puerto Wilches
+956,Tamalameque
+957,Sonsón
+958,Sucre
+959,Soledad
+960,Inírida
+961,San Felipe
+962,Jamundí
+963,San Miguel
+964,Cali
+965,Villanueva
+966,Villavieja
+967,Floresta
+968,Restrepo
+969,Retiro
+970,Achí
+971,Nocaima
+972,Becerril
+973,El Molino
+974,Sesquilé
+975,Toca
+976,Pauna
+977,Murillo
+978,Pueblo Rico
+979,Gualmatán
+980,Floridablanca
+981,Zaragoza
+982,Tasco
+983,Algeciras
+984,Confines
+985,Mosquera
+986,San Calixto
+987,Pandi
+988,Villeta
+989,El Carmen de Atrato
+990,Sáchica
+991,Chinú
+992,Turbaco
+993,Argelia
+994,Convención
+995,Recetor
+996,Jambaló
+997,Ansermanuevo
+998,Cerinza
+999,San Juanito
+1000,Guatapé
+1001,Socha
+1002,Bolívar
+1003,Santa Lucía
+1004,Sandoná
+1005,Fosca
+1006,Cabrera
+1007,San Francisco
+1008,Ataco
+1009,California
+1010,Guaca
+1011,Suan
+1012,San Agustín
+1013,Jordán
+1014,Campamento
+1015,Carcasí
+1016,Jambaló
+1017,Guadalupe
+1018,Toro
+1019,Rioblanco
+1020,Belén de Umbría
+1021,Uramita
+1022,Espinal
+1023,Roldanillo
+1024,Cubará
+1025,Murindó
+1026,Guatapé
+1027,Los Palmitos
+1028,Cáchira
+1029,San Joaquín
+1030,Guatapé
+1031,Palmito
+1032,El Cerrito
+1033,Colón
+1034,Colombia
+1035,Samaniego
+1036,Trinidad
+1037,Aranzazu
+1038,Ituango
+1039,El Playón
+1040,Baraya
+1041,El Retén
+1042,Regidor
+1043,Rovira
+1044,San Juan del Cesar
+1045,Sáchica
+1046,Anzoátegui
+1047,Anserma
+1048,La Paz
+1049,Güicán de la Sierra
+1050,San José de Toluviejo
+1051,Guaduas
+1052,Acacías
+1053,Buenos Aires
+1054,Pamplonita
+1055,Tununguá
+1056,Gamarra
+1057,San José del Guaviare
+1058,Sabana de Torres
+1059,Bucarasica
+1060,Segovia
+1061,Aratoca
+1062,Bojacá
+1063,La Mesa
+1064,Icononzo
+1065,Medellín
+1066,Cocorná
+1067,Lérida
+1068,Cotorra
+1069,Sácama
+1070,Iza
+1071,Necoclí
+1072,El Bagre
+1073,Villanueva
+1074,Ubalá
+1075,Rionegro
+1076,Puerto Asís
+1077,La Mesa
+1078,El Cerrito
+1079,Caldas
+1080,Machetá
+1081,San Pedro de Urabá
+1082,Salamina
+1083,Murindó
+1084,Corinto
+1085,El Peñón
+1086,Tota
+1087,Granada
+1088,Agrado
+1089,Caucasia
+1090,Juradó
+1091,Providencia
+1092,El Paso
+1093,Ginebra
+1094,Puerto Wilches
+1095,Villahermosa
+1096,Guacamayas
+1097,Anapoima
+1098,Sotará Paispamba
+1099,Salento
+1100,Rovira
+1101,Gámbita
+1102,Alto Baudó
+1103,Santa Cruz de Mompox
+1104,Covarachía
+1105,San Fernando
+1106,Morelia
+1107,Topaipí
+1108,Quimbaya
+1109,Chivolo
+1110,Teruel
+1111,Bahía Solano
+1112,Cajamarca
+1113,Purísima de la Concepción
+1114,San Joaquín
+1115,Armero
+1116,Timbiquí
+1117,Tuchín
+1118,Génova
+1119,Santa Fé de Antioquia
+1120,Soplaviento
+1121,Manta
+1122,Alvarado
+1123,Chimichagua
+1124,Imués
+1125,Imués
+1126,El Dorado
+1127,Providencia
+1128,Santa Rosalía
+1129,Rosas
+1130,Convención
+1131,Santa Rosa de Osos
+1132,Hacarí
+1133,Río Viejo
+1134,Puerto Santander
+1135,Miraflores
+1136,El Peñón
+1137,Orocué
+1138,El Copey
+1139,San Andrés
+1140,Madrid
+1141,Tuchín
+1142,Aguadas
+1143,Guatavita
+1144,Málaga
+1145,Junín
+1146,Mitú
+1147,Betania
+1148,Guamo
+1149,La Estrella
+1150,Florencia
+1151,Montecristo
+1152,Restrepo
+1153,Los Patios
+1154,Ciénaga de Oro
+1155,San Jacinto
+1156,Jenesano
+1157,San Luis de Palenque
+1158,Caparrapí
+1159,Mistrató
+1160,Palmito
+1161,Ventaquemada
+1162,Agustín Codazzi
+1163,Marquetalia
+1164,Arenal
+1165,Tópaga
+1166,Natagaima
+1167,Soledad
+1168,Cajicá
+1169,Becerril
+1170,Guasca
+1171,Mutatá
+1172,Angelópolis
+1173,Vélez
+1174,Barbacoas
+1175,El Cairo
+1176,Distracción
+1177,Fredonia
+1178,Susa
+1179,Donmatías
+1180,Valparaíso
+1181,Unión Panamericana
+1182,Filandia
+1183,Envigado
+1184,Supatá
+1185,El Playón
+1186,Suárez
+1187,Chivor
+1188,Candelaria
+1189,Maicao
+1190,Argelia
+1191,La Florida
+1192,Medio Baudó
+1193,Briceño
+1194,Clemencia
+1195,Chaparral
+1196,Villa del Rosario
+1197,Sucre
+1198,Fonseca
+1199,La Vega
+1200,San José
+1201,Mesetas
+1202,Tarso
+1203,Viotá
+1204,Capitanejo
+1205,San José de Toluviejo
+1206,Concordia
+1207,Almaguer
+1208,Bello
+1209,Tipacoque
+1210,Tarqui
+1211,Clemencia
+1212,Los Palmitos
+1213,Chipatá
+1214,La Tebaida
+1215,Solano
+1216,Lourdes
+1217,Támara
+1218,Nunchía
+1219,Pelaya
+1220,Samacá
+1221,Guatapé
+1222,Amagá
+1223,Durania
+1224,Aquitania
+1225,Malambo
+1226,Encino
+1227,Caimito
+1228,Barranquilla
+1229,Tocancipá
+1230,Yacuanquer
+1231,Dolores
+1232,Togüí
+1233,Manaure Balcón del Cesar
+1234,Salazar
+1235,Villa del Rosario
+1236,Támesis
+1237,Paratebueno
+1238,Gutiérrez
+1239,San Martín
+1240,San Cayetano
+1241,San Luis de Sincé
+1242,Zipacón
+1243,Cumbal
+1244,Guachetá
+1245,Guacarí
+1246,Piendamó - Tunía
+1247,Zona Bananera
+1248,Puerto Lleras
+1249,Barranco de Loba
+1250,Cumaral
+1251,Consacá
+1252,Aquitania
+1253,Remedios
+1254,Cacahual
+1255,Sitionuevo
+1256,San Bernardo
+1257,Ipiales
+1258,Planeta Rica
+1259,San Juan de Arama
+1260,Cota
+1261,Montenegro
+1262,Tenjo
+1263,Sevilla
+1264,San Andrés de Cuerquía
+1265,Río Quito
+1266,Guarne
+1267,Guataquí
+1268,San José del Fragua
+1269,Medio Baudó
+1270,Cartago
+1271,Buenavista
+1272,La Uvita
+1273,Yumbo
+1274,Vijes
+1275,Fusagasugá
+1276,Guataquí
+1277,Labranzagrande
+1278,La Apartada
+1279,Arenal
+1280,Lorica
+1281,Segovia
+1282,Pamplonita
+1283,Capitanejo
+1284,Villamaría
+1285,Planeta Rica
+1286,Santa Isabel
+1287,El Carmen
+1288,Puerto Tejada
+1289,Los Palmitos
+1290,Concepción
+1291,Bucarasica
+1292,San Antonio del Tequendama
+1293,Ramiriquí
+1294,Bugalagrande
+1295,Tibacuy
+1296,Gualmatán
+1297,Pachavita
+1298,Pereira
+1299,Tota
+1300,El Piñón
+1301,Tubará
+1302,Orito
+1303,Jordán
+1304,Palmar
+1305,Samaniego
+1306,Sibundoy
+1307,Duitama
+1308,Alejandría
+1309,El Carmen de Bolívar
+1310,Quibdó
+1311,Tocancipá
+1312,Quípama
+1313,Ábrego
+1314,Guataquí
+1315,Nocaima
+1316,Rioblanco
+1317,Paratebueno
+1318,Barranco de Loba
+1319,La Florida
+1320,La Cumbre
+1321,Sitionuevo
+1322,Mosquera
+1323,Río de Oro
+1324,Alejandría
+1325,Cerinza
+1326,Trinidad
+1327,Donmatías
+1328,Molagavita
+1329,Guasca
+1330,Marulanda
+1331,Valledupar
+1332,El Guacamayo
+1333,San Pedro de los Milagros
+1334,Güicán de la Sierra
+1335,Sabana de Torres
+1336,Cumbitara
+1337,Yotoco
+1338,Chinú
+1339,Juan de Acosta
+1340,Córdoba
+1341,Chitagá
+1342,Marulanda
+1343,Villagarzón
+1344,Tauramena
+1345,La Macarena
+1346,La Unión
+1347,Piendamó - Tunía
+1348,Sácama
+1349,Villa de San Diego de Ubaté
+1350,Manta
+1351,Armero
+1352,La Guadalupe
+1353,Pitalito
+1354,Cácota
+1355,Taraira
+1356,Hispania
+1357,Vegachí
+1358,Pensilvania
+1359,Barrancas
+1360,San Carlos
+1361,San Bernardo
+1362,San José
+1363,Villagómez
+1364,Victoria
+1365,El Paso
+1366,Otanche
+1367,Matanza
+1368,Chaparral
+1369,Mutatá
+1370,Paratebueno
+1371,Puerto Arica
+1372,Granada
+1373,Tununguá
+1374,Bagadó
+1375,Falan
+1376,Agua de Dios
+1377,Tenjo
+1378,López de Micay
+1379,Gamarra
+1380,Santiago
+1381,Puerto Nariño
+1382,Panqueba
+1383,Sabana de Torres
+1384,Suesca
+1385,Pasca
+1386,Turmequé
+1387,El Carmen de Viboral
+1388,Los Patios
+1389,Guatavita
+1390,Ubalá
+1391,Yalí
+1392,Pácora
+1393,Roldanillo
+1394,San Juan Nepomuceno
+1395,Santa Catalina
+1396,Lorica
+1397,Usiacurí
+1398,Abejorral
+1399,Charta
+1400,Puerto Gaitán
+1401,La Victoria
+1402,Puerto Salgar
+1403,Yaguará
+1404,Yavaraté
+1405,San Luis de Sincé
+1406,Puerto Caicedo
+1407,Marsella
+1408,Chinú
+1409,Útica
+1410,La Merced
+1411,La Ceja
+1412,Valle de San José
+1413,Urumita
+1414,Murindó
+1415,Río de Oro
+1416,Papunahua
+1417,San Martín
+1418,Usiacurí
+1419,Hatonuevo
+1420,Marsella
+1421,Carmen de Apicalá
+1422,El Retorno
+1423,Bochalema
+1424,Saboyá
+1425,Teruel
+1426,Santa María
+1427,Pueblorrico
+1428,El Litoral del San Juan
+1429,Marmato
+1430,Simacota
+1431,Sonsón
+1432,Pácora
+1433,San Zenón
+1434,Turbaco
+1435,Madrid
+1436,Yacopí
+1437,Buenavista
+1438,Páez
+1439,Angostura
+1440,Chinú
+1441,Viterbo
+1442,Santa María
+1443,Machetá
+1444,Buriticá
+1445,Puerto Triunfo
+1446,Turbo
+1447,Pauna
+1448,Totoró
+1449,Ocaña
+1450,Puracé
+1451,Dolores
+1452,El Litoral del San Juan
+1453,El Playón
+1454,Villavieja
+1455,Pore
+1456,Campo de la Cruz
+1457,Tabio
+1458,Guadalupe
+1459,Pesca
+1460,Bucaramanga
+1461,Planeta Rica
+1462,Puerto Salgar
+1463,Cácota
+1464,Santa Bárbara
+1465,San Pablo de Borbur
+1466,Montebello
+1467,Dabeiba
+1468,Flandes
+1469,Puebloviejo
+1470,Tabio
+1471,Istmina
+1472,San Vicente Ferrer
+1473,Puerto Colombia
+1474,Risaralda
+1475,San Gil
+1476,San Martín de Loba
+1477,Pinchote
+1478,Lenguazaque
+1479,Apartadó
+1480,Sotaquirá
+1481,Iza
+1482,Abejorral
+1483,Barrancominas
+1484,El Rosario
+1485,Yaguará
+1486,La Montañita
+1487,Ariguaní
+1488,Chinú
+1489,Santander de Quilichao
+1490,Chachagüí
+1491,Betulia
+1492,Purificación
+1493,Rionegro
+1494,San José
+1495,Santa Rosa del Sur
+1496,Socha
+1497,Vijes
+1498,San Diego
+1499,Gamarra
+1500,Amagá
+1501,Pacoa
+1502,Boavita
+1503,Rivera
+1504,Pelaya
+1505,Guadalajara de Buga
+1506,Buenos Aires
+1507,Caldas
+1508,Cabrera
+1509,Barrancas
+1510,Río Quito
+1511,Sabanas de San Ángel
+1512,Tibaná
+1513,Totoró
+1514,Palestina
+1515,Coveñas
+1516,Bosconia
+1517,El Peñón
+1518,Socha
+1519,Pailitas
+1520,Agrado
+1521,San Lorenzo
+1522,San Martín
+1523,Granada
+1524,Roberto Payán
+1525,Santa María
+1526,Guavatá
+1527,Piamonte
+1528,La Pedrera
+1529,Chipatá
+1530,San Vicente Ferrer
+1531,Palermo
+1532,La Dorada
+1533,Chitagá
+1534,Pijiño del Carmen
+1535,Jenesano
+1536,Yopal
+1537,San Antonio del Tequendama
+1538,Manta
+1539,Villanueva
+1540,Puerto Libertador
+1541,Corinto
+1542,Beltrán
+1543,Pueblo Rico
+1544,Girón
+1545,Toro
+1546,Pueblo Bello
+1547,Florencia
+1548,San Carlos
+1549,La Chorrera
+1550,San Carlos
+1551,Corinto
+1552,Santa Ana
+1553,Turmequé
+1554,Simijaca
+1555,Gama
+1556,Medina
+1557,Socotá
+1558,Concordia
+1559,Villagarzón
+1560,Aguada
+1561,Yolombó
+1562,Simacota
+1563,Hatonuevo
+1564,Santa Marta
+1565,Mistrató
+1566,Aracataca
+1567,San Felipe
+1568,Guamal
+1569,Morales
+1570,Pachavita
+1571,Cubará
+1572,Ubalá
+1573,Nueva Granada
+1574,Buenavista
+1575,El Carmen de Chucurí
+1576,El Bagre
+1577,Villanueva
+1578,La Gloria
+1579,Pijiño del Carmen
+1580,La Capilla
+1581,Morichal
+1582,Riosucio
+1583,Valle de San Juan
+1584,Pueblorrico
+1585,Alvarado
+1586,Tibacuy
+1587,Valencia
+1588,Guataquí
+1589,Cerinza
+1590,La Vega
+1591,San Vicente del Caguán
+1592,Maceo
+1593,Sativanorte
+1594,Ancuya
+1595,Villagómez
+1596,Santa Sofía
+1597,Tunja
+1598,San José del Guaviare
+1599,Guadalupe
+1600,Sáchica
+1601,Belmira
+1602,Belén
+1603,Plato
+1604,Yacopí
+1605,San Zenón
+1606,Icononzo
+1607,Puerto Lleras
+1608,Uribe
+1609,San José del Guaviare
+1610,Mistrató
+1611,Ancuya
+1612,La Victoria
+1613,Pailitas
+1614,Restrepo
+1615,Achí
+1616,Páramo
+1617,Zambrano
+1618,Toledo
+1619,Soatá
+1620,La Capilla
+1621,Salento
+1622,San Jerónimo
+1623,Coyaima
+1624,Subachoque
+1625,Firavitoba
+1626,Piedecuesta
+1627,Piamonte
+1628,Valparaíso
+1629,La Argentina
+1630,Santa Rosalía
+1631,Gachancipá
+1632,Ciénaga de Oro
+1633,Inírida
+1634,Bituima
+1635,Sincelejo
+1636,Chimichagua
+1637,Curití
+1638,Roncesvalles
+1639,Pueblo Bello
+1640,Puerto Arica
+1641,Cañasgordas
+1642,Uramita
+1643,Caicedo
+1644,Contadero
+1645,Santa Catalina
+1646,Aranzazu
+1647,Sutatausa
+1648,El Paso
+1649,Policarpa
+1650,Génova
+1651,Gámbita
+1652,Maripí
+1653,San Vicente Ferrer
+1654,San Alberto
+1655,Restrepo
+1656,Nocaima
+1657,Betania
+1658,Soplaviento
+1659,Anolaima
+1660,Santa Isabel
+1661,El Encanto
+1662,Tesalia
+1663,Paz de Río
+1664,Tunja
+1665,Unguía
+1666,Altos del Rosario
+1667,Puerto Guzmán
+1668,Ebéjico
+1669,Socha
+1670,Saboyá
+1671,Túquerres
+1672,Paratebueno
+1673,Santacruz
+1674,Sativanorte
+1675,La Tola
+1676,Chocontá
+1677,Yacopí
+1678,Socorro
+1679,Tierralta
+1680,Corinto
+1681,San Miguel de Sema
+1682,Cómbita
+1683,Nilo
+1684,La Pedrera
+1685,Rioblanco
+1686,Ebéjico
+1687,Retiro
+1688,Dibulla
+1689,Medellín
+1690,Rovira
+1691,Honda
+1692,Valencia
+1693,Guadalupe
+1694,Carolina
+1695,Curití
+1696,Salamina
+1697,San Juan de Arama
+1698,Cáceres
+1699,Girón
+1700,Milán
+1701,Togüí
+1702,San Miguel de Sema
+1703,Mocoa
+1704,San Antonio del Tequendama
+1705,Almeida
+1706,Acacías
+1707,Palmar
+1708,Villa del Rosario
+1709,Manzanares
+1710,Sora
+1711,Puerto Nariño
+1712,Chinchiná
+1713,Acacías
+1714,Ospina
+1715,Francisco Pizarro
+1716,Ciénaga de Oro
+1717,La Unión
+1718,Togüí
+1719,Tabio
+1720,Concordia
+1721,Timaná
+1722,San Martín
+1723,La Guadalupe
+1724,Becerril
+1725,Girardota
+1726,Buenavista
+1727,Heliconia
+1728,Zarzal
+1729,Pacoa
+1730,Giraldo
+1731,Tenza
+1732,Mosquera
+1733,Anapoima
+1734,Sucre
+1735,Silvia
+1736,Aldana
+1737,Santa Rosa de Viterbo
+1738,Villarrica
+1739,El Roble
+1740,Gramalote
+1741,Viracachá
+1742,Lebrija
+1743,Piendamó - Tunía
+1744,Barranco de Loba
+1745,Amalfi
+1746,Ansermanuevo
+1747,Vianí
+1748,Maní
+1749,San Andrés de Tumaco
+1750,Morales
+1751,Aguada
+1752,Santa Lucía
+1753,Inzá
+1754,Puerto Nare
+1755,Sabanagrande
+1756,Mahates
+1757,Cáqueza
+1758,Lenguazaque
+1759,Dosquebradas
+1760,Ricaurte
+1761,Socorro
+1762,Guarne
+1763,La Ceja
+1764,Fresno
+1765,Acacías
+1766,Girardota
+1767,San Martín
+1768,Purificación
+1769,Cubará
+1770,Lérida
+1771,Balboa
+1772,El Bagre
+1773,Amalfi
+1774,Santa Lucía
+1775,Úmbita
+1776,Nátaga
+1777,Simití
+1778,Margarita
+1779,Natagaima
+1780,Carmen de Carupa
+1781,La Pintada
+1782,Vetas
+1783,Bolívar
+1784,Campoalegre
+1785,Suaza
+1786,Ipiales
+1787,Cisneros
+1788,Herveo
+1789,Inírida
+1790,Villa del Rosario
+1791,Ciudad Bolívar
+1792,Necoclí
+1793,Suan
+1794,El Carmen de Atrato
+1795,Melgar
+1796,Soplaviento
+1797,Río Iró
+1798,El Cocuy
+1799,Caldono
+1800,Sincelejo
+1801,Prado
+1802,Molagavita
+1803,Paime
+1804,Sucre
+1805,Alpujarra
+1806,Enciso
+1807,Río Iró
+1808,Teorama
+1809,Pore
+1810,Samaná
+1811,Samacá
+1812,Villa de San Diego de Ubaté
+1813,Rionegro
+1814,Barbosa
+1815,El Guacamayo
+1816,Medio San Juan
+1817,Risaralda
+1818,San Andrés
+1819,Piojó
+1820,Chocontá
+1821,Pajarito
+1822,Murillo
+1823,Angostura
+1824,Linares
+1825,Gigante
+1826,Córdoba
+1827,La Esperanza
+1828,Cereté
+1829,San Pedro de Cartago
+1830,Icononzo
+1831,San Benito Abad
+1832,Durania
+1833,Cáqueza
+1834,Urumita
+1835,Betulia
+1836,Olaya
+1837,Guasca
+1838,Gómez Plata
+1839,El Retén
+1840,La Mesa
+1841,Chiscas
+1842,Gachalá
+1843,Riofrío
+1844,Galapa
+1845,Tesalia
+1846,San Pablo
+1847,Montecristo
+1848,Aipe
+1849,Planadas
+1850,Monterrey
+1851,Achí
+1852,Nobsa
+1853,Baraya
+1854,Timbiquí
+1855,Pitalito
+1856,Coromoro
+1857,Girón
+1858,Villa Rica
+1859,La Calera
+1860,Caramanta
+1861,Puerto Concordia
+1862,El Carmen
+1863,Olaya
+1864,Socotá
+1865,Los Santos
+1866,Ospina
+1867,Puerto Wilches
+1868,Puerto Santander
+1869,San Roque
+1870,San Sebastián
+1871,La Unión
+1872,Pailitas
+1873,Chaparral
+1874,Castilla la Nueva
+1875,Concepción
+1876,Río de Oro
+1877,Betéitiva
+1878,Mosquera
+1879,Chivatá
+1880,Pachavita
+1881,Puerto Nare
+1882,Fúquene
+1883,Alcalá
+1884,San Andrés
+1885,Briceño
+1886,Puerto Concordia
+1887,La Cruz
+1888,Contratación
+1889,Fundación
+1890,Miranda
+1891,Zipacón
+1892,Acandí
+1893,Bolívar
+1894,Balboa
+1895,Sampués
+1896,Cocorná
+1897,Chinchiná
+1898,Yondó
+1899,Retiro
+1900,Supatá
+1901,Sesquilé
+1902,Salento
+1903,Roberto Payán
+1904,Barranca de Upía
+1905,Francisco Pizarro
+1906,Valle del Guamuez
+1907,Chima
+1908,Toribío
+1909,Fuente de Oro
+1910,Maicao
+1911,Ulloa
+1912,Santa María
+1913,Ciénega
+1914,Briceño
+1915,Andalucía
+1916,Silos
+1917,Hatonuevo
+1918,Yavaraté
+1919,Suárez
+1920,Saravena
+1921,Galapa
+1922,Carolina
+1923,Albania
+1924,Sotaquirá
+1925,Siachoque
+1926,San Vicente Ferrer
+1927,Puerto Concordia
+1928,El Cantón del San Pablo
+1929,Giraldo
+1930,Ospina
+1931,El Litoral del San Juan
+1932,Cáchira
+1933,San José de la Montaña
+1934,Potosí
+1935,Soatá
+1936,Sabaneta
+1937,Tasco
+1938,Purificación
+1939,Cucunubá
+1940,Jambaló
+1941,Pauna
+1942,Santa Rosa de Osos
+1943,Dolores
+1944,San Luis
+1945,Castilla la Nueva
+1946,Sotaquirá
+1947,Villamaría
+1948,Puerto Escondido
+1949,Guatavita
+1950,Vistahermosa
+1951,Cota
+1952,Cuaspud Carlosama
+1953,Mapiripán
+1954,Acandí
+1955,Tenerife
+1956,Tinjacá
+1957,Manzanares
+1958,Victoria
+1959,Berbeo
+1960,San Luis
+1961,Potosí
+1962,Cucutilla
+1963,Rosas
+1964,Pital
+1965,San Pedro de los Milagros
+1966,Túquerres
+1967,Villavieja
+1968,El Zulia
+1969,La Tola
+1970,Jambaló
+1971,Chocontá
+1972,Barrancabermeja
+1973,Fómeque
+1974,Alpujarra
+1975,El Zulia
+1976,Toro
+1977,Albania
+1978,Salazar
+1979,Nariño
+1980,San Vicente de Chucurí
+1981,Floresta
+1982,Chiscas
+1983,Condoto
+1984,La Paz
+1985,La Celia
+1986,Buenos Aires
+1987,Siachoque
+1988,Entrerríos
+1989,Oporapa
+1990,Une
+1991,Cabuyaro
+1992,El Retorno
+1993,Obando
+1994,Cáchira
+1995,Anapoima
+1996,Chinácota
+1997,Silvania
+1998,Guasca
+1999,Granada
+2000,Villamaría
+2001,Marmato
+2002,Soledad
+2003,Saldaña
+2004,Pensilvania
+2005,Sesquilé
+2006,San Carlos de Guaroa
+2007,Íquira
+2008,Medio Atrato
+2009,Cota
+2010,San Luis
+2011,Valencia
+2012,La Vega
+2013,Alcalá
+2014,Somondoco
+2015,Sopó
+2016,El Paso
+2017,Salazar
+2018,Gramalote
+2019,Confines
+2020,Sabanalarga
+2021,Santa Bárbara
+2022,Valle del Guamuez
+2023,Puerto Nariño
+2024,Chinchiná
+2025,Moñitos
+2026,La Pedrera
+2027,Coromoro
+2028,Gutiérrez
+2029,Socha
+2030,Ulloa
+2031,Socorro
+2032,Valparaíso
+2033,San José de la Montaña
+2034,Chimichagua
+2035,Bucarasica
+2036,Zambrano
+2037,Tununguá
+2038,Zambrano
+2039,Mitú
+2040,La Plata
+2041,Palermo
+2042,Puerto Boyacá
+2043,Piedras
+2044,Zarzal
+2045,Valle del Guamuez
+2046,La Argentina
+2047,Campo de la Cruz
+2048,Zarzal
+2049,Mutatá
+2050,Valle de San José
+2051,San Juan de Urabá
+2052,Guatapé
+2053,Pana Pana
+2054,Lérida
+2055,Santa Fé de Antioquia
+2056,Mocoa
+2057,Sopetrán
+2058,Villapinzón
+2059,Panqueba
+2060,Buenavista
+2061,Villavicencio
+2062,Macaravita
+2063,Pinchote
+2064,Carmen del Darién
+2065,La Sierra
+2066,Ipiales
+2067,Sincelejo
+2068,Bello
+2069,Sasaima
+2070,Agrado
+2071,Pitalito
+2072,San Andrés de Sotavento
+2073,Cértegui
+2074,Mutatá
+2075,Tutazá
+2076,San Antonio del Tequendama
+2077,Villanueva
+2078,La Pintada
+2079,Chipatá
+2080,Bochalema
+2081,Quípama
+2082,Carolina
+2083,Villanueva
+2084,Chita
+2085,Bugalagrande
+2086,Beltrán
+2087,San José de Uré
+2088,Floresta
+2089,Colón
+2090,Puerto Concordia
+2091,Chinchiná
+2092,Ramiriquí
+2093,Girardot
+2094,Santa Marta
+2095,El Peñón
+2096,Amagá
+2097,Arauca
+2098,Unión Panamericana
+2099,Aguadas
+2100,Vianí
+2101,Villapinzón
+2102,San Francisco
+2103,Francisco Pizarro
+2104,San José de Pare
+2105,Mogotes
+2106,Murillo
+2107,Norcasia
+2108,Albán
+2109,Togüí
+2110,San Bernardo
+2111,Cáqueza
+2112,Chinú
+2113,San Roque
+2114,Ciénaga de Oro
+2115,Istmina
+2116,Gama
+2117,Dabeiba
+2118,Planeta Rica
+2119,Ovejas
+2120,Teruel
+2121,San Zenón
+2122,Inzá
+2123,Villa Rica
+2124,Guacarí
+2125,Cubará
+2126,Caracolí
+2127,Caicedo
+2128,La Primavera
+2129,Dabeiba
+2130,Envigado
+2131,Arboletes
+2132,Sopó
+2133,Cabrera
+2134,Cereté
+2135,La Mesa
+2136,Risaralda
+2137,Andalucía
+2138,Circasia
+2139,Soacha
+2140,Puerto Concordia
+2141,Chiquinquirá
+2142,Providencia
+2143,Patía
+2144,Sopetrán
+2145,Cimitarra
+2146,Pinillos
+2147,Francisco Pizarro
+2148,Tabio
+2149,San Juan del Cesar
+2150,San Pedro
+2151,Santa Rosa del Sur
+2152,Vijes
+2153,El Peñón
+2154,San Roque
+2155,Cácota
+2156,Zetaquira
+2157,Valle de San Juan
+2158,Gómez Plata
+2159,Uramita
+2160,Providencia
+2161,Floridablanca
+2162,El Tambo
+2163,Granada
+2164,Corinto
+2165,Apía
+2166,Baranoa
+2167,Quipile
+2168,Toro
+2169,Riohacha
+2170,Aratoca
+2171,Tauramena
+2172,Arcabuco
+2173,Candelaria
+2174,Dolores
+2175,El Dorado
+2176,Andalucía
+2177,San Andrés
+2178,Taminango
+2179,Cicuco
+2180,Pensilvania
+2181,Cómbita
+2182,Viterbo
+2183,Murillo
+2184,Betania
+2185,Agustín Codazzi
+2186,Cértegui
+2187,Carmen de Apicalá
+2188,Campohermoso
+2189,El Zulia
+2190,Corozal
+2191,Tona
+2192,Pasto
+2193,Taminango
+2194,Arboleda
+2195,Retiro
+2196,Gramalote
+2197,Bolívar
+2198,Suárez
+2199,Florián
+2200,Maní
+2201,Belén de Umbría
+2202,El Peñón
+2203,Puracé
+2204,Briceño
+2205,Riosucio
+2206,Iles
+2207,Ocaña
+2208,Valle de San José
+2209,Encino
+2210,Buenavista
+2211,Bolívar
+2212,Ituango
+2213,Manaure
+2214,La Tebaida
+2215,Cogua
+2216,Manatí
+2217,Polonuevo
+2218,La Merced
+2219,Medellín
+2220,El Charco
+2221,Cerro de San Antonio
+2222,El Tarra
+2223,La Mesa
+2224,Obando
+2225,Bolívar
+2226,Altamira
+2227,Remedios
+2228,Tabio
+2229,Potosí
+2230,Tinjacá
+2231,El Cantón del San Pablo
+2232,Mutiscua
+2233,Chaparral
+2234,Ariguaní
+2235,San José del Fragua
+2236,Cumbal
+2237,El Banco
+2238,Cumaribo
+2239,Acandí
+2240,Colón
+2241,Morales
+2242,San Joaquín
+2243,Marquetalia
+2244,Valle de San Juan
+2245,Magangué
+2246,Astrea
+2247,Chitagá
+2248,Sutamarchán
+2249,San Antero
+2250,San Pablo
+2251,María la Baja
+2252,Funza
+2253,Villa Caro
+2254,Maceo
+2255,Majagual
+2256,Villanueva
+2257,Puerto Santander
+2258,Piedecuesta
+2259,Villahermosa
+2260,Campohermoso
+2261,San Vicente del Caguán
+2262,Puerto Parra
+2263,Puente Nacional
+2264,Jericó
+2265,Chalán
+2266,Córdoba
+2267,Miraflores
+2268,Tello
+2269,Norosí
+2270,Génova
+2271,Puerto Lleras
+2272,Alcalá
+2273,El Charco
+2274,La Jagua del Pilar
+2275,Guadalupe
+2276,Riofrío
+2277,San Luis de Palenque
+2278,Santa Rosa
+2279,Mosquera
+2280,Salamina
+2281,Líbano
+2282,Salento
+2283,Chiquinquirá
+2284,Palestina
+2285,Valencia
+2286,San Pedro de Urabá
+2287,Uramita
+2288,La Apartada
+2289,San José de Toluviejo
+2290,Bosconia
+2291,San Bernardo del Viento
+2292,Palmira
+2293,Popayán
+2294,Teruel
+2295,Santa Bárbara
+2296,Guadalupe
+2297,Úmbita
+2298,Bajo Baudó
+2299,Santiago
+2300,Obando
+2301,Guachetá
+2302,Guamal
+2303,Pore
+2304,Yaguará
+2305,Durania
+2306,El Cocuy
+2307,Juan de Acosta
+2308,San Luis de Gaceno
+2309,Aldana
+2310,Almeida
+2311,Miraflores
+2312,Motavita
+2313,San Antonio del Tequendama
+2314,San Pedro de los Milagros
+2315,Cácota
+2316,Baraya
+2317,Timbío
+2318,Palmas del Socorro
+2319,Belén de Umbría
+2320,Supía
+2321,Suan
+2322,Olaya
+2323,Guachetá
+2324,Inzá
+2325,Unión Panamericana
+2326,Santa Cruz de Mompox
+2327,Garagoa
+2328,Ansermanuevo
+2329,San José de Miranda
+2330,El Calvario
+2331,Mosquera
+2332,Rionegro
+2333,Miraflores
+2334,Caimito
+2335,Támara
+2336,San José de Cúcuta
+2337,Espinal
+2338,Ortega
+2339,Ospina
+2340,San Jacinto del Cauca
+2341,Puerto López
+2342,Arcabuco
+2343,Colombia
+2344,Bugalagrande
+2345,Beltrán
+2346,San Luis
+2347,Palmar
+2348,Herveo
+2349,Bagadó
+2350,Santa Bárbara
+2351,San Luis de Palenque
+2352,Solano
+2353,Puerto Triunfo
+2354,Sibundoy
+2355,San Benito Abad
+2356,Río Viejo
+2357,Aguada
+2358,Puerto Carreño
+2359,Topaipí
+2360,Popayán
+2361,Chivor
+2362,Cabuyaro
+2363,Piedras
+2364,San José del Fragua
+2365,Restrepo
+2366,Magangué
+2367,Honda
+2368,Amagá
+2369,Anolaima
+2370,Sabanalarga
+2371,Lérida
+2372,Iles
+2373,La Macarena
+2374,Oiba
+2375,Tibasosa
+2376,Santo Tomás
+2377,Vélez
+2378,Villa Rica
+2379,Támara
+2380,San Cayetano
+2381,Ortega
+2382,Pacho
+2383,Norosí
+2384,Popayán
+2385,San Sebastián de Mariquita
+2386,Ricaurte
+2387,Puerto Escondido
+2388,Moniquirá
+2389,Argelia
+2390,Guaitarilla
+2391,La Unión
+2392,Sopetrán
+2393,Bituima
+2394,Guaduas
+2395,California
+2396,Bucaramanga
+2397,San Carlos de Guaroa
+2398,Muzo
+2399,La Pedrera
+2400,Bolívar
+2401,La Jagua de Ibirico
+2402,Anorí
+2403,Puracé
+2404,Santa Rosa de Viterbo
+2405,Sutatenza
+2406,Anzá
+2407,La Unión
+2408,Palmar
+2409,Abejorral
+2410,Bolívar
+2411,Pradera
+2412,Cucutilla
+2413,Moñitos
+2414,Villanueva
+2415,El Dovio
+2416,Altos del Rosario
+2417,La Cruz
+2418,San Benito Abad
+2419,Giraldo
+2420,Palmira
+2421,Campamento
+2422,El Zulia
+2423,Calarcá
+2424,Jericó
+2425,Río Quito
+2426,Ataco
+2427,Dagua
+2428,San Juan de Arama
+2429,San Vicente Ferrer
+2430,El Piñón
+2431,Inírida
+2432,Santa Rosa
+2433,Santa Rosa de Cabal
+2434,Santa Rosa de Viterbo
+2435,Sutatausa
+2436,Labranzagrande
+2437,Villavicencio
+2438,Zambrano
+2439,La Playa
+2440,San Francisco
+2441,Pereira
+2442,Puebloviejo
+2443,Sonsón
+2444,Jericó
+2445,San Jerónimo
+2446,Usiacurí
+2447,Calima
+2448,Santo Tomás
+2449,Busbanzá
+2450,Tocaima
+2451,Cajamarca
+2452,Albania
+2453,Chinchiná
+2454,María la Baja
+2455,Suaza
+2456,Obando
+2457,Arauquita
+2458,Palmira
+2459,San Cayetano
+2460,Acandí
+2461,Córdoba
+2462,Paz de Ariporo
+2463,Mocoa
+2464,Frontino
+2465,Nóvita
+2466,La Gloria
+2467,Subachoque
+2468,Beltrán
+2469,Pore
+2470,Riohacha
+2471,Sotaquirá
+2472,Mesetas
+2473,Belén
+2474,Sabanalarga
+2475,Gómez Plata
+2476,San Pedro de Urabá
+2477,Santander de Quilichao
+2478,Puerto Asís
+2479,El Tambo
+2480,Filandia
+2481,Puerto Triunfo
+2482,Íquira
+2483,Suan
+2484,San Martín
+2485,San Bernardo del Viento
+2486,Nueva Granada
+2487,Lérida
+2488,San Carlos
+2489,Río Quito
+2490,Sevilla
+2491,Santiago
+2492,La Unión
+2493,Cuítiva
+2494,Santa Rosa de Osos
+2495,La Primavera
+2496,Moniquirá
+2497,La Merced
+2498,Altos del Rosario
+2499,Santa Sofía
+2500,Los Andes
+2501,Fundación
+2502,Riosucio
+2503,San Carlos de Guaroa
+2504,Yavaraté
+2505,Chaparral
+2506,Ventaquemada
+2507,Tausa
+2508,López de Micay
+2509,Betéitiva
+2510,Pamplona
+2511,Útica
+2512,Angelópolis
+2513,Chipatá
+2514,Sahagún
+2515,Contratación
+2516,Puerto Parra
+2517,Santacruz
+2518,El Dovio
+2519,Murindó
+2520,Guamal
+2521,Labateca
+2522,Tibasosa
+2523,Junín
+2524,San Miguel
+2525,Montecristo
+2526,Los Palmitos
+2527,Toro
+2528,Tununguá
+2529,Hatonuevo
+2530,Palermo
+2531,Sotaquirá
+2532,Suaza
+2533,Simacota
+2534,Tarso
+2535,Santa Bárbara de Pinto
+2536,Fresno
+2537,Peñol
+2538,Chita
+2539,El Carmen de Atrato
+2540,Palestina
+2541,Albania
+2542,Yacuanquer
+2543,San Bernardo
+2544,Fómeque
+2545,Suesca
+2546,San Pedro
+2547,San Luis
+2548,Toledo
+2549,Tona
+2550,Firavitoba
+2551,Duitama
+2552,Molagavita
+2553,Planeta Rica
+2554,El Carmen de Viboral
+2555,Timbío
+2556,Tutazá
+2557,Junín
+2558,Gutiérrez
+2559,Marquetalia
+2560,Medio Atrato
+2561,Peque
+2562,Purificación
+2563,El Carmen de Atrato
+2564,Girón
+2565,Aldana
+2566,Cotorra
+2567,Vistahermosa
+2568,Barbacoas
+2569,Chiscas
+2570,San Joaquín
+2571,Hatillo de Loba
+2572,Ariguaní
+2573,Sabana de Torres
+2574,Hispania
+2575,Valparaíso
+2576,Puracé
+2577,Roncesvalles
+2578,San Pablo de Borbur
+2579,Medina
+2580,Rondón
+2581,Chiriguaná
+2582,Chaparral
+2583,Ibagué
+2584,Concordia
+2585,Pailitas
+2586,Simacota
+2587,Villanueva
+2588,Fúquene
+2589,Salamina
+2590,Yopal
+2591,Supía
+2592,Palmira
+2593,Remolino
+2594,Tota
+2595,Sabanagrande
+2596,Garzón
+2597,Facatativá
+2598,San Luis de Palenque
+2599,La Ceja
+2600,Buenavista
+2601,Coromoro
+2602,Caucasia
+2603,Guayatá
+2604,San José de Cúcuta
+2605,Medina
+2606,Calamar
+2607,La Mesa
+2608,Barranquilla
+2609,Macaravita
+2610,Cartago
+2611,Turbo
+2612,San Pedro de Cartago
+2613,Ibagué
+2614,Montebello
+2615,Garzón
+2616,Medina
+2617,Armenia
+2618,Barrancominas
+2619,Paicol
+2620,Zetaquira
+2621,Santa Sofía
+2622,Sutatausa
+2623,Villa Caro
+2624,Fredonia
+2625,El Peñón
+2626,Santa Bárbara
+2627,Tausa
+2628,Villanueva
+2629,Fundación
+2630,Sipí
+2631,Chita
+2632,Manizales
+2633,Vistahermosa
+2634,Carolina
+2635,Suárez
+2636,Montebello
+2637,Colombia
+2638,San Andrés
+2639,Sincelejo
+2640,San Calixto
+2641,Ragonvalia
+2642,Acevedo
+2643,La Victoria
+2644,Agrado
+2645,Puerto Guzmán
+2646,Tasco
+2647,San Luis de Sincé
+2648,Puerto Rondón
+2649,Riohacha
+2650,Marquetalia
+2651,Salazar
+2652,Santa Sofía
+2653,Manaure
+2654,San Pablo
+2655,Algarrobo
+2656,Mocoa
+2657,Puerto Parra
+2658,San Andrés
+2659,Pachavita
+2660,Soacha
+2661,Granada
+2662,Sabana de Torres
+2663,Santa Bárbara de Pinto
+2664,La Cruz
+2665,Fresno
+2666,San Estanislao
+2667,San Vicente de Chucurí
+2668,Sabanalarga
+2669,Ebéjico
+2670,San Sebastián de Buenavista
+2671,Colón
+2672,Florida
+2673,Achí
+2674,Miranda
+2675,Chivatá
+2676,Pueblo Rico
+2677,Chiriguaná
+2678,Yumbo
+2679,Campoalegre
+2680,Uramita
+2681,Chimichagua
+2682,Tibaná
+2683,El Piñón
+2684,Puerto Rondón
+2685,El Charco
+2686,Jericó
+2687,Leiva
+2688,Santa María
+2689,Armenia
+2690,Medio San Juan
+2691,Villavieja
+2692,Páez
+2693,Río Quito
+2694,Recetor
+2695,Magüí
+2696,Vijes
+2697,Rionegro
+2698,Sesquilé
+2699,Caimito
+2700,Padilla
+2701,San Luis
+2702,Risaralda
+2703,Bucarasica
+2704,Alejandría
+2705,Yaguará
+2706,Cañasgordas
+2707,Villarrica
+2708,Mahates
+2709,Hato
+2710,San Miguel
+2711,Barrancominas
+2712,Boyacá
+2713,Guachené
+2714,Totoró
+2715,Sucre
+2716,Jamundí
+2717,Achí
+2718,Papunahua
+2719,Retiro
+2720,San José de Miranda
+2721,Río Viejo
+2722,Inzá
+2723,Herrán
+2724,Tununguá
+2725,Peñol
+2726,Sabanagrande
+2727,Arenal
+2728,Florida
+2729,Oporapa
+2730,La Palma
+2731,San Zenón
+2732,Belalcázar
+2733,Cabrera
+2734,Arroyohondo
+2735,Dosquebradas
+2736,Bucaramanga
+2737,Guapotá
+2738,Aranzazu
+2739,Pachavita
+2740,Encino
+2741,Tunja
+2742,Concordia
+2743,Granada
+2744,Circasia
+2745,San José de Cúcuta
+2746,Capitanejo
+2747,Chiriguaná
+2748,Victoria
+2749,El Cocuy
+2750,Chía
+2751,Quetame
+2752,Cucaita
+2753,Páez
+2754,Arenal
+2755,Bucarasica
+2756,Zapayán
+2757,Tutazá
+2758,Granada
+2759,Falan
+2760,Sahagún
+2761,Piedras
+2762,Sucre
+2763,Puerto Colombia
+2764,Galán
+2765,Mitú
+2766,Tamalameque
+2767,Yalí
+2768,El Molino
+2769,Timbiquí
+2770,Samaná
+2771,Cacahual
+2772,Bagadó
+2773,San José de Toluviejo
+2774,Morroa
+2775,Circasia
+2776,La Capilla
+2777,Nariño
+2778,Guamal
+2779,Restrepo
+2780,Ponedera
+2781,Los Patios
+2782,Chalán
+2783,Urrao
+2784,Mongua
+2785,Contratación
+2786,Líbano
+2787,Agrado
+2788,Zona Bananera
+2789,Cucutilla
+2790,Santa Marta
+2791,Guacarí
+2792,Gutiérrez
+2793,Herveo
+2794,Belén
+2795,Monterrey
+2796,Villanueva
+2797,San Pablo de Borbur
+2798,Chía
+2799,Soplaviento
+2800,Plato
+2801,Maripí
+2802,Calarcá
+2803,Cabrera
+2804,Aracataca
+2805,Agustín Codazzi
+2806,Sucre
+2807,Durania
+2808,Otanche
+2809,Suárez
+2810,Tamalameque
+2811,Choachí
+2812,Villarrica
+2813,Armenia
+2814,Puente Nacional
+2815,Timbiquí
+2816,La Unión
+2817,Güepsa
+2818,Sabanalarga
+2819,Bagadó
+2820,Albán
+2821,Chitaraque
+2822,Ginebra
+2823,Sutamarchán
+2824,Gámbita
+2825,Altos del Rosario
+2826,El Cantón del San Pablo
+2827,Ubalá
+2828,Duitama
+2829,Jenesano
+2830,Salazar
+2831,Dagua
+2832,San Andrés de Sotavento
+2833,Santa Cruz de Mompox
+2834,Apartadó
+2835,Cali
+2836,Pital
+2837,Puerto Rico
+2838,Páez
+2839,Páez
+2840,Granada
+2841,Solita
+2842,Charta
+2843,Ramiriquí
+2844,Fusagasugá
+2845,Valencia
+2846,El Molino
+2847,Paz de Río
+2848,Socotá
+2849,Tutazá
+2850,Yalí
+2851,La Pintada
+2852,Villavieja
+2853,Copacabana
+2854,Aldana
+2855,Gámbita
+2856,Palestina
+2857,Yavaraté
+2858,Mesetas
+2859,Pacoa
+2860,Coello
+2861,Chocontá
+2862,Los Córdobas
+2863,La Tebaida
+2864,Guayatá
+2865,El Encanto
+2866,Carcasí
+2867,La Palma
+2868,Gigante
+2869,Páramo
+2870,Nilo
+2871,Contratación
+2872,Riofrío
+2873,Cisneros
+2874,Roberto Payán
+2875,La Macarena
+2876,Durania
+2877,San Francisco
+2878,Cotorra
+2879,Barranquilla
+2880,Ovejas
+2881,Purificación
+2882,Pinillos
+2883,Gámeza
+2884,Hispania
+2885,Albán
+2886,Yacopí
+2887,Tena
+2888,Santa Cruz de Mompox
+2889,Albania
+2890,San Juan de Arama
+2891,San José de Uré
+2892,Lebrija
+2893,Chaparral
+2894,Durania
+2895,Maripí
+2896,Gigante
+2897,Río Iró
+2898,Pinchote
+2899,Cubará
+2900,El Peñol
+2901,Morales
+2902,Tópaga
+2903,Ovejas
+2904,Soracá
+2905,Villagómez
+2906,Socotá
+2907,Angelópolis
+2908,Susa
+2909,Santa Bárbara
+2910,Paime
+2911,Guataquí
+2912,Falan
+2913,Ortega
+2914,Yolombó
+2915,Santo Domingo
+2916,Filandia
+2917,Gachalá
+2918,La Unión
+2919,San Andrés
+2920,Jesús María
+2921,Cartago
+2922,Guatavita
+2923,Córdoba
+2924,Covarachía
+2925,Guática
+2926,Puerto Escondido
+2927,San Roque
+2928,Sesquilé
+2929,González
+2930,La Celia
+2931,Tona
+2932,Nátaga
+2933,El Cocuy
+2934,Sonsón
+2935,Albán
+2936,El Cairo
+2937,Suaza
+2938,Sabanalarga
+2939,Jambaló
+2940,Caparrapí
+2941,Nuquí
+2942,San Luis de Palenque
+2943,Mapiripán
+2944,Salamina
+2945,Puerto Santander
+2946,San Antonio
+2947,Tutazá
+2948,Los Palmitos
+2949,Ventaquemada
+2950,Duitama
+2951,Tuluá
+2952,La Apartada
+2953,Guavatá
+2954,Montebello
+2955,Cómbita
+2956,Pijiño del Carmen
+2957,La Paz
+2958,Providencia
+2959,El Colegio
+2960,Tibasosa
+2961,Ragonvalia
+2962,Puerto Rico
+2963,Viterbo
+2964,Suaza
+2965,El Bagre
+2966,Toribío
+2967,Alejandría
+2968,Tuluá
+2969,Santa Cruz de Mompox
+2970,La Macarena
+2971,Río de Oro
+2972,Albania
+2973,Villavicencio
+2974,Suárez
+2975,Montenegro
+2976,Timaná
+2977,Puerres
+2978,San Calixto
+2979,Pacoa
+2980,Mogotes
+2981,Guaca
+2982,Dolores
+2983,Chinavita
+2984,Sasaima
+2985,Chía
+2986,Piedecuesta
+2987,Puerto Libertador
+2988,Chigorodó
+2989,Cajibío
+2990,Puerto Colombia
+2991,Murindó
+2992,Topaipí
+2993,Ricaurte
+2994,Argelia
+2995,Caldas
+2996,Tello
+2997,Uramita
+2998,Chinácota
+2999,Suesca
+3000,Bojayá
+3001,Rionegro
+3002,Pasto
+3003,Puebloviejo
+3004,Villahermosa
+3005,Lebrija
+3006,Turbaco
+3007,Prado
+3008,Tibú
+3009,La Vega
+3010,Remedios
+3011,San Roque
+3012,El Águila
+3013,Puerto Santander
+3014,Pasca
+3015,Isnos
+3016,San Sebastián de Mariquita
+3017,Santa Rosa
+3018,Ábrego
+3019,Santa Ana
+3020,Tuta
+3021,Silvania
+3022,Betéitiva
+3023,Murillo
+3024,Chitagá
+3025,El Peñón
+3026,Nariño
+3027,Guapotá
+3028,San José de Cúcuta
+3029,Barranca de Upía
+3030,Confines
+3031,Cumbal
+3032,San Miguel
+3033,Calarcá
+3034,Uribe
+3035,Contratación
+3036,Bahía Solano
+3037,Los Córdobas
+3038,Caldono
+3039,Turbaná
+3040,"Bogotá, D.C."
+3041,Marquetalia
+3042,Toledo
+3043,Montenegro
+3044,Condoto
+3045,Purificación
+3046,Gigante
+3047,Sitionuevo
+3048,El Paujíl
+3049,Liborina
+3050,La Pintada
+3051,Betania
+3052,Güepsa
+3053,El Encanto
+3054,San Martín
+3055,Nuevo Colón
+3056,Tibasosa
+3057,Toca
+3058,Buriticá
+3059,Sucre
+3060,Obando
+3061,El Tambo
+3062,Pijao
+3063,Piamonte
+3064,Villa de Leyva
+3065,Soracá
+3066,Sibundoy
+3067,Anorí
+3068,La Pintada
+3069,San Benito Abad
+3070,Aguada
+3071,Nóvita
+3072,Nuquí
+3073,Guataquí
+3074,Guacamayas
+3075,Caldas
+3076,Policarpa
+3077,Amagá
+3078,Córdoba
+3079,Durania
+3080,Miranda
+3081,Soacha
+3082,Pradera
+3083,El Colegio
+3084,Pailitas
+3085,Junín
+3086,Galán
+3087,Concordia
+3088,Tópaga
+3089,Almaguer
+3090,Alejandría
+3091,Caramanta
+3092,Arenal
+3093,Manaure Balcón del Cesar
+3094,La Victoria
+3095,Santa Fé de Antioquia
+3096,Villavicencio
+3097,Florián
+3098,Zipacón
+3099,Suaita
+3100,Busbanzá
+3101,Ocamonte
+3102,Macaravita
+3103,Aguachica
+3104,Oporapa
+3105,Inírida
+3106,Málaga
+3107,Cumbal
+3108,Zipacón
+3109,Guadalupe
+3110,Arenal
+3111,Saravena
+3112,Soledad
+3113,Somondoco
+3114,El Águila
+3115,Olaya
+3116,Ventaquemada
+3117,Melgar
+3118,Uribe
+3119,Uramita
+3120,Roldanillo
+3121,Samaná
+3122,Honda
+3123,Río Viejo
+3124,El Rosal
+3125,California
+3126,Morelia
+3127,Natagaima
+3128,Pijao
+3129,Hato
+3130,Bagadó
+3131,Mosquera
+3132,Teorama
+3133,Villeta
+3134,Peñol
+3135,Tona
+3136,Yarumal
+3137,El Tablón de Gómez
+3138,Tarapacá
+3139,Viracachá
+3140,Barranco de Loba
+3141,Salento
+3142,Jesús María
+3143,Cáchira
+3144,Cali
+3145,La Paz
+3146,Polonuevo
+3147,Restrepo
+3148,La Apartada
+3149,Clemencia
+3150,Boavita
+3151,Tausa
+3152,Bojayá
+3153,Saboyá
+3154,Tubará
+3155,Ituango
+3156,Galán
+3157,Tenerife
+3158,Rondón
+3159,Tasco
+3160,Jambaló
+3161,Santander de Quilichao
+3162,San Vicente Ferrer
+3163,Caucasia
+3164,Guaduas
+3165,San Pedro
+3166,El Peñón
+3167,Segovia
+3168,Onzaga
+3169,Rivera
+3170,Acandí
+3171,Coello
+3172,Villeta
+3173,Uribia
+3174,Facatativá
+3175,San Juan del Cesar
+3176,Cañasgordas
+3177,Pailitas
+3178,San Juan Nepomuceno
+3179,Turbaná
+3180,Puerto Santander
+3181,San Jacinto del Cauca
+3182,El Santuario
+3183,Belén
+3184,Los Palmitos
+3185,Margarita
+3186,Neiva
+3187,Duitama
+3188,Villanueva
+3189,Pivijay
+3190,La Tebaida
+3191,Soracá
+3192,San Roque
+3193,Chinácota
+3194,Aguazul
+3195,Montecristo
+3196,Nilo
+3197,Balboa
+3198,Bochalema
+3199,Cerinza
+3200,Coello
+3201,El Playón
+3202,El Piñón
+3203,San Gil
+3204,Aguachica
+3205,Andes
+3206,Unión Panamericana
+3207,Cotorra
+3208,Planadas
+3209,Gámbita
+3210,Tibacuy
+3211,San Sebastián de Mariquita
+3212,Saldaña
+3213,Caramanta
+3214,Gamarra
+3215,San Roque
+3216,Palmar de Varela
+3217,Chivolo
+3218,Chivatá
+3219,Palmira
+3220,Girardot
+3221,San Miguel de Sema
+3222,Abejorral
+3223,Santa Lucía
+3224,Santiago
+3225,La Virginia
+3226,La Chorrera
+3227,Abejorral
+3228,Colón
+3229,Amagá
+3230,Puerto Carreño
+3231,Riosucio
+3232,Atrato
+3233,Yavaraté
+3234,Villa Rica
+3235,Caldono
+3236,Charta
+3237,Une
+3238,Santa Sofía
+3239,Pupiales
+3240,La Victoria
+3241,Morroa
+3242,Consacá
+3243,Belalcázar
+3244,Túquerres
+3245,Salamina
+3246,Miranda
+3247,San Luis de Palenque
+3248,Concordia
+3249,Durania
+3250,Filadelfia
+3251,Montenegro
+3252,El Dovio
+3253,Vigía del Fuerte
+3254,Yaguará
+3255,San Gil
+3256,San Vicente del Caguán
+3257,Cabrera
+3258,Ovejas
+3259,Galeras
+3260,Motavita
+3261,San José de Uré
+3262,El Espino
+3263,Cumbitara
+3264,San Pedro
+3265,Gámbita
+3266,Puerto Escondido
+3267,Panqueba
+3268,Santa Rosa de Viterbo
+3269,Timbiquí
+3270,Barichara
+3271,Ataco
+3272,Tona
+3273,Venecia
+3274,Sotará Paispamba
+3275,Colón
+3276,Sabanas de San Ángel
+3277,Filandia
+3278,Charalá
+3279,Taraira
+3280,Uramita
+3281,Pamplona
+3282,Miraflores
+3283,Pandi
+3284,La Victoria
+3285,Alpujarra
+3286,San Martín
+3287,El Espino
+3288,Montecristo
+3289,Santiago
+3290,Cumbal
+3291,Albania
+3292,Guarne
+3293,San Vicente Ferrer
+3294,Cáqueza
+3295,San José de Cúcuta
+3296,San Bernardo del Viento
+3297,Villa de Leyva
+3298,Roberto Payán
+3299,Vegachí
+3300,Copacabana
+3301,Manaure Balcón del Cesar
+3302,Riosucio
+3303,Otanche
+3304,Los Córdobas
+3305,Florida
+3306,El Copey
+3307,Usiacurí
+3308,San José del Palmar
+3309,San José de Miranda
+3310,El Peñón
+3311,Coper
+3312,Cuítiva
+3313,Chivor
+3314,Útica
+3315,San Luis de Gaceno
+3316,Yalí
+3317,Chitagá
+3318,Palocabildo
+3319,Socha
+3320,Hatillo de Loba
+3321,Belalcázar
+3322,San Diego
+3323,La Cumbre
+3324,Chimá
+3325,Magangué
+3326,Coello
+3327,Puerto Caicedo
+3328,Tena
+3329,Santacruz
+3330,Fortul
+3331,Belmira
+3332,Briceño
+3333,Guatavita
+3334,Lérida
+3335,Nuquí
+3336,Coveñas
+3337,Mocoa
+3338,Aratoca
+3339,Guapi
+3340,Mercaderes
+3341,Gachantivá
+3342,Tuchín
+3343,Nechí
+3344,Miranda
+3345,Ginebra
+3346,Trinidad
+3347,Marinilla
+3348,Belalcázar
+3349,Falan
+3350,Madrid
+3351,El Tarra
+3352,Rionegro
+3353,Maicao
+3354,Girón
+3355,Oiba
+3356,Los Palmitos
+3357,El Guamo
+3358,María la Baja
+3359,San Andrés de Sotavento
+3360,San Eduardo
+3361,Villanueva
+3362,Fortul
+3363,Tabio
+3364,Salamina
+3365,Leiva
+3366,Dabeiba
+3367,Sativanorte
+3368,Quetame
+3369,El Banco
+3370,Sabana de Torres
+3371,Yavaraté
+3372,Mitú
+3373,Villarrica
+3374,Morales
+3375,Choachí
+3376,San Antero
+3377,San Rafael
+3378,Astrea
+3379,Buenavista
+3380,Trujillo
+3381,Risaralda
+3382,Nechí
+3383,Tibirita
+3384,Güicán de la Sierra
+3385,La Uvita
+3386,La Jagua del Pilar
+3387,Pedraza
+3388,Aratoca
+3389,Restrepo
+3390,Dolores
+3391,Chinú
+3392,San José del Palmar
+3393,Providencia
+3394,Lorica
+3395,Medio Baudó
+3396,San Sebastián de Mariquita
+3397,Achí
+3398,El Paso
+3399,San Luis de Palenque
+3400,Andalucía
+3401,Candelaria
+3402,Páramo
+3403,Palmar
+3404,Valle de San Juan
+3405,Madrid
+3406,Sotaquirá
+3407,Toca
+3408,Cumbitara
+3409,Sipí
+3410,Riosucio
+3411,La Florida
+3412,Puerto Arica
+3413,Espinal
+3414,Suratá
+3415,Envigado
+3416,El Roble
+3417,Villarrica
+3418,Sipí
+3419,Achí
+3420,Murillo
+3421,Zapayán
+3422,Paime
+3423,Sativasur
+3424,Sutamarchán
+3425,Iles
+3426,Cepitá
+3427,Inzá
+3428,Urrao
+3429,La Montañita
+3430,Guamal
+3431,Río Quito
+3432,Caldas
+3433,Rondón
+3434,San Cayetano
+3435,La Macarena
+3436,Bucarasica
+3437,Bahía Solano
+3438,Puerto Escondido
+3439,Turbo
+3440,Jenesano
+3441,Córdoba
+3442,El Roble
+3443,Andes
+3444,Pauna
+3445,Girardota
+3446,Garzón
+3447,Guaitarilla
+3448,Cartagena del Chairá
+3449,Funza
+3450,Nimaima
+3451,Pueblo Bello
+3452,Lorica
+3453,San Rafael
+3454,Landázuri
+3455,San Agustín
+3456,Vegachí
+3457,Tununguá
+3458,Restrepo
+3459,Cértegui
+3460,Caucasia
+3461,Guadalupe
+3462,Valle del Guamuez
+3463,San Roque
+3464,Tununguá
+3465,Vélez
+3466,Susacón
+3467,Cumaral
+3468,La Vega
+3469,Labateca
+3470,San Francisco
+3471,Cuítiva
+3472,Sopó
+3473,Puerto Asís
+3474,Santander de Quilichao
+3475,Ricaurte
+3476,San Luis
+3477,Togüí
+3478,San Benito
+3479,Cácota
+3480,Puerto Caicedo
+3481,Marquetalia
+3482,Mirití - Paraná
+3483,Linares
+3484,Medellín
+3485,El Carmen de Bolívar
+3486,Santa Rosa del Sur
+3487,Galapa
+3488,Ansermanuevo
+3489,Cumbitara
+3490,Coyaima
+3491,Yondó
+3492,San Bernardo del Viento
+3493,Algarrobo
+3494,Pachavita
+3495,San Onofre
+3496,Nariño
+3497,Guamo
+3498,Guacarí
+3499,Zambrano
+3500,Coveñas
+3501,Jerusalén
+3502,Granada
+3503,Córdoba
+3504,Vijes
+3505,Turmequé
+3506,La Apartada
+3507,Arcabuco
+3508,Los Santos
+3509,Sabanalarga
+3510,La Guadalupe
+3511,Cumaral
+3512,Pital
+3513,Zarzal
+3514,Tibú
+3515,Guamo
+3516,San Pedro
+3517,Samaniego
+3518,San Vicente del Caguán
+3519,San Jacinto del Cauca
+3520,Montería
+3521,Tununguá
+3522,Zambrano
+3523,Morichal
+3524,Leticia
+3525,El Guamo
+3526,Barranquilla
+3527,Barbosa
+3528,Chimichagua
+3529,Zambrano
+3530,Barranquilla
+3531,Linares
+3532,Barrancabermeja
+3533,San Andrés
+3534,Togüí
+3535,Santa Helena del Opón
+3536,Palestina
+3537,Tame
+3538,Medio San Juan
+3539,Apía
+3540,Apartadó
+3541,Santo Tomás
+3542,Tutazá
+3543,Gachalá
+3544,Guadalupe
+3545,Pisba
+3546,Achí
+3547,Barbacoas
+3548,Belén de los Andaquíes
+3549,Buenavista
+3550,Sativanorte
+3551,Garagoa
+3552,San Pedro de Urabá
+3553,Santiago
+3554,Socotá
+3555,Salamina
+3556,Gutiérrez
+3557,Chalán
+3558,Toro
+3559,Paz de Ariporo
+3560,Manta
+3561,Santa Rosalía
+3562,Chipaque
+3563,Fonseca
+3564,Fredonia
+3565,Marsella
+3566,Suárez
+3567,Puerto Colombia
+3568,Guadalajara de Buga
+3569,Machetá
+3570,Fusagasugá
+3571,Ibagué
+3572,Tununguá
+3573,El Águila
+3574,Tenjo
+3575,Salazar
+3576,San Alberto
+3577,Suaita
+3578,Curití
+3579,Cacahual
+3580,Belmira
+3581,Zipaquirá
+3582,La Vega
+3583,Charta
+3584,Hato Corozal
+3585,Yalí
+3586,Abejorral
+3587,Chaparral
+3588,Villa del Rosario
+3589,Suaita
+3590,Viracachá
+3591,Manaure
+3592,Puerto Asís
+3593,Quetame
+3594,Buenos Aires
+3595,Astrea
+3596,Chinchiná
+3597,El Playón
+3598,San Pelayo
+3599,Quípama
+3600,Sibaté
+3601,Ayapel
+3602,Montería
+3603,Zapatoca
+3604,Túquerres
+3605,Ospina
+3606,Turmequé
+3607,Hatillo de Loba
+3608,Cerro de San Antonio
+3609,Ubaque
+3610,San Antero
+3611,Cajamarca
+3612,Sapuyes
+3613,Astrea
+3614,Maceo
+3615,Colón
+3616,El Piñón
+3617,Betulia
+3618,Necoclí
+3619,Marsella
+3620,Nariño
+3621,Puerto Guzmán
+3622,Pueblo Nuevo
+3623,San Lorenzo
+3624,La Calera
+3625,Taminango
+3626,Yaguará
+3627,Honda
+3628,Donmatías
+3629,Albania
+3630,San Andrés de Cuerquía
+3631,Paime
+3632,Villagómez
+3633,Chiquinquirá
+3634,Íquira
+3635,Isnos
+3636,Belmira
+3637,Fonseca
+3638,Moniquirá
+3639,Trujillo
+3640,Guadalupe
+3641,Tarapacá
+3642,Herveo
+3643,Tópaga
+3644,Cotorra
+3645,Carmen de Carupa
+3646,Cáceres
+3647,Guapi
+3648,Útica
+3649,Bosconia
+3650,Aguachica
+3651,Une
+3652,Barranquilla
+3653,Carurú
+3654,El Roble
+3655,Chalán
+3656,Montecristo
+3657,Cómbita
+3658,Condoto
+3659,La Plata
+3660,El Carmen de Chucurí
+3661,Turbaco
+3662,Villagómez
+3663,El Santuario
+3664,Puerto Santander
+3665,Funes
+3666,Cachipay
+3667,San Cayetano
+3668,Albania
+3669,Fortul
+3670,Gigante
+3671,Norcasia
+3672,Floresta
+3673,Ramiriquí
+3674,Yacuanquer
+3675,Sampués
+3676,Mitú
+3677,Nechí
+3678,Salgar
+3679,Gigante
+3680,San Luis
+3681,Ancuya
+3682,Caramanta
+3683,El Rosal
+3684,Morichal
+3685,Barichara
+3686,San Vicente Ferrer
+3687,San Carlos
+3688,Norcasia
+3689,Juradó
+3690,Palermo
+3691,Morales
+3692,San Andrés de Cuerquía
+3693,Rondón
+3694,Togüí
+3695,Barbacoas
+3696,Puracé
+3697,Atrato
+3698,Villanueva
+3699,Ramiriquí
+3700,Tuta
+3701,Villahermosa
+3702,Calarcá
+3703,Arauca
+3704,Concordia
+3705,Santacruz
+3706,Une
+3707,San Roque
+3708,Frontino
+3709,La Victoria
+3710,Pandi
+3711,Guateque
+3712,Urumita
+3713,Riofrío
+3714,El Banco
+3715,Aguazul
+3716,Cota
+3717,Zapatoca
+3718,San Alberto
+3719,Charalá
+3720,Amagá
+3721,Cartagena de Indias
+3722,Albania
+3723,Mesetas
+3724,Bojacá
+3725,Albán
+3726,San Bernardo del Viento
+3727,Samacá
+3728,Planeta Rica
+3729,Toca
+3730,San Felipe
+3731,Medio Atrato
+3732,San José de Uré
+3733,Caimito
+3734,Cota
+3735,Firavitoba
+3736,Palmar de Varela
+3737,Tona
+3738,Briceño
+3739,Olaya Herrera
+3740,Úmbita
+3741,Rondón
+3742,Necoclí
+3743,Santiago de Tolú
+3744,Sesquilé
+3745,El Cantón del San Pablo
+3746,La Florida
+3747,San Sebastián de Buenavista
+3748,San Pedro de los Milagros
+3749,Armenia
+3750,San Pablo
+3751,Pereira
+3752,Ayapel
+3753,Paz de Río
+3754,Albán
+3755,El Carmen
+3756,Cabrera
+3757,El Charco
+3758,Elías
+3759,Bucaramanga
+3760,San Onofre
+3761,Aracataca
+3762,Chiquinquirá
+3763,Soplaviento
+3764,Socorro
+3765,Guayabetal
+3766,Sampués
+3767,Sasaima
+3768,Sapuyes
+3769,Belén
+3770,Calamar
+3771,San Cayetano
+3772,Uribia
+3773,San Jerónimo
+3774,Villavieja
+3775,Mosquera
+3776,Cicuco
+3777,San José del Palmar
+3778,Buesaco
+3779,Sesquilé
+3780,Salamina
+3781,Miraflores
+3782,Florián
+3783,Tenerife
+3784,Miranda
+3785,Tutazá
+3786,Pereira
+3787,Timaná
+3788,Chivor
+3789,Cértegui
+3790,Riohacha
+3791,Santiago
+3792,Santa Ana
+3793,Icononzo
+3794,Taraira
+3795,Arboletes
+3796,Aratoca
+3797,Sabanas de San Ángel
+3798,Amagá
+3799,Güepsa
+3800,Puerto López
+3801,El Tarra
+3802,Bugalagrande
+3803,Agustín Codazzi
+3804,Monterrey
+3805,Barbosa
+3806,Bagadó
+3807,Páez
+3808,Cumaral
+3809,Ragonvalia
+3810,Buenaventura
+3811,Carurú
+3812,Floresta
+3813,Acandí
+3814,Yacuanquer
+3815,San Juan de Arama
+3816,Suaza
+3817,Pachavita
+3818,Amagá
+3819,Sabanagrande
+3820,Tinjacá
+3821,La Gloria
+3822,Tabio
+3823,Santa Rosalía
+3824,Gigante
+3825,Chinú
+3826,La Tebaida
+3827,Sutamarchán
+3828,Sucre
+3829,Aguada
+3830,Mutatá
+3831,Santa Bárbara
+3832,Ciudad Bolívar
+3833,Quetame
+3834,Sutatausa
+3835,Nariño
+3836,Albania
+3837,Alejandría
+3838,Cáqueza
+3839,Uramita
+3840,Chocontá
+3841,Alejandría
+3842,Hatonuevo
+3843,Chipaque
+3844,Cerinza
+3845,Albania
+3846,Paz de Ariporo
+3847,Campohermoso
+3848,Campamento
+3849,Gámbita
+3850,Samacá
+3851,Chámeza
+3852,Hato Corozal
+3853,Candelaria
+3854,Entrerríos
+3855,Dolores
+3856,Argelia
+3857,Chalán
+3858,Ciénaga
+3859,Santa Bárbara
+3860,Curití
+3861,San Andrés de Cuerquía
+3862,Filandia
+3863,Sutatenza
+3864,Tópaga
+3865,San José de Pare
+3866,Chinavita
+3867,Guacamayas
+3868,Peque
+3869,Galeras
+3870,El Guamo
+3871,Dibulla
+3872,San José del Guaviare
+3873,Norosí
+3874,Chimichagua
+3875,San Pablo
+3876,Jamundí
+3877,Peque
+3878,San Mateo
+3879,Tibacuy
+3880,Barranquilla
+3881,Anapoima
+3882,Cunday
+3883,Remolino
+3884,San Juan Nepomuceno
+3885,Villarrica
+3886,Concordia
+3887,Norcasia
+3888,El Piñón
+3889,Gamarra
+3890,Andalucía
+3891,Tibasosa
+3892,Fosca
+3893,San Mateo
+3894,Puebloviejo
+3895,Pitalito
+3896,Bojayá
+3897,Luruaco
+3898,Chitagá
+3899,Río Viejo
+3900,La Esperanza
+3901,Macaravita
+3902,Sibaté
+3903,Victoria
+3904,Tarso
+3905,Medina
+3906,Viotá
+3907,Tesalia
+3908,Prado
+3909,Fresno
+3910,Túquerres
+3911,San José de Cúcuta
+3912,Puerto Tejada
+3913,Caimito
+3914,Concepción
+3915,Atrato
+3916,Güicán de la Sierra
+3917,San Rafael
+3918,Nueva Granada
+3919,Bolívar
+3920,Hatonuevo
+3921,Cimitarra
+3922,Clemencia
+3923,San Pablo de Borbur
+3924,Ramiriquí
+3925,Guadalupe
+3926,Saladoblanco
+3927,Matanza
+3928,Peque
+3929,Florencia
+3930,Tello
+3931,La Palma
+3932,Chiriguaná
+3933,Guasca
+3934,Pácora
+3935,Pradera
+3936,Entrerríos
+3937,Purísima de la Concepción
+3938,San Andrés de Cuerquía
+3939,Magüí
+3940,Algarrobo
+3941,Salamina
+3942,Florencia
+3943,Agrado
+3944,Roberto Payán
+3945,Vijes
+3946,Nuquí
+3947,Remedios
+3948,Cota
+3949,Carolina
+3950,Villanueva
+3951,Teorama
+3952,Guataquí
+3953,Filandia
+3954,Pital
+3955,Tarso
+3956,Maicao
+3957,San Pablo
+3958,Hispania
+3959,Pupiales
+3960,Tausa
+3961,Coello
+3962,Cimitarra
+3963,Manizales
+3964,Tello
+3965,Chitaraque
+3966,Barbosa
+3967,Neiva
+3968,Buenavista
+3969,Aguazul
+3970,Sabanas de San Ángel
+3971,Santa Rosalía
+3972,Sapuyes
+3973,Valparaíso
+3974,Guamal
+3975,El Calvario
+3976,Tasco
+3977,Tuchín
+3978,Juradó
+3979,Baranoa
+3980,Andalucía
+3981,San Calixto
+3982,Albán
+3983,Guadalajara de Buga
+3984,Marsella
+3985,Chima
+3986,Vetas
+3987,Suárez
+3988,Potosí
+3989,El Litoral del San Juan
+3990,Otanche
+3991,Casabianca
+3992,Tubará
+3993,Guasca
+3994,Buesaco
+3995,Viterbo
+3996,Sativasur
+3997,Samaniego
+3998,Cáceres
+3999,San José de Toluviejo
+4000,Santa Ana
+4001,Gamarra
+4002,Ariguaní
+4003,Facatativá
+4004,Altos del Rosario
+4005,Sutatenza
+4006,Ansermanuevo
+4007,Córdoba
+4008,Solita
+4009,Soledad
+4010,Convención
+4011,Algarrobo
+4012,Milán
+4013,Cáchira
+4014,Santa Rosa
+4015,Santiago
+4016,Puente Nacional
+4017,Córdoba
+4018,Puerto Concordia
+4019,Covarachía
+4020,Milán
+4021,Santa Isabel
+4022,Puerto Santander
+4023,San Francisco
+4024,Carcasí
+4025,Guarne
+4026,Santa Sofía
+4027,Granada
+4028,Buesaco
+4029,San Luis de Sincé
+4030,Guarne
+4031,Sucre
+4032,Samaniego
+4033,Barrancas
+4034,Luruaco
+4035,El Santuario
+4036,Milán
+4037,El Calvario
+4038,Bolívar
+4039,El Guamo
+4040,Piedras
+4041,Busbanzá
+4042,Oicatá
+4043,El Bagre
+4044,Baranoa
+4045,San José del Guaviare
+4046,Bojacá
+4047,Guayatá
+4048,Sasaima
+4049,Olaya
+4050,Retiro
+4051,Pelaya
+4052,Gachancipá
+4053,Samacá
+4054,Granada
+4055,Santa Bárbara
+4056,Regidor
+4057,Valencia
+4058,Imués
+4059,Puerto Santander
+4060,Puerto Rondón
+4061,Macanal
+4062,Vigía del Fuerte
+4063,San Luis de Gaceno
+4064,Cubarral
+4065,Caparrapí
+4066,Girardot
+4067,Versalles
+4068,Becerril
+4069,Chinácota
+4070,Valle de San José
+4071,Altos del Rosario
+4072,Obando
+4073,Jericó
+4074,Manaure Balcón del Cesar
+4075,Onzaga
+4076,San Pedro de Cartago
+4077,Tipacoque
+4078,Acandí
+4079,Risaralda
+4080,Gamarra
+4081,Colón
+4082,Palmito
+4083,Agrado
+4084,Almaguer
+4085,Neiva
+4086,Mutiscua
+4087,Argelia
+4088,Aratoca
+4089,Restrepo
+4090,Quebradanegra
+4091,Cabuyaro
+4092,Ayapel
+4093,Saravena
+4094,Tarqui
+4095,Fonseca
+4096,San Martín
+4097,Suárez
+4098,Inzá
+4099,Concordia
+4100,Rionegro
+4101,Hacarí
+4102,El Molino
+4103,Baraya
+4104,Alcalá
+4105,Sabanas de San Ángel
+4106,Silos
+4107,San Bernardo
+4108,Chalán
+4109,Suárez
+4110,La Unión
+4111,Tópaga
+4112,Sibundoy
+4113,Cucunubá
+4114,Paz de Río
+4115,Mongua
+4116,Manta
+4117,Quinchía
+4118,Cisneros
+4119,Manzanares
+4120,Anolaima
+4121,San Sebastián de Buenavista
+4122,Herrán
+4123,Los Santos
+4124,La Playa
+4125,La Unión
+4126,Zona Bananera
+4127,California
+4128,Santuario
+4129,Jerusalén
+4130,Puerto Tejada
+4131,Cravo Norte
+4132,Filadelfia
+4133,Juan de Acosta
+4134,Los Córdobas
+4135,Betéitiva
+4136,El Espino
+4137,Alto Baudó
+4138,Florián
+4139,Cerrito
+4140,Pueblo Nuevo
+4141,Berbeo
+4142,Morroa
+4143,Sabanas de San Ángel
+4144,Papunahua
+4145,Bagadó
+4146,Atrato
+4147,Covarachía
+4148,Puerto Santander
+4149,Córdoba
+4150,Bello
+4151,Andes
+4152,Prado
+4153,Los Santos
+4154,Caucasia
+4155,Chiquinquirá
+4156,San Benito Abad
+4157,El Playón
+4158,Puerto Tejada
+4159,Carolina
+4160,Coello
+4161,Valparaíso
+4162,Puerto Berrío
+4163,Manzanares
+4164,Santa Catalina
+4165,Alpujarra
+4166,Pácora
+4167,San Martín de Loba
+4168,Cartagena de Indias
+4169,Herrán
+4170,Purísima de la Concepción
+4171,Timbiquí
+4172,Buenaventura
+4173,Natagaima
+4174,San Eduardo
+4175,Gualmatán
+4176,Guadalupe
+4177,Úmbita
+4178,Florencia
+4179,Pinchote
+4180,Baraya
+4181,Peñol
+4182,Fuente de Oro
+4183,Circasia
+4184,Villavicencio
+4185,Tinjacá
+4186,San Luis de Gaceno
+4187,Puerto Lleras
+4188,Arauquita
+4189,Alvarado
+4190,Santa Bárbara
+4191,Páramo
+4192,Pasto
+4193,Fómeque
+4194,Trujillo
+4195,El Peñón
+4196,Dosquebradas
+4197,Barrancominas
+4198,San Pablo
+4199,Buenavista
+4200,Vigía del Fuerte
+4201,Bajo Baudó
+4202,Buesaco
+4203,Ubalá
+4204,La Sierra
+4205,Socorro
+4206,Páez
+4207,Miraflores
+4208,Guaca
+4209,Villa de Leyva
+4210,Casabianca
+4211,La Pedrera
+4212,Caloto
+4213,El Tambo
+4214,Boyacá
+4215,La Ceja
+4216,Chiquinquirá
+4217,Remedios
+4218,Sitionuevo
+4219,Fosca
+4220,Caldono
+4221,Pereira
+4222,Onzaga
+4223,Icononzo
+4224,Morichal
+4225,Silvia
+4226,Montebello
+4227,Quípama
+4228,Clemencia
+4229,Arboledas
+4230,Rionegro
+4231,Barichara
+4232,Güicán de la Sierra
+4233,Útica
+4234,Pauna
+4235,Simijaca
+4236,Bosconia
+4237,Páez
+4238,Buenavista
+4239,Armenia
+4240,Molagavita
+4241,San Gil
+4242,Malambo
+4243,Iza
+4244,Chaparral
+4245,Barranquilla
+4246,Taminango
+4247,Chimá
+4248,Guachucal
+4249,La Belleza
+4250,Confines
+4251,Cali
+4252,Cunday
+4253,Ansermanuevo
+4254,Valle del Guamuez
+4255,Buenavista
+4256,Sopetrán
+4257,Maceo
+4258,Cerrito
+4259,Dibulla
+4260,Arroyohondo
+4261,Chaguaní
+4262,Palestina
+4263,Socha
+4264,Onzaga
+4265,San Jerónimo
+4266,Tibasosa
+4267,Tamalameque
+4268,Puerto Alegría
+4269,Montelíbano
+4270,Jerusalén
+4271,Anzoátegui
+4272,Albán
+4273,San Francisco
+4274,Pradera
+4275,La Guadalupe
+4276,Villa de Leyva
+4277,Sincelejo
+4278,Chía
+4279,Papunahua
+4280,Murindó
+4281,Carepa
+4282,San José
+4283,San Eduardo
+4284,Quetame
+4285,Cuaspud Carlosama
+4286,Ciénaga
+4287,La Merced
+4288,Bucaramanga
+4289,Lenguazaque
+4290,Ataco
+4291,San Martín de Loba
+4292,Jesús María
+4293,Pana Pana
+4294,Nariño
+4295,San Fernando
+4296,Silvania
+4297,Piedras
+4298,Taraira
+4299,Obando
+4300,Albán
+4301,El Peñol
+4302,Arboledas
+4303,Guadalupe
+4304,Ayapel
+4305,Manaure Balcón del Cesar
+4306,Sucre
+4307,Jenesano
+4308,Soacha
+4309,La Primavera
+4310,Oiba
+4311,Támesis
+4312,Puerto Colombia
+4313,La Chorrera
+4314,Flandes
+4315,Rosas
+4316,San Andrés de Sotavento
+4317,Mutiscua
+4318,Venecia
+4319,Simacota
+4320,Liborina
+4321,Sonsón
+4322,Maní
+4323,Santander de Quilichao
+4324,San Bernardo del Viento
+4325,Montería
+4326,Bojacá
+4327,La Capilla
+4328,Solano
+4329,Ricaurte
+4330,San Francisco
+4331,Sabana de Torres
+4332,Giraldo
+4333,Lorica
+4334,Argelia
+4335,Puerto Guzmán
+4336,Puerto Colombia
+4337,Santana
+4338,Santuario
+4339,Galeras
+4340,Peñol
+4341,Unguía
+4342,Guasca
+4343,Vianí
+4344,Villa de San Diego de Ubaté
+4345,Enciso
+4346,Carmen de Apicalá
+4347,La Guadalupe
+4348,Carepa
+4349,Chivatá
+4350,Pamplona
+4351,Magangué
+4352,Macanal
+4353,La Merced
+4354,El Tambo
+4355,Quetame
+4356,Guadalupe
+4357,Galapa
+4358,Barbacoas
+4359,El Piñón
+4360,El Tambo
+4361,Cocorná
+4362,Apía
+4363,Ciudad Bolívar
+4364,Puerto Guzmán
+4365,Agua de Dios
+4366,El Tambo
+4367,Mistrató
+4368,Convención
+4369,Ancuya
+4370,Viotá
+4371,El Castillo
+4372,Santa María
+4373,Firavitoba
+4374,Villa de Leyva
+4375,Ebéjico
+4376,San Estanislao
+4377,Ambalema
+4378,Ituango
+4379,Santo Tomás
+4380,Maceo
+4381,Unión Panamericana
+4382,Cogua
+4383,Fúquene
+4384,Santiago
+4385,Ciudad Bolívar
+4386,Mogotes
+4387,El Peñón
+4388,Ovejas
+4389,Jamundí
+4390,Santa Bárbara
+4391,El Doncello
+4392,Abejorral
+4393,Mapiripán
+4394,La Apartada
+4395,Sabana de Torres
+4396,San Francisco
+4397,Purísima de la Concepción
+4398,La Chorrera
+4399,Villavieja
+4400,Génova
+4401,Puerto Carreño
+4402,Ambalema
+4403,El Peñón
+4404,Achí
+4405,Magangué
+4406,Providencia
+4407,La Pedrera
+4408,Herveo
+4409,Simacota
+4410,Florida
+4411,Santa Fé de Antioquia
+4412,Muzo
+4413,Trujillo
+4414,Mogotes
+4415,Quinchía
+4416,Valdivia
+4417,Anapoima
+4418,La Virginia
+4419,Nimaima
+4420,Papunahua
+4421,El Banco
+4422,Pisba
+4423,Mocoa
+4424,Cuaspud Carlosama
+4425,Belén de Umbría
+4426,Pasto
+4427,Santa Catalina
+4428,Viterbo
+4429,La Pintada
+4430,Maní
+4431,San Pedro
+4432,Guática
+4433,Quípama
+4434,Concepción
+4435,Alcalá
+4436,Contadero
+4437,Río Viejo
+4438,El Paujíl
+4439,El Tambo
+4440,Belmira
+4441,Milán
+4442,Chíquiza
+4443,Bugalagrande
+4444,Zipacón
+4445,El Guacamayo
+4446,San Martín
+4447,Chachagüí
+4448,Neira
+4449,Monguí
+4450,Sabanas de San Ángel
+4451,Alto Baudó
+4452,Córdoba
+4453,Bucarasica
+4454,Otanche
+4455,Ricaurte
+4456,Pueblo Rico
+4457,Pajarito
+4458,Lenguazaque
+4459,Belén de Umbría
+4460,Aquitania
+4461,Cumaribo
+4462,El Tarra
+4463,Cáqueza
+4464,Agustín Codazzi
+4465,Córdoba
+4466,Herveo
+4467,Ulloa
+4468,Guachucal
+4469,Cacahual
+4470,Mocoa
+4471,Córdoba
+4472,Bojacá
+4473,Dagua
+4474,Aguazul
+4475,Guamo
+4476,El Dovio
+4477,Tona
+4478,Guatavita
+4479,El Cocuy
+4480,Soatá
+4481,Gualmatán
+4482,Taraira
+4483,Otanche
+4484,Suaza
+4485,Herrán
+4486,Caicedo
+4487,Oporapa
+4488,El Tambo
+4489,Orocué
+4490,Medio San Juan
+4491,Maicao
+4492,Santa Rosalía
+4493,Guacarí
+4494,Pauna
+4495,Mallama
+4496,El Molino
+4497,Génova
+4498,La Florida
+4499,Morroa
+4500,Puerto Alegría
+4501,Sasaima
+4502,Monterrey
+4503,San José del Palmar
+4504,Socotá
+4505,La Virginia
+4506,Ituango
+4507,Uribia
+4508,Confines
+4509,Valledupar
+4510,Malambo
+4511,Nuevo Colón
+4512,Mercaderes
+4513,Buenavista
+4514,Medio Atrato
+4515,Lenguazaque
+4516,Tadó
+4517,Ramiriquí
+4518,Caldono
+4519,Páez
+4520,Paz de Ariporo
+4521,Balboa
+4522,Corrales
+4523,La Victoria
+4524,Puerto Rondón
+4525,Topaipí
+4526,Pedraza
+4527,Santa Isabel
+4528,Subachoque
+4529,Carepa
+4530,Barranco de Loba
+4531,San Antonio del Tequendama
+4532,Los Palmitos
+4533,Copacabana
+4534,La Unión
+4535,Facatativá
+4536,San José de Uré
+4537,La Uvita
+4538,Silvia
+4539,La Playa
+4540,Cocorná
+4541,Puerto Wilches
+4542,Anapoima
+4543,San José de Toluviejo
+4544,La Merced
+4545,Buenos Aires
+4546,Filandia
+4547,Cuítiva
+4548,Guateque
+4549,Chaguaní
+4550,Puerto Parra
+4551,Puerto Triunfo
+4552,Guataquí
+4553,El Colegio
+4554,Tunja
+4555,Nemocón
+4556,Cisneros
+4557,Purificación
+4558,Salamina
+4559,Charalá
+4560,Carmen de Apicalá
+4561,Magüí
+4562,Santa Catalina
+4563,Achí
+4564,Sopetrán
+4565,Mahates
+4566,Ábrego
+4567,Flandes
+4568,Pajarito
+4569,Achí
+4570,Pelaya
+4571,Sotaquirá
+4572,Aldana
+4573,Nemocón
+4574,Remedios
+4575,Buenavista
+4576,Pamplonita
+4577,Tiquisio
+4578,Tuluá
+4579,Valdivia
+4580,Belén
+4581,Sabana de Torres
+4582,Yumbo
+4583,El Carmen de Bolívar
+4584,Íquira
+4585,Concepción
+4586,Mosquera
+4587,Puerto López
+4588,Bugalagrande
+4589,San Pedro
+4590,Quebradanegra
+4591,Fosca
+4592,Roncesvalles
+4593,Santa Sofía
+4594,Sampués
+4595,Gachalá
+4596,Calarcá
+4597,Usiacurí
+4598,Socorro
+4599,Vélez
+4600,Mapiripán
+4601,Sutatausa
+4602,Chíquiza
+4603,Iza
+4604,El Tablón de Gómez
+4605,Gachetá
+4606,Vianí
+4607,Apía
+4608,Anapoima
+4609,Puerto Concordia
+4610,Vergara
+4611,Mirití - Paraná
+4612,Yavaraté
+4613,Bochalema
+4614,Tabio
+4615,Ocaña
+4616,Rovira
+4617,Yarumal
+4618,Buenavista
+4619,Cértegui
+4620,Abriaquí
+4621,Río Viejo
+4622,Boavita
+4623,Chiquinquirá
+4624,San Juan de Arama
+4625,Potosí
+4626,San Vicente del Caguán
+4627,Fúquene
+4628,Rivera
+4629,Florencia
+4630,Palmar
+4631,El Molino
+4632,Moniquirá
+4633,Río de Oro
+4634,El Paso
+4635,Herveo
+4636,Hacarí
+4637,Oporapa
+4638,Une
+4639,La Cumbre
+4640,Zipacón
+4641,Cabuyaro
+4642,Ginebra
+4643,Tubará
+4644,Los Santos
+4645,Palestina
+4646,Villa de Leyva
+4647,Otanche
+4648,Enciso
+4649,Muzo
+4650,Piamonte
+4651,Sotaquirá
+4652,Condoto
+4653,Pedraza
+4654,Gómez Plata
+4655,Orito
+4656,San José de Toluviejo
+4657,Arboledas
+4658,Cachipay
+4659,El Tambo
+4660,Malambo
+4661,San Pedro de Cartago
+4662,Cabrera
+4663,San Fernando
+4664,Riosucio
+4665,San Diego
+4666,Chitagá
+4667,Buriticá
+4668,Boavita
+4669,Togüí
+4670,Cucutilla
+4671,Pauna
+4672,Tangua
+4673,Corinto
+4674,Covarachía
+4675,Sutatenza
+4676,Gámeza
+4677,El Playón
+4678,Betulia
+4679,Murindó
+4680,Cuítiva
+4681,Barbosa
+4682,San José de Uré
+4683,Puerto Asís
+4684,Suárez
+4685,Belén
+4686,Moñitos
+4687,Plato
+4688,Margarita
+4689,Chipaque
+4690,Betulia
+4691,Atrato
+4692,Anapoima
+4693,Nátaga
+4694,Soledad
+4695,Gómez Plata
+4696,Trujillo
+4697,Montería
+4698,Villanueva
+4699,Córdoba
+4700,Sáchica
+4701,Armenia
+4702,Betulia
+4703,San Carlos
+4704,Nariño
+4705,La Gloria
+4706,Alcalá
+4707,Ponedera
+4708,Norosí
+4709,Jerusalén
+4710,Puerto Colombia
+4711,Restrepo
+4712,Santa Rosa de Osos
+4713,Manaure Balcón del Cesar
+4714,El Carmen de Atrato
+4715,Floridablanca
+4716,Tocaima
+4717,Puerto Concordia
+4718,Vegachí
+4719,Gachancipá
+4720,San Joaquín
+4721,Prado
+4722,Sapuyes
+4723,Cartagena del Chairá
+4724,Santa Bárbara
+4725,Anorí
+4726,Oiba
+4727,El Calvario
+4728,Nóvita
+4729,Túquerres
+4730,Santa Fé de Antioquia
+4731,Los Santos
+4732,Güepsa
+4733,Popayán
+4734,Toca
+4735,Los Santos
+4736,El Peñón
+4737,Herrán
+4738,El Dorado
+4739,San José de Uré
+4740,Aranzazu
+4741,San Pablo de Borbur
+4742,La Peña
+4743,Amalfi
+4744,Tesalia
+4745,Sotaquirá
+4746,El Peñón
+4747,Saboyá
+4748,Puerto Rico
+4749,Ráquira
+4750,Leiva
+4751,Cumaral
+4752,Marsella
+4753,El Carmen de Bolívar
+4754,Atrato
+4755,Tununguá
+4756,Palmas del Socorro
+4757,Ciudad Bolívar
+4758,Mutiscua
+4759,Santa María
+4760,Pácora
+4761,Tarqui
+4762,Tibasosa
+4763,Ansermanuevo
+4764,Córdoba
+4765,Anolaima
+4766,Túquerres
+4767,Rivera
+4768,Campamento
+4769,Caracolí
+4770,Cotorra
+4771,La Montañita
+4772,Charalá
+4773,Tiquisio
+4774,Usiacurí
+4775,Morelia
+4776,Arboletes
+4777,Floresta
+4778,Inírida
+4779,La Paz
+4780,Cucaita
+4781,Medio Atrato
+4782,Recetor
+4783,Guática
+4784,Amalfi
+4785,Tausa
+4786,Sogamoso
+4787,Santa Sofía
+4788,La Macarena
+4789,Astrea
+4790,Cucunubá
+4791,Liborina
+4792,Nueva Granada
+4793,Rosas
+4794,Plato
+4795,San Francisco
+4796,Puerto Rondón
+4797,Chocontá
+4798,Guasca
+4799,Manatí
+4800,Gachetá
+4801,Argelia
+4802,Tununguá
+4803,Aguachica
+4804,La Pedrera
+4805,Saboyá
+4806,Guapi
+4807,Becerril
+4808,Lenguazaque
+4809,Restrepo
+4810,Mosquera
+4811,Usiacurí
+4812,Concepción
+4813,La Victoria
+4814,Jardín
+4815,Contratación
+4816,Puerto López
+4817,Timbiquí
+4818,Tuchín
+4819,Paime
+4820,Lebrija
+4821,Chocontá
+4822,Tamalameque
+4823,Chita
+4824,El Piñón
+4825,Mitú
+4826,Soatá
+4827,Guachucal
+4828,Córdoba
+4829,El Peñón
+4830,Malambo
+4831,Condoto
+4832,Palmira
+4833,Rondón
+4834,Jerusalén
+4835,Ayapel
+4836,Barbosa
+4837,Berbeo
+4838,Urrao
+4839,Magüí
+4840,El Carmen de Viboral
+4841,Villa Rica
+4842,Francisco Pizarro
+4843,Turmequé
+4844,Alvarado
+4845,San Martín de Loba
+4846,Agua de Dios
+4847,San Antonio del Tequendama
+4848,Puerto Rico
+4849,Támesis
+4850,San Francisco
+4851,Tasco
+4852,San Luis de Gaceno
+4853,Corinto
+4854,El Playón
+4855,Arroyohondo
+4856,Soracá
+4857,Zetaquira
+4858,Sabanagrande
+4859,Planeta Rica
+4860,Riosucio
+4861,Cabrera
+4862,Caramanta
+4863,Chimichagua
+4864,Majagual
+4865,Villavieja
+4866,Cocorná
+4867,Corozal
+4868,Yarumal
+4869,Soledad
+4870,Garzón
+4871,La Montañita
+4872,Bucarasica
+4873,Santa Isabel
+4874,Lejanías
+4875,Ovejas
+4876,Tello
+4877,Molagavita
+4878,Mahates
+4879,Tubará
+4880,Chinavita
+4881,Cerro de San Antonio
+4882,Cañasgordas
+4883,Yolombó
+4884,Morales
+4885,Mitú
+4886,San Sebastián de Buenavista
+4887,Potosí
+4888,Medina
+4889,San Bernardo del Viento
+4890,Guapi
+4891,La Celia
+4892,La Ceja
+4893,Suárez
+4894,Colosó
+4895,El Carmen de Viboral
+4896,Suaza
+4897,Santa Sofía
+4898,Sora
+4899,Tarapacá
+4900,Pedraza
+4901,Tunja
+4902,Girardota
+4903,Sabanalarga
+4904,Tierralta
+4905,Tibasosa
+4906,Puerto Rico
+4907,La Virginia
+4908,Villeta
+4909,Isnos
+4910,Cajicá
+4911,Guatavita
+4912,Buenaventura
+4913,Pailitas
+4914,Guapotá
+4915,El Doncello
+4916,Majagual
+4917,Aguazul
+4918,San Diego
+4919,Santa Rosa de Osos
+4920,El Piñón
+4921,Ramiriquí
+4922,El Carmen
+4923,Manzanares
+4924,Neiva
+4925,López de Micay
+4926,Jordán
+4927,Fredonia
+4928,Guatavita
+4929,Sopetrán
+4930,Capitanejo
+4931,Melgar
+4932,Nóvita
+4933,Puerto Wilches
+4934,Cocorná
+4935,Belén de Umbría
+4936,La Unión
+4937,Puerto Rico
+4938,Valledupar
+4939,Jericó
+4940,Puerto Rondón
+4941,Armenia
+4942,Villagarzón
+4943,Villagómez
+4944,Ospina
+4945,Candelaria
+4946,Solano
+4947,Nóvita
+4948,Chivolo
+4949,Funes
+4950,Sibundoy
+4951,Barbosa
+4952,Unguía
+4953,La Paz
+4954,Hobo
+4955,Bucaramanga
+4956,Heliconia
+4957,Planeta Rica
+4958,La Virginia
+4959,San Juan de Rioseco
+4960,Briceño
+4961,Iles
+4962,Montebello
+4963,Sabanalarga
+4964,San Benito Abad
+4965,Puerto Wilches
+4966,Suaita
+4967,Tibirita
+4968,Riohacha
+4969,Choachí
+4970,Soledad
+4971,Turbo
+4972,Puerto Santander
+4973,San Felipe
+4974,Betulia
+4975,Yotoco
+4976,Providencia
+4977,Cereté
+4978,Retiro
+4979,Quípama
+4980,Onzaga
+4981,Sáchica
+4982,Luruaco
+4983,López de Micay
+4984,Ansermanuevo
+4985,San Luis
+4986,Boyacá
+4987,Santa Catalina
+4988,La Paz
+4989,Manaure
+4990,Calamar
+4991,San Marcos
+4992,Prado
+4993,Somondoco
+4994,Güepsa
+4995,Distracción
+4996,San Luis de Sincé
+4997,Moniquirá
+4998,Tocaima
+4999,Cerrito
+5000,Los Andes
+5001,Andalucía
+5002,Oicatá
+5003,Remedios
+5004,San José de Uré
+5005,Galeras
+5006,Socotá
+5007,Páez
+5008,Repelón
+5009,San José de la Montaña
+5010,Bagadó
+5011,Tarazá
+5012,Tame
+5013,Ospina
+5014,Úmbita
+5015,Astrea
+5016,Ponedera
+5017,Tota
+5018,Rioblanco
+5019,Segovia
+5020,Belmira
+5021,Ricaurte
+5022,Ebéjico
+5023,Morelia
+5024,Chitagá
+5025,Florián
+5026,San Luis de Sincé
+5027,Magüí
+5028,San Jerónimo
+5029,Ambalema
+5030,Buesaco
+5031,Maní
+5032,San Vicente del Caguán
+5033,Nóvita
+5034,Valle de San José
+5035,Cáceres
+5036,Tauramena
+5037,Elías
+5038,Circasia
+5039,Otanche
+5040,Puerto Colombia
+5041,Coromoro
+5042,Turbaná
+5043,El Banco
+5044,Patía
+5045,Mistrató
+5046,Chinchiná
+5047,Buenos Aires
+5048,Itagüí
+5049,Gómez Plata
+5050,Tierralta
+5051,San José de Pare
+5052,El Zulia
+5053,Granada
+5054,Cravo Norte
+5055,Pachavita
+5056,San Luis de Sincé
+5057,San Sebastián de Buenavista
+5058,San Sebastián de Mariquita
+5059,Fortul
+5060,Santa Sofía
+5061,Saboyá
+5062,Ponedera
+5063,Monguí
+5064,Machetá
+5065,Villa de San Diego de Ubaté
+5066,Itagüí
+5067,Venecia
+5068,Nunchía
+5069,Susacón
+5070,San Andrés de Tumaco
+5071,Gámbita
+5072,Pandi
+5073,Achí
+5074,Trujillo
+5075,Yavaraté
+5076,Manizales
+5077,Briceño
+5078,Cajamarca
+5079,Puerres
+5080,Guateque
+5081,San Miguel
+5082,Albania
+5083,Silvania
+5084,Versalles
+5085,Calamar
+5086,Santa Cruz de Mompox
+5087,Pinchote
+5088,Natagaima
+5089,Zarzal
+5090,Nuquí
+5091,Curillo
+5092,Chivolo
+5093,Altos del Rosario
+5094,Puracé
+5095,Ricaurte
+5096,Río de Oro
+5097,Ábrego
+5098,Baraya
+5099,Salazar
+5100,Bajo Baudó
+5101,Puerto Colombia
+5102,Envigado
+5103,Ituango
+5104,Zipaquirá
+5105,San Zenón
+5106,Nariño
+5107,Coyaima
+5108,Almeida
+5109,Andalucía
+5110,Tuluá
+5111,Sabanalarga
+5112,Encino
+5113,Puerto Nariño
+5114,El Carmen de Viboral
+5115,Santiago
+5116,Natagaima
+5117,Puerres
+5118,Mallama
+5119,La Victoria
+5120,Coveñas
+5121,Yarumal
+5122,Puerto Caicedo
+5123,Sahagún
+5124,La Tebaida
+5125,Yarumal
+5126,Salazar
+5127,Garagoa
+5128,Ayapel
+5129,Santa Rosa
+5130,Belén de Umbría
+5131,Villa de San Diego de Ubaté
+5132,Leiva
+5133,La Estrella
+5134,Villavicencio
+5135,Nátaga
+5136,Firavitoba
+5137,Valdivia
+5138,Valparaíso
+5139,Puerto Concordia
+5140,Norosí
+5141,Barrancas
+5142,Villagómez
+5143,Dibulla
+5144,Tona
+5145,El Rosal
+5146,Salazar
+5147,El Encanto
+5148,Coello
+5149,Amagá
+5150,Mahates
+5151,Montebello
+5152,Labateca
+5153,Gutiérrez
+5154,Montelíbano
+5155,Gachetá
+5156,Jerusalén
+5157,Tibacuy
+5158,El Zulia
+5159,Concepción
+5160,Sutatausa
+5161,Oicatá
+5162,Casabianca
+5163,Buenavista
+5164,Palocabildo
+5165,Villamaría
+5166,Gama
+5167,La Vega
+5168,Sácama
+5169,Ramiriquí
+5170,San Pedro de Cartago
+5171,Suaza
+5172,Landázuri
+5173,Guasca
+5174,Puerto Salgar
+5175,Silvia
+5176,Mistrató
+5177,Saladoblanco
+5178,Arcabuco
+5179,Tocancipá
+5180,San Jacinto del Cauca
+5181,Leticia
+5182,Puerto Parra
+5183,Nueva Granada
+5184,Pradera
+5185,Angelópolis
+5186,Ayapel
+5187,La Apartada
+5188,Barranca de Upía
+5189,Anolaima
+5190,Chinchiná
+5191,Miraflores
+5192,Tibacuy
+5193,San Luis
+5194,Tibacuy
+5195,Condoto
+5196,San Andrés
+5197,Albania
+5198,Buenavista
+5199,Carurú
+5200,Almeida
+5201,El Cantón del San Pablo
+5202,Jordán
+5203,Sabaneta
+5204,Neiva
+5205,Ocaña
+5206,El Carmen de Viboral
+5207,Nuevo Colón
+5208,Clemencia
+5209,El Águila
+5210,Inzá
+5211,La Playa
+5212,Calamar
+5213,La Macarena
+5214,San Sebastián
+5215,Susacón
+5216,El Carmen de Atrato
+5217,Argelia
+5218,San Juan Nepomuceno
+5219,Soatá
+5220,Zetaquira
+5221,San Vicente Ferrer
+5222,Pijiño del Carmen
+5223,Yacopí
+5224,Heliconia
+5225,Mutiscua
+5226,Cabrera
+5227,Ciénaga
+5228,Riosucio
+5229,El Roble
+5230,Norcasia
+5231,Tocaima
+5232,Sucre
+5233,Mongua
+5234,Barbosa
+5235,Chocontá
+5236,Luruaco
+5237,Tuchín
+5238,Moñitos
+5239,Arboletes
+5240,Guachené
+5241,Sutatenza
+5242,Corrales
+5243,Fusagasugá
+5244,Cabrera
+5245,Monguí
+5246,Chiquinquirá
+5247,Saravena
+5248,El Castillo
+5249,Acandí
+5250,Ramiriquí
+5251,Restrepo
+5252,Marsella
+5253,Clemencia
+5254,Espinal
+5255,Agrado
+5256,Castilla la Nueva
+5257,Paicol
+5258,Puerto Concordia
+5259,Hato Corozal
+5260,Cabrera
+5261,Pauna
+5262,Miraflores
+5263,Guatapé
+5264,Santa María
+5265,El Carmen
+5266,Floresta
+5267,Pesca
+5268,Mongua
+5269,Santa Marta
+5270,Cereté
+5271,Funza
+5272,Mocoa
+5273,El Bagre
+5274,Guamo
+5275,Buriticá
+5276,San Luis de Gaceno
+5277,San Fernando
+5278,Caloto
+5279,Paicol
+5280,Segovia
+5281,Floresta
+5282,Envigado
+5283,Palmar de Varela
+5284,Solita
+5285,Lourdes
+5286,Ebéjico
+5287,El Carmen de Bolívar
+5288,Coper
+5289,Puerto Santander
+5290,Galeras
+5291,Sardinata
+5292,Pinillos
+5293,Puerto Nariño
+5294,Concordia
+5295,Cáchira
+5296,Marinilla
+5297,Saboyá
+5298,Labateca
+5299,Chachagüí
+5300,Puerto Concordia
+5301,Lloró
+5302,Topaipí
+5303,Padilla
+5304,Chivolo
+5305,Mirití - Paraná
+5306,Almaguer
+5307,Belén de Umbría
+5308,Convención
+5309,Paime
+5310,Bucaramanga
+5311,La Jagua de Ibirico
+5312,Silvania
+5313,Sabanas de San Ángel
+5314,San Felipe
+5315,Cisneros
+5316,San Juan de Betulia
+5317,San Juan del Cesar
+5318,Manaure Balcón del Cesar
+5319,San Vicente de Chucurí
+5320,Gachetá
+5321,Aipe
+5322,Leiva
+5323,La Jagua de Ibirico
+5324,Barichara
+5325,Guataquí
+5326,Matanza
+5327,El Carmen
+5328,Ospina
+5329,Aranzazu
+5330,Mirití - Paraná
+5331,Manaure
+5332,Bituima
+5333,Villapinzón
+5334,Nariño
+5335,Yacopí
+5336,Palermo
+5337,Susacón
+5338,Puerto Rico
+5339,Pedraza
+5340,Roldanillo
+5341,Santander de Quilichao
+5342,Imués
+5343,Santa Sofía
+5344,López de Micay
+5345,La Chorrera
+5346,Encino
+5347,Guaitarilla
+5348,Aguada
+5349,San Carlos de Guaroa
+5350,Betulia
+5351,San Mateo
+5352,Jamundí
+5353,Campamento
+5354,Marquetalia
+5355,La Chorrera
+5356,El Peñol
+5357,Paz de Río
+5358,Carolina
+5359,Silos
+5360,Palermo
+5361,Neira
+5362,Algeciras
+5363,Pulí
+5364,Santa Marta
+5365,Cañasgordas
+5366,La Paz
+5367,Ancuya
+5368,Andalucía
+5369,Potosí
+5370,Subachoque
+5371,Prado
+5372,Viotá
+5373,El Playón
+5374,Maní
+5375,California
+5376,Piendamó - Tunía
+5377,La Gloria
+5378,Chiriguaná
+5379,Fuente de Oro
+5380,Morroa
+5381,Nueva Granada
+5382,La Plata
+5383,El Águila
+5384,Argelia
+5385,Chaguaní
+5386,Morroa
+5387,Sampués
+5388,Tibirita
+5389,Simití
+5390,Valdivia
+5391,Sitionuevo
+5392,Macanal
+5393,El Cerrito
+5394,San Carlos
+5395,Los Córdobas
+5396,Vijes
+5397,Icononzo
+5398,Puerto Santander
+5399,Bucarasica
+5400,Barbosa
+5401,Potosí
+5402,Cali
+5403,La Paz
+5404,Castilla la Nueva
+5405,La Montañita
+5406,Villa Caro
+5407,Garzón
+5408,Turbaco
+5409,Calamar
+5410,Melgar
+5411,Sabanalarga
+5412,Acevedo
+5413,Oicatá
+5414,Chimichagua
+5415,Durania
+5416,Arcabuco
+5417,Fómeque
+5418,Villa Rica
+5419,Nuquí
+5420,Carolina
+5421,Elías
+5422,Tiquisio
+5423,San Marcos
+5424,Tierralta
+5425,Cartago
+5426,Samaná
+5427,Iza
+5428,Puerto Leguízamo
+5429,Albán
+5430,Albán
+5431,Saldaña
+5432,Sasaima
+5433,El Guamo
+5434,Supía
+5435,Retiro
+5436,Juradó
+5437,San Bernardo
+5438,Usiacurí
+5439,San Benito Abad
+5440,Puerto Colombia
+5441,Tinjacá
+5442,Busbanzá
+5443,Capitanejo
+5444,Briceño
+5445,Argelia
+5446,La Vega
+5447,Gualmatán
+5448,Simití
+5449,Yolombó
+5450,Cértegui
+5451,Ricaurte
+5452,Ginebra
+5453,Aldana
+5454,Gamarra
+5455,Bello
+5456,Campohermoso
+5457,Risaralda
+5458,La Jagua del Pilar
+5459,Bolívar
+5460,Támesis
+5461,Cali
+5462,Becerril
+5463,Alpujarra
+5464,Génova
+5465,Santa María
+5466,Toca
+5467,Arjona
+5468,Atrato
+5469,Yumbo
+5470,Nimaima
+5471,San Zenón
+5472,Aipe
+5473,Inírida
+5474,Silos
+5475,Otanche
+5476,El Encanto
+5477,San Martín
+5478,El Tambo
+5479,San Calixto
+5480,Anorí
+5481,San Vicente de Chucurí
+5482,Belén
+5483,Toro
+5484,Nechí
+5485,Medio Baudó
+5486,Solita
+5487,La Esperanza
+5488,Andes
+5489,Sabaneta
+5490,Cubarral
+5491,Fortul
+5492,Cáchira
+5493,San Zenón
+5494,Guamo
+5495,Macanal
+5496,Cota
+5497,Agrado
+5498,Guapotá
+5499,Salamina
+5500,Paipa
+5501,Íquira
+5502,Arboletes
+5503,El Santuario
+5504,Labranzagrande
+5505,La Belleza
+5506,Fredonia
+5507,Fuente de Oro
+5508,Córdoba
+5509,Santacruz
+5510,Chinácota
+5511,Teruel
+5512,El Colegio
+5513,Puerto Triunfo
+5514,Miraflores
+5515,Ituango
+5516,Aldana
+5517,Honda
+5518,Curumaní
+5519,Floresta
+5520,Génova
+5521,Timbiquí
+5522,Guacamayas
+5523,Galán
+5524,Cáchira
+5525,Guateque
+5526,San Mateo
+5527,San Bernardo
+5528,Puerto Escondido
+5529,Arjona
+5530,San Eduardo
+5531,El Rosario
+5532,Barrancabermeja
+5533,San Vicente del Caguán
+5534,Santa Bárbara
+5535,Guasca
+5536,Amalfi
+5537,Norcasia
+5538,Puerto Colombia
+5539,Enciso
+5540,Convención
+5541,Tuchín
+5542,Río Viejo
+5543,Tuluá
+5544,Ortega
+5545,Campohermoso
+5546,Sesquilé
+5547,Santa Helena del Opón
+5548,Susacón
+5549,Leiva
+5550,Providencia
+5551,Arboledas
+5552,Taminango
+5553,Timbío
+5554,Chipaque
+5555,Tuluá
+5556,Chivor
+5557,Armenia
+5558,Hatillo de Loba
+5559,Anolaima
+5560,Cachipay
+5561,San Benito Abad
+5562,Carmen del Darién
+5563,Arroyohondo
+5564,Duitama
+5565,Yumbo
+5566,Puerto Salgar
+5567,Anzoátegui
+5568,Viotá
+5569,Mogotes
+5570,Olaya
+5571,Filandia
+5572,Circasia
+5573,Montería
+5574,Milán
+5575,Ocamonte
+5576,Achí
+5577,Taraira
+5578,Juan de Acosta
+5579,Taminango
+5580,Cuaspud Carlosama
+5581,San Luis
+5582,Miranda
+5583,Sucre
+5584,Falan
+5585,Girardota
+5586,Paratebueno
+5587,Sipí
+5588,Elías
+5589,Firavitoba
+5590,La Argentina
+5591,Circasia
+5592,Jamundí
+5593,Motavita
+5594,Villavieja
+5595,El Castillo
+5596,Pivijay
+5597,Taraira
+5598,Patía
+5599,Jenesano
+5600,Medio San Juan
+5601,Cumbitara
+5602,Orocué
+5603,Alejandría
+5604,Soplaviento
+5605,Belén
+5606,San Jacinto
+5607,Belmira
+5608,Medina
+5609,Fosca
+5610,La Merced
+5611,El Paujíl
+5612,San Francisco
+5613,Mapiripán
+5614,Algarrobo
+5615,San Miguel de Sema
+5616,El Retén
+5617,San Mateo
+5618,Salazar
+5619,Arauquita
+5620,La Capilla
+5621,Nobsa
+5622,Pamplona
+5623,Campo de la Cruz
+5624,San Juan de Betulia
+5625,San Vicente del Caguán
+5626,Dibulla
+5627,Paya
+5628,Gramalote
+5629,Amagá
+5630,San Pablo
+5631,Achí
+5632,Santo Domingo
+5633,Vigía del Fuerte
+5634,Palmar
+5635,Tibú
+5636,El Carmen de Bolívar
+5637,El Carmen de Bolívar
+5638,Suaza
+5639,Villanueva
+5640,Buriticá
+5641,Arboletes
+5642,Palmito
+5643,Puerto Asís
+5644,Otanche
+5645,Albania
+5646,Consacá
+5647,Briceño
+5648,San Carlos
+5649,Cáchira
+5650,Sesquilé
+5651,"Bogotá, D.C."
+5652,Paya
+5653,San Juanito
+5654,Ventaquemada
+5655,El Paujíl
+5656,La Vega
+5657,Remolino
+5658,Saldaña
+5659,Ansermanuevo
+5660,Bosconia
+5661,El Rosal
+5662,Herveo
+5663,Vistahermosa
+5664,Melgar
+5665,Suárez
+5666,Isnos
+5667,Belén de Umbría
+5668,Saravena
+5669,La Victoria
+5670,Jericó
+5671,Unión Panamericana
+5672,Pacoa
+5673,Victoria
+5674,Papunahua
+5675,Mitú
+5676,Villa del Rosario
+5677,Yotoco
+5678,Busbanzá
+5679,Silvia
+5680,Nuquí
+5681,San Andrés
+5682,Girardota
+5683,Granada
+5684,Cumaral
+5685,Pasto
+5686,Santana
+5687,Chipatá
+5688,La Mesa
+5689,Totoró
+5690,Bojacá
+5691,Mocoa
+5692,Uribe
+5693,Togüí
+5694,San Fernando
+5695,Tona
+5696,Santa Ana
+5697,Baraya
+5698,Busbanzá
+5699,Berbeo
+5700,Puerto Arica
+5701,Pital
+5702,Puerto Colombia
+5703,Norosí
+5704,Chocontá
+5705,El Charco
+5706,Los Córdobas
+5707,Aguachica
+5708,San Juan de Urabá
+5709,Tununguá
+5710,Galán
+5711,Manizales
+5712,Sabana de Torres
+5713,Salgar
+5714,Ragonvalia
+5715,San Sebastián
+5716,Chimichagua
+5717,Guacarí
+5718,Momil
+5719,Luruaco
+5720,Morroa
+5721,Sincelejo
+5722,Chaparral
+5723,Mocoa
+5724,Choachí
+5725,Yopal
+5726,San Benito Abad
+5727,San José
+5728,Vegachí
+5729,Puerto Berrío
+5730,San Jerónimo
+5731,Salazar
+5732,Cajicá
+5733,Riosucio
+5734,Jenesano
+5735,Aranzazu
+5736,Santa Marta
+5737,Norosí
+5738,Santuario
+5739,Fonseca
+5740,San Cayetano
+5741,San Juan del Cesar
+5742,Zipaquirá
+5743,Prado
+5744,Tona
+5745,Giraldo
+5746,Tibasosa
+5747,Subachoque
+5748,Concordia
+5749,Teorama
+5750,Mosquera
+5751,San José de Pare
+5752,Trujillo
+5753,Málaga
+5754,Tangua
+5755,Nariño
+5756,Cepitá
+5757,El Banco
+5758,Puerto Rico
+5759,Belén de los Andaquíes
+5760,San Benito Abad
+5761,Gigante
+5762,Pensilvania
+5763,Tuta
+5764,Candelaria
+5765,Uramita
+5766,San Sebastián
+5767,Tocaima
+5768,Belalcázar
+5769,San Sebastián
+5770,Palmar de Varela
+5771,Puerto Libertador
+5772,Durania
+5773,Arboleda
+5774,San Calixto
+5775,Puerto Boyacá
+5776,Suárez
+5777,San Marcos
+5778,Chivatá
+5779,Barbosa
+5780,El Dorado
+5781,San Juan Nepomuceno
+5782,La Victoria
+5783,Soplaviento
+5784,Sabanagrande
+5785,Simití
+5786,Fúquene
+5787,Florencia
+5788,Curillo
+5789,Soledad
+5790,San Bernardo del Viento
+5791,Toro
+5792,El Paso
+5793,Río Quito
+5794,Dabeiba
+5795,Toledo
+5796,Miranda
+5797,Sitionuevo
+5798,Ibagué
+5799,Pandi
+5800,Carmen del Darién
+5801,Piamonte
+5802,Vijes
+5803,Caramanta
+5804,Herrán
+5805,Taminango
+5806,Tópaga
+5807,Samaniego
+5808,Nocaima
+5809,Unión Panamericana
+5810,Motavita
+5811,Tibaná
+5812,Cali
+5813,Timbiquí
+5814,Palmar de Varela
+5815,Aguazul
+5816,Zaragoza
+5817,Chinú
+5818,Vergara
+5819,Zambrano
+5820,Funes
+5821,La Plata
+5822,Soplaviento
+5823,Albania
+5824,Funza
+5825,Sotaquirá
+5826,Palmira
+5827,Ubaque
+5828,Yalí
+5829,Tópaga
+5830,Orito
+5831,Yumbo
+5832,"Bogotá, D.C."
+5833,Paicol
+5834,Coello
+5835,Donmatías
+5836,Guayatá
+5837,Santiago
+5838,Sotará Paispamba
+5839,La Esperanza
+5840,Belmira
+5841,Puerto Rico
+5842,Iles
+5843,Cimitarra
+5844,Tello
+5845,San Vicente del Caguán
+5846,Anzá
+5847,Los Santos
+5848,Pinchote
+5849,Puerres
+5850,Valparaíso
+5851,Gachetá
+5852,Los Patios
+5853,Ariguaní
+5854,Barbosa
+5855,Santa Marta
+5856,El Carmen de Chucurí
+5857,Chima
+5858,Boyacá
+5859,Garagoa
+5860,Valparaíso
+5861,El Zulia
+5862,Hispania
+5863,Chinchiná
+5864,Sabanagrande
+5865,Girardot
+5866,Corinto
+5867,Pailitas
+5868,Florián
+5869,Salamina
+5870,Santa Rosa de Viterbo
+5871,Florencia
+5872,Ortega
+5873,Guapotá
+5874,Chita
+5875,Nátaga
+5876,Suesca
+5877,Mosquera
+5878,Heliconia
+5879,Amalfi
+5880,El Cantón del San Pablo
+5881,Buenavista
+5882,Cepitá
+5883,Puerres
+5884,Sitionuevo
+5885,Jesús María
+5886,Palestina
+5887,Albán
+5888,Granada
+5889,Ginebra
+5890,Cimitarra
+5891,Argelia
+5892,Jambaló
+5893,Puerto Alegría
+5894,Saravena
+5895,Útica
+5896,La Gloria
+5897,Pital
+5898,Fosca
+5899,La Guadalupe
+5900,Nariño
+5901,Anorí
+5902,Angelópolis
+5903,Simití
+5904,Norosí
+5905,Belén de los Andaquíes
+5906,La Victoria
+5907,Puerto Arica
+5908,Timaná
+5909,Argelia
+5910,Momil
+5911,Duitama
+5912,Medina
+5913,Puerto Lleras
+5914,Lebrija
+5915,Guarne
+5916,Confines
+5917,Titiribí
+5918,Onzaga
+5919,Pijao
+5920,Motavita
+5921,Belalcázar
+5922,San Vicente de Chucurí
+5923,Sabanas de San Ángel
+5924,Zona Bananera
+5925,El Tarra
+5926,Toledo
+5927,Tibirita
+5928,Mapiripán
+5929,Santa Lucía
+5930,Carcasí
+5931,San Jacinto del Cauca
+5932,Urrao
+5933,Ciudad Bolívar
+5934,Arauquita
+5935,Yacuanquer
+5936,Aguadas
+5937,Plato
+5938,Santa Rosalía
+5939,San Martín
+5940,Purísima de la Concepción
+5941,Tuta
+5942,San Pedro
+5943,La Victoria
+5944,Zipaquirá
+5945,Santa Bárbara
+5946,Astrea
+5947,La Celia
+5948,Sonsón
+5949,Güepsa
+5950,Tenjo
+5951,Pradera
+5952,San Cristóbal
+5953,Ulloa
+5954,Arboleda
+5955,San Juan de Arama
+5956,Sahagún
+5957,Tipacoque
+5958,Altamira
+5959,Campamento
+5960,Arboletes
+5961,La Calera
+5962,Giraldo
+5963,Jesús María
+5964,Chocontá
+5965,San José de Uré
+5966,Río Iró
+5967,Gama
+5968,Albania
+5969,Santa Rosa
+5970,Cereté
+5971,Abriaquí
+5972,Quipile
+5973,Villa del Rosario
+5974,Caicedonia
+5975,Los Córdobas
+5976,Rioblanco
+5977,Puerto Triunfo
+5978,Suaza
+5979,Albania
+5980,La Unión
+5981,San Miguel de Sema
+5982,Achí
+5983,Palermo
+5984,Purísima de la Concepción
+5985,Venecia
+5986,Jenesano
+5987,Nariño
+5988,La Pintada
+5989,Salamina
+5990,Támesis
+5991,Socorro
+5992,Matanza
+5993,Güicán de la Sierra
+5994,Guadalupe
+5995,Une
+5996,Bugalagrande
+5997,Motavita
+5998,La Ceja
+5999,Florencia
+6000,San Francisco
+6001,Fúquene
+6002,Venecia
+6003,Miranda
+6004,Florencia
+6005,Galán
+6006,La Cumbre
+6007,El Encanto
+6008,San Andrés
+6009,Mapiripán
+6010,Guamal
+6011,Chaguaní
+6012,Purificación
+6013,San Gil
+6014,Salgar
+6015,Puerto Colombia
+6016,Anzoátegui
+6017,La Apartada
+6018,Unguía
+6019,Aguachica
+6020,Uramita
+6021,Sáchica
+6022,Giraldo
+6023,Bugalagrande
+6024,Albania
+6025,Ortega
+6026,Salamina
+6027,Cuaspud Carlosama
+6028,El Banco
+6029,Puerres
+6030,Pachavita
+6031,Sabanagrande
+6032,Simití
+6033,Santacruz
+6034,Hobo
+6035,Sabaneta
+6036,Socorro
+6037,Palestina
+6038,Monterrey
+6039,Villavicencio
+6040,Ocamonte
+6041,Angostura
+6042,Palocabildo
+6043,Cañasgordas
+6044,Galeras
+6045,Calamar
+6046,La Unión
+6047,Samaná
+6048,Sogamoso
+6049,San Vicente Ferrer
+6050,Coper
+6051,Albania
+6052,Chinavita
+6053,Medina
+6054,Líbano
+6055,San Eduardo
+6056,Puerto Santander
+6057,San Jerónimo
+6058,Guarne
+6059,Corinto
+6060,Vetas
+6061,Hatonuevo
+6062,Chivor
+6063,Paz de Río
+6064,Socorro
+6065,Jenesano
+6066,Suan
+6067,Los Patios
+6068,San Lorenzo
+6069,Tierralta
+6070,Remolino
+6071,Sotaquirá
+6072,Armenia
+6073,Soplaviento
+6074,Colón
+6075,El Banco
+6076,Funza
+6077,Lebrija
+6078,Sesquilé
+6079,Juradó
+6080,Palermo
+6081,Ortega
+6082,Arauca
+6083,Arboledas
+6084,Hatonuevo
+6085,Orito
+6086,Tibasosa
+6087,Nilo
+6088,Consacá
+6089,Nunchía
+6090,Villanueva
+6091,Gamarra
+6092,Ragonvalia
+6093,Vergara
+6094,Usiacurí
+6095,Zapatoca
+6096,Suan
+6097,San Luis
+6098,Guaca
+6099,Arcabuco
+6100,Dibulla
+6101,Soracá
+6102,Juradó
+6103,Sáchica
+6104,Susa
+6105,Valle de San José
+6106,Pital
+6107,Cubará
+6108,Papunahua
+6109,Cuaspud Carlosama
+6110,Anzoátegui
+6111,Aldana
+6112,Polonuevo
+6113,Policarpa
+6114,Tenza
+6115,Albania
+6116,Barrancominas
+6117,Betéitiva
+6118,Imués
+6119,Sácama
+6120,Fosca
+6121,Victoria
+6122,Turbaná
+6123,Bucarasica
+6124,La Playa
+6125,Zapayán
+6126,Soracá
+6127,Mapiripán
+6128,Zetaquira
+6129,Santa Bárbara
+6130,El Santuario
+6131,Aratoca
+6132,Muzo
+6133,Güepsa
+6134,San Pedro
+6135,Chámeza
+6136,Cereté
+6137,Caldono
+6138,Medina
+6139,La Chorrera
+6140,Andalucía
+6141,Arcabuco
+6142,La Guadalupe
+6143,Guadalajara de Buga
+6144,Cácota
+6145,Villanueva
+6146,Chivatá
+6147,Saldaña
+6148,Purísima de la Concepción
+6149,Trinidad
+6150,Herveo
+6151,Saldaña
+6152,Manta
+6153,Baranoa
+6154,Mosquera
+6155,Gigante
+6156,Turbaná
+6157,Campo de la Cruz
+6158,Tutazá
+6159,Salgar
+6160,Arjona
+6161,Cucutilla
+6162,Labateca
+6163,Puerto Asís
+6164,Silvania
+6165,Purificación
+6166,La Primavera
+6167,La Llanada
+6168,Tipacoque
+6169,Aguazul
+6170,Málaga
+6171,Villanueva
+6172,Guatapé
+6173,Solano
+6174,Puerto Asís
+6175,San Juan de Betulia
+6176,Santa Helena del Opón
+6177,Mirití - Paraná
+6178,El Guamo
+6179,Abejorral
+6180,El Peñol
+6181,Calima
+6182,Fredonia
+6183,La Florida
+6184,Carepa
+6185,Filadelfia
+6186,Galán
+6187,Mercaderes
+6188,Providencia
+6189,Oiba
+6190,Landázuri
+6191,Mitú
+6192,San Onofre
+6193,Sogamoso
+6194,San José de Uré
+6195,Tocaima
+6196,Mesetas
+6197,Morales
+6198,Norosí
+6199,Vistahermosa
+6200,Trujillo
+6201,Nátaga
+6202,Córdoba
+6203,Arbeláez
+6204,Bugalagrande
+6205,El Peñón
+6206,Rivera
+6207,Aguada
+6208,Galán
+6209,Jamundí
+6210,Los Patios
+6211,Arbeláez
+6212,Gachalá
+6213,Chiquinquirá
+6214,San Agustín
+6215,Cácota
+6216,Cabrera
+6217,La Playa
+6218,Betania
+6219,Los Santos
+6220,La Macarena
+6221,Betulia
+6222,Boavita
+6223,Lourdes
+6224,Puerto Triunfo
+6225,Frontino
+6226,La Unión
+6227,Convención
+6228,Cravo Norte
+6229,Guática
+6230,Ramiriquí
+6231,Vetas
+6232,Tausa
+6233,Angelópolis
+6234,Marmato
+6235,Campamento
+6236,Pisba
+6237,Mosquera
+6238,Donmatías
+6239,Monterrey
+6240,Cañasgordas
+6241,Manaure
+6242,Turmequé
+6243,Villanueva
+6244,La Uvita
+6245,Aquitania
+6246,El Águila
+6247,Icononzo
+6248,Pueblo Rico
+6249,San Agustín
+6250,Lorica
+6251,Girón
+6252,Silos
+6253,Pereira
+6254,Beltrán
+6255,Miranda
+6256,San Andrés
+6257,Calamar
+6258,San Estanislao
+6259,Pácora
+6260,Sabaneta
+6261,Facatativá
+6262,Morales
+6263,Tasco
+6264,Charalá
+6265,El Encanto
+6266,Santa Marta
+6267,Pore
+6268,La Peña
+6269,Campohermoso
+6270,Garagoa
+6271,Regidor
+6272,San Francisco
+6273,Cáceres
+6274,Gama
+6275,San Andrés de Tumaco
+6276,Nobsa
+6277,Subachoque
+6278,Cumaribo
+6279,Muzo
+6280,Bello
+6281,Santa María
+6282,Uramita
+6283,Villavicencio
+6284,Boavita
+6285,Puerto Salgar
+6286,Ovejas
+6287,La Unión
+6288,Baraya
+6289,La Paz
+6290,Anolaima
+6291,Rioblanco
+6292,Caldas
+6293,Supía
+6294,Ataco
+6295,Cepitá
+6296,San José del Guaviare
+6297,Caracolí
+6298,El Paso
+6299,Chachagüí
+6300,Candelaria
+6301,Saravena
+6302,La Mesa
+6303,Apartadó
+6304,Pailitas
+6305,Chía
+6306,Tierralta
+6307,Turbo
+6308,Bolívar
+6309,Acandí
+6310,Sabaneta
+6311,Anserma
+6312,Santa Fé de Antioquia
+6313,San Juan de Arama
+6314,Victoria
+6315,Prado
+6316,Natagaima
+6317,Almaguer
+6318,Palestina
+6319,Santacruz
+6320,San Martín de Loba
+6321,Fresno
+6322,Clemencia
+6323,Argelia
+6324,El Guacamayo
+6325,San Carlos de Guaroa
+6326,Chinácota
+6327,Puerto Guzmán
+6328,Cuaspud Carlosama
+6329,Río Viejo
+6330,Chima
+6331,Subachoque
+6332,Pueblo Nuevo
+6333,Vigía del Fuerte
+6334,El Retorno
+6335,Puerto Colombia
+6336,Restrepo
+6337,Juradó
+6338,Cartagena de Indias
+6339,La Argentina
+6340,Sibundoy
+6341,Tutazá
+6342,Buenavista
+6343,Regidor
+6344,Baraya
+6345,El Encanto
+6346,Marmato
+6347,Buenavista
+6348,Turmequé
+6349,Gómez Plata
+6350,Apartadó
+6351,Coromoro
+6352,Boyacá
+6353,Hacarí
+6354,Amagá
+6355,Aratoca
+6356,Tenerife
+6357,Pedraza
+6358,Tunja
+6359,Suan
+6360,Bochalema
+6361,Floridablanca
+6362,Yarumal
+6363,Aguachica
+6364,La Unión
+6365,Ituango
+6366,Puerto Gaitán
+6367,Condoto
+6368,Rivera
+6369,Boyacá
+6370,Mapiripán
+6371,Briceño
+6372,El Cocuy
+6373,Cucaita
+6374,Casabianca
+6375,San Miguel
+6376,Anzoátegui
+6377,San Pablo
+6378,Mongua
+6379,Paratebueno
+6380,Valparaíso
+6381,San Juan de Rioseco
+6382,El Calvario
+6383,Puerto Asís
+6384,Líbano
+6385,San Zenón
+6386,La Jagua del Pilar
+6387,Chimichagua
+6388,Abriaquí
+6389,El Copey
+6390,Santa Rosa de Viterbo
+6391,Algeciras
+6392,Riohacha
+6393,Nimaima
+6394,Aratoca
+6395,Pitalito
+6396,Guática
+6397,Pamplonita
+6398,Ataco
+6399,Chalán
+6400,Santa Bárbara
+6401,Becerril
+6402,Hobo
+6403,San Carlos de Guaroa
+6404,Titiribí
+6405,Aranzazu
+6406,Caicedo
+6407,El Copey
+6408,Belalcázar
+6409,Agrado
+6410,Sucre
+6411,Casabianca
+6412,Barbosa
+6413,Planeta Rica
+6414,Villamaría
+6415,Victoria
+6416,Almaguer
+6417,Manizales
+6418,Puerto Asís
+6419,San Miguel
+6420,Soacha
+6421,Montebello
+6422,Bucaramanga
+6423,Sáchica
+6424,Vigía del Fuerte
+6425,Aracataca
+6426,Guaduas
+6427,Santa Rosalía
+6428,Hatillo de Loba
+6429,Tibirita
+6430,Espinal
+6431,Cáceres
+6432,Angelópolis
+6433,Venecia
+6434,Neira
+6435,Piendamó - Tunía
+6436,Neira
+6437,Yavaraté
+6438,Bello
+6439,Cajicá
+6440,Zapayán
+6441,La Vega
+6442,San Francisco
+6443,Arcabuco
+6444,San Alberto
+6445,Caracolí
+6446,Chinchiná
+6447,Guayatá
+6448,Dagua
+6449,Remedios
+6450,Cimitarra
+6451,Anorí
+6452,Santana
+6453,Caicedonia
+6454,Páramo
+6455,Algeciras
+6456,San Juanito
+6457,Bajo Baudó
+6458,Puente Nacional
+6459,Hispania
+6460,Pajarito
+6461,Curumaní
+6462,Quípama
+6463,Los Santos
+6464,Galán
+6465,Acandí
+6466,Cerrito
+6467,La Salina
+6468,Pasca
+6469,Yumbo
+6470,Ventaquemada
+6471,Cereté
+6472,Caramanta
+6473,Fresno
+6474,Ponedera
+6475,Ábrego
+6476,Palmas del Socorro
+6477,Mapiripán
+6478,Coello
+6479,Acandí
+6480,El Rosario
+6481,Gamarra
+6482,Apía
+6483,Guática
+6484,Cantagallo
+6485,San Juan de Rioseco
+6486,Espinal
+6487,San Pedro
+6488,Caldono
+6489,Confines
+6490,Fonseca
+6491,Guática
+6492,Plato
+6493,Villa Caro
+6494,Guayabetal
+6495,Málaga
+6496,La Capilla
+6497,Ulloa
+6498,Trujillo
+6499,Galapa
+6500,Simití
+6501,Pivijay
+6502,Cucaita
+6503,Teruel
+6504,Unión Panamericana
+6505,Bahía Solano
+6506,Arroyohondo
+6507,Boyacá
+6508,Labranzagrande
+6509,Cisneros
+6510,Paipa
+6511,Mistrató
+6512,Bojayá
+6513,La Guadalupe
+6514,Fortul
+6515,Subachoque
+6516,Puerto Escondido
+6517,Santuario
+6518,Santa Catalina
+6519,Sipí
+6520,Cicuco
+6521,Ricaurte
+6522,Guamo
+6523,Quipile
+6524,Fortul
+6525,Girardot
+6526,Medio San Juan
+6527,Guatapé
+6528,Bajo Baudó
+6529,San José de Cúcuta
+6530,Santiago
+6531,Carcasí
+6532,Guaduas
+6533,Tasco
+6534,San José de Pare
+6535,Pailitas
+6536,Puerto Rico
+6537,Cravo Norte
+6538,La Argentina
+6539,Rionegro
+6540,Jambaló
+6541,Zipaquirá
+6542,La Macarena
+6543,Villanueva
+6544,Tarqui
+6545,El Peñón
+6546,Teorama
+6547,La Vega
+6548,Jambaló
+6549,Soacha
+6550,Santa Ana
+6551,Argelia
+6552,Gachetá
+6553,Albán
+6554,Belén
+6555,Anorí
+6556,Leiva
+6557,San Lorenzo
+6558,El Cocuy
+6559,Zipacón
+6560,Une
+6561,Anorí
+6562,Ovejas
+6563,La Primavera
+6564,Puerto Salgar
+6565,Busbanzá
+6566,Marmato
+6567,Busbanzá
+6568,Purísima de la Concepción
+6569,San Vicente Ferrer
+6570,Girardot
+6571,Valle de San José
+6572,Riosucio
+6573,Leiva
+6574,Enciso
+6575,Pueblo Bello
+6576,Florencia
+6577,San Andrés
+6578,Guatapé
+6579,Vistahermosa
+6580,Cachipay
+6581,San Carlos
+6582,Ricaurte
+6583,Algarrobo
+6584,Santa Rosa de Viterbo
+6585,Sincelejo
+6586,Tuta
+6587,Turbo
+6588,Calamar
+6589,Ocaña
+6590,La Tebaida
+6591,Sabanalarga
+6592,Turbaná
+6593,Albán
+6594,Belén
+6595,El Paso
+6596,Purísima de la Concepción
+6597,San Benito
+6598,La Salina
+6599,Sahagún
+6600,Cáchira
+6601,Ituango
+6602,Cali
+6603,Medio Atrato
+6604,Panqueba
+6605,Santo Domingo
+6606,Suárez
+6607,San José
+6608,Guayatá
+6609,Istmina
+6610,Ancuya
+6611,Capitanejo
+6612,Apartadó
+6613,Ayapel
+6614,Sopetrán
+6615,Belén
+6616,Urumita
+6617,Puerto López
+6618,La Mesa
+6619,Clemencia
+6620,Yavaraté
+6621,Juradó
+6622,Alvarado
+6623,Sabana de Torres
+6624,Yondó
+6625,Zapatoca
+6626,Alcalá
+6627,Simijaca
+6628,Cumaribo
+6629,La Primavera
+6630,La Florida
+6631,Enciso
+6632,Valle de San Juan
+6633,El Dovio
+6634,Villahermosa
+6635,San Juan de Betulia
+6636,San Vicente Ferrer
+6637,Valencia
+6638,Zipaquirá
+6639,Dolores
+6640,Chipatá
+6641,Arroyohondo
+6642,Aguazul
+6643,Junín
+6644,Ragonvalia
+6645,Tenerife
+6646,Santa Lucía
+6647,Tinjacá
+6648,Chipaque
+6649,López de Micay
+6650,Puente Nacional
+6651,Chivolo
+6652,Santa Cruz de Mompox
+6653,Lenguazaque
+6654,Floridablanca
+6655,San Andrés
+6656,Puerto Salgar
+6657,Labranzagrande
+6658,Buesaco
+6659,La Argentina
+6660,El Dovio
+6661,Nuevo Colón
+6662,Marinilla
+6663,San Antero
+6664,Guasca
+6665,Ambalema
+6666,San Vicente de Chucurí
+6667,Pacho
+6668,Caicedo
+6669,Cáceres
+6670,Cajicá
+6671,Campo de la Cruz
+6672,Morichal
+6673,Titiribí
+6674,Barbosa
+6675,Viotá
+6676,La Chorrera
+6677,Los Andes
+6678,Gachantivá
+6679,Piedecuesta
+6680,Nocaima
+6681,La Macarena
+6682,Chiquinquirá
+6683,La Mesa
+6684,Yopal
+6685,Nilo
+6686,Circasia
+6687,Bucarasica
+6688,Charalá
+6689,Regidor
+6690,El Santuario
+6691,Jenesano
+6692,Curillo
+6693,Piamonte
+6694,Matanza
+6695,Sogamoso
+6696,Prado
+6697,San Juan Nepomuceno
+6698,Hatillo de Loba
+6699,San Miguel de Sema
+6700,El Castillo
+6701,Manaure Balcón del Cesar
+6702,Donmatías
+6703,Tibirita
+6704,Páez
+6705,Falan
+6706,Barbacoas
+6707,Macaravita
+6708,Tuluá
+6709,San Marcos
+6710,Gama
+6711,Quipile
+6712,Jambaló
+6713,Chimichagua
+6714,La Palma
+6715,San Pelayo
+6716,Trinidad
+6717,Ibagué
+6718,Buenos Aires
+6719,Marinilla
+6720,Chaguaní
+6721,Pedraza
+6722,Pueblo Nuevo
+6723,Montebello
+6724,Ricaurte
+6725,Mesetas
+6726,Puerto Berrío
+6727,Cucaita
+6728,Pedraza
+6729,Puerto Colombia
+6730,Istmina
+6731,Cicuco
+6732,El Banco
+6733,Sotaquirá
+6734,Belmira
+6735,Guayabetal
+6736,Planeta Rica
+6737,Morelia
+6738,Agustín Codazzi
+6739,Lorica
+6740,Cepitá
+6741,San José del Palmar
+6742,Ciénaga de Oro
+6743,Puerto Concordia
+6744,San Juan de Rioseco
+6745,San Juan de Rioseco
+6746,Cáqueza
+6747,Cocorná
+6748,Taminango
+6749,Susacón
+6750,El Rosario
+6751,Pailitas
+6752,Cucunubá
+6753,Páramo
+6754,El Guacamayo
+6755,Enciso
+6756,Talaigua Nuevo
+6757,El Roble
+6758,Betulia
+6759,Morales
+6760,Útica
+6761,Guaduas
+6762,Orocué
+6763,Belén de los Andaquíes
+6764,Nobsa
+6765,Cumbitara
+6766,Córdoba
+6767,Becerril
+6768,Orocué
+6769,Bagadó
+6770,San Pelayo
+6771,Quebradanegra
+6772,San José del Palmar
+6773,Curillo
+6774,Plato
+6775,Ricaurte
+6776,Cubarral
+6777,Herrán
+6778,Vistahermosa
+6779,Salgar
+6780,Gramalote
+6781,Tausa
+6782,Ancuya
+6783,El Doncello
+6784,Vianí
+6785,Briceño
+6786,Segovia
+6787,Rovira
+6788,Ráquira
+6789,Puerto Triunfo
+6790,Chinavita
+6791,Palermo
+6792,Acacías
+6793,Ragonvalia
+6794,Zapayán
+6795,Palestina
+6796,San Andrés de Tumaco
+6797,Santa Sofía
+6798,San Sebastián
+6799,Anolaima
+6800,El Piñón
+6801,Valencia
+6802,Lenguazaque
+6803,Útica
+6804,Amagá
+6805,Guadalupe
+6806,Arboletes
+6807,Piendamó - Tunía
+6808,Sativasur
+6809,Gachalá
+6810,Alejandría
+6811,Páez
+6812,Barrancas
+6813,San Juan de Betulia
+6814,Rosas
+6815,Guayatá
+6816,Gama
+6817,Chía
+6818,Supía
+6819,Bagadó
+6820,Sotaquirá
+6821,Palmar de Varela
+6822,Suaza
+6823,Ebéjico
+6824,Apía
+6825,Sandoná
+6826,Venecia
+6827,Envigado
+6828,Rosas
+6829,Bugalagrande
+6830,Contadero
+6831,Angelópolis
+6832,Anserma
+6833,Mesetas
+6834,Tópaga
+6835,Anolaima
+6836,La Plata
+6837,Támara
+6838,Barbacoas
+6839,Charta
+6840,Herrán
+6841,Simití
+6842,Macaravita
+6843,Palmito
+6844,Santa María
+6845,Gama
+6846,Ibagué
+6847,Pijiño del Carmen
+6848,Policarpa
+6849,Ubalá
+6850,Villahermosa
+6851,California
+6852,La Virginia
+6853,Ciénaga de Oro
+6854,Peque
+6855,San José del Palmar
+6856,Bosconia
+6857,Briceño
+6858,Fredonia
+6859,Puerto Lleras
+6860,Pandi
+6861,Morelia
+6862,Guacamayas
+6863,Pauna
+6864,San Pedro de los Milagros
+6865,Polonuevo
+6866,Guadalupe
+6867,San Lorenzo
+6868,Candelaria
+6869,Vergara
+6870,Samacá
+6871,Páez
+6872,Simijaca
+6873,Fúquene
+6874,La Estrella
+6875,Puerto López
+6876,Regidor
+6877,Subachoque
+6878,Magüí
+6879,Carmen del Darién
+6880,Ulloa
+6881,Santa Fé de Antioquia
+6882,La Salina
+6883,Hato Corozal
+6884,Zaragoza
+6885,Chipatá
+6886,Labranzagrande
+6887,Segovia
+6888,María la Baja
+6889,San Luis de Gaceno
+6890,La Mesa
+6891,Puerto Lleras
+6892,Angostura
+6893,Isnos
+6894,Chipatá
+6895,Puerto Caicedo
+6896,Santuario
+6897,Sincelejo
+6898,Aratoca
+6899,Garagoa
+6900,Lejanías
+6901,Páramo
+6902,El Dovio
+6903,Ciénega
+6904,Támesis
+6905,La Victoria
+6906,Ubaque
+6907,Cepitá
+6908,Garagoa
+6909,Rioblanco
+6910,Cajibío
+6911,Puerto Caicedo
+6912,Támara
+6913,La Unión
+6914,Villa de Leyva
+6915,San Luis
+6916,Dibulla
+6917,Palmar de Varela
+6918,Pueblo Rico
+6919,San Vicente de Chucurí
+6920,La Ceja
+6921,La Dorada
+6922,Monguí
+6923,San Cristóbal
+6924,Ráquira
+6925,Albania
+6926,Cotorra
+6927,Arboletes
+6928,El Peñón
+6929,Funza
+6930,Mahates
+6931,Simití
+6932,Santa Isabel
+6933,Venecia
+6934,Villa del Rosario
+6935,La Paz
+6936,San Juan del Cesar
+6937,Hatonuevo
+6938,Fuente de Oro
+6939,Villarrica
+6940,Campoalegre
+6941,Morroa
+6942,Monterrey
+6943,Chiriguaná
+6944,El Dorado
+6945,Giraldo
+6946,Pacho
+6947,Valle del Guamuez
+6948,Pueblorrico
+6949,Chaguaní
+6950,Concordia
+6951,Cali
+6952,Buenavista
+6953,Copacabana
+6954,Nocaima
+6955,San Diego
+6956,San Sebastián
+6957,Bolívar
+6958,Cajicá
+6959,Tasco
+6960,Contadero
+6961,Labranzagrande
+6962,Mongua
+6963,Pueblo Bello
+6964,Suaita
+6965,San Vicente del Caguán
+6966,Guayabetal
+6967,Talaigua Nuevo
+6968,Pasto
+6969,Norcasia
+6970,Pulí
+6971,Chita
+6972,Coper
+6973,Santiago
+6974,Villanueva
+6975,Sevilla
+6976,Monterrey
+6977,Guachetá
+6978,Susacón
+6979,Socorro
+6980,Usiacurí
+6981,Unión Panamericana
+6982,La Llanada
+6983,San Pedro
+6984,El Rosario
+6985,Tenza
+6986,Anzoátegui
+6987,Puerto Rico
+6988,San Luis de Palenque
+6989,Donmatías
+6990,Caldono
+6991,Cabuyaro
+6992,Cajicá
+6993,Córdoba
+6994,Salazar
+6995,Riosucio
+6996,Toca
+6997,Guarne
+6998,Arroyohondo
+6999,Socotá
+7000,Arauquita
+7001,San Juan de Betulia
+7002,Chalán
+7003,Lebrija
+7004,Tarapacá
+7005,Quinchía
+7006,Otanche
+7007,La Unión
+7008,Pedraza
+7009,Guachetá
+7010,San Fernando
+7011,Caracolí
+7012,Chámeza
+7013,Bochalema
+7014,Maní
+7015,Titiribí
+7016,La Florida
+7017,Barrancabermeja
+7018,Río Iró
+7019,Villagarzón
+7020,Campoalegre
+7021,Nechí
+7022,Guavatá
+7023,Quípama
+7024,Villanueva
+7025,Concordia
+7026,Montenegro
+7027,Cicuco
+7028,Majagual
+7029,Tona
+7030,Guamo
+7031,Cácota
+7032,Macanal
+7033,Sácama
+7034,Paz de Ariporo
+7035,Villa Rica
+7036,San Antero
+7037,Girón
+7038,Ciénaga de Oro
+7039,San Pablo
+7040,Oicatá
+7041,Santo Domingo
+7042,Onzaga
+7043,Guaduas
+7044,Samacá
+7045,Génova
+7046,Roldanillo
+7047,Obando
+7048,Risaralda
+7049,Santa Marta
+7050,Tona
+7051,Sipí
+7052,Labranzagrande
+7053,Galapa
+7054,Chaparral
+7055,Puerto Berrío
+7056,Buenavista
+7057,Fonseca
+7058,Nátaga
+7059,Chima
+7060,Güicán de la Sierra
+7061,Pacho
+7062,Puerto Carreño
+7063,Río de Oro
+7064,Nariño
+7065,Cucutilla
+7066,Villahermosa
+7067,Espinal
+7068,Sonsón
+7069,Guacarí
+7070,Segovia
+7071,El Tambo
+7072,Sogamoso
+7073,Manta
+7074,Campohermoso
+7075,Cértegui
+7076,Puerto Tejada
+7077,Une
+7078,Planadas
+7079,La Celia
+7080,Gamarra
+7081,Villa de Leyva
+7082,El Peñón
+7083,La Jagua del Pilar
+7084,Landázuri
+7085,Cajamarca
+7086,Peque
+7087,Floridablanca
+7088,Bituima
+7089,Cumbitara
+7090,Cepitá
+7091,Fredonia
+7092,Nariño
+7093,El Roble
+7094,Belén
+7095,Calamar
+7096,Tenerife
+7097,Chocontá
+7098,Palmira
+7099,Pivijay
+7100,Curillo
+7101,Calamar
+7102,Mitú
+7103,Dagua
+7104,Bolívar
+7105,Cimitarra
+7106,Bucaramanga
+7107,El Rosal
+7108,Puerres
+7109,Siachoque
+7110,Medio Baudó
+7111,Cepitá
+7112,Saldaña
+7113,Guavatá
+7114,El Tarra
+7115,Cotorra
+7116,Sácama
+7117,Molagavita
+7118,Betéitiva
+7119,La Plata
+7120,Funza
+7121,Duitama
+7122,Villa Rica
+7123,Mitú
+7124,Vetas
+7125,Potosí
+7126,Carolina
+7127,Barranco de Loba
+7128,Anolaima
+7129,Almeida
+7130,Cumaribo
+7131,Florián
+7132,Bugalagrande
+7133,Morales
+7134,Istmina
+7135,Olaya
+7136,Pisba
+7137,Monguí
+7138,La Ceja
+7139,San Luis de Gaceno
+7140,Manizales
+7141,Cértegui
+7142,Ayapel
+7143,Natagaima
+7144,Gachancipá
+7145,Pandi
+7146,Quebradanegra
+7147,Aranzazu
+7148,Pamplona
+7149,Suesca
+7150,Dolores
+7151,San José de la Montaña
+7152,Quípama
+7153,Tibirita
+7154,Puerto Asís
+7155,San Joaquín
+7156,El Guamo
+7157,Sabana de Torres
+7158,San Agustín
+7159,Corozal
+7160,Cucaita
+7161,Sapuyes
+7162,Arjona
+7163,Bochalema
+7164,Talaigua Nuevo
+7165,Buesaco
+7166,Caldas
+7167,Miranda
+7168,Baraya
+7169,Confines
+7170,Mallama
+7171,Palermo
+7172,Abriaquí
+7173,Ansermanuevo
+7174,La Victoria
+7175,Cañasgordas
+7176,Altamira
+7177,Macaravita
+7178,Ulloa
+7179,Acevedo
+7180,Guamal
+7181,Guataquí
+7182,El Charco
+7183,Puerto Escondido
+7184,San José de la Montaña
+7185,La Victoria
+7186,San Pablo de Borbur
+7187,Hato
+7188,Jericó
+7189,El Peñol
+7190,Motavita
+7191,Flandes
+7192,Aracataca
+7193,Sutatenza
+7194,Manzanares
+7195,La Pintada
+7196,Corozal
+7197,Neiva
+7198,Tena
+7199,Caparrapí
+7200,Andes
+7201,Monguí
+7202,Montelíbano
+7203,El Carmen de Atrato
+7204,Moniquirá
+7205,Nuevo Colón
+7206,Guacamayas
+7207,Santa Rosa del Sur
+7208,Confines
+7209,Bugalagrande
+7210,Miraflores
+7211,San Eduardo
+7212,Málaga
+7213,Santiago
+7214,Córdoba
+7215,Ricaurte
+7216,La Paz
+7217,La Virginia
+7218,Melgar
+7219,Puerto Nare
+7220,Yotoco
+7221,Bosconia
+7222,Altamira
+7223,Hato Corozal
+7224,Palocabildo
+7225,Salazar
+7226,Albán
+7227,Sasaima
+7228,Carepa
+7229,Solita
+7230,Gamarra
+7231,Paratebueno
+7232,Tenjo
+7233,Villarrica
+7234,Santiago
+7235,Ovejas
+7236,Cerrito
+7237,Sucre
+7238,Bucaramanga
+7239,Los Santos
+7240,Yotoco
+7241,Sabanalarga
+7242,Guática
+7243,Puerto Santander
+7244,Guayabal de Síquima
+7245,Cisneros
+7246,Soledad
+7247,Puerto Colombia
+7248,Cáqueza
+7249,Ricaurte
+7250,Villahermosa
+7251,Nátaga
+7252,Soacha
+7253,Sibaté
+7254,Chiquinquirá
+7255,Barranquilla
+7256,Curillo
+7257,Guamo
+7258,Concepción
+7259,El Tarra
+7260,Morales
+7261,Albania
+7262,Coello
+7263,Marinilla
+7264,Mirití - Paraná
+7265,Ciénega
+7266,Apía
+7267,Candelaria
+7268,Cotorra
+7269,Silos
+7270,Bugalagrande
+7271,Maicao
+7272,Toca
+7273,Regidor
+7274,Patía
+7275,Zipaquirá
+7276,Morelia
+7277,San Francisco
+7278,Lérida
+7279,La Montañita
+7280,Murillo
+7281,Pueblo Nuevo
+7282,El Zulia
+7283,San Pedro de los Milagros
+7284,Maicao
+7285,Otanche
+7286,Ábrego
+7287,Sabanas de San Ángel
+7288,San Pablo de Borbur
+7289,Soledad
+7290,San Diego
+7291,Moñitos
+7292,Belmira
+7293,San Andrés de Cuerquía
+7294,Campohermoso
+7295,Valle de San José
+7296,La Gloria
+7297,Chaguaní
+7298,Villa de San Diego de Ubaté
+7299,Piendamó - Tunía
+7300,Almeida
+7301,Morales
+7302,El Copey
+7303,Arboleda
+7304,Taraira
+7305,Abriaquí
+7306,Barichara
+7307,Páramo
+7308,Pajarito
+7309,Arbeláez
+7310,Salazar
+7311,Apía
+7312,El Cairo
+7313,Cunday
+7314,La Merced
+7315,Rioblanco
+7316,El Cantón del San Pablo
+7317,Maceo
+7318,Chimichagua
+7319,Tocaima
+7320,Onzaga
+7321,Florencia
+7322,San José del Palmar
+7323,Santiago
+7324,Iza
+7325,Fusagasugá
+7326,Melgar
+7327,Circasia
+7328,Mesetas
+7329,Encino
+7330,Páez
+7331,Caloto
+7332,Gachantivá
+7333,Patía
+7334,Tocancipá
+7335,Valle de San José
+7336,Cañasgordas
+7337,Chimá
+7338,Manta
+7339,Socotá
+7340,Salamina
+7341,San Juan de Arama
+7342,Maicao
+7343,Morales
+7344,Cácota
+7345,Guatapé
+7346,Sandoná
+7347,Timbiquí
+7348,Florencia
+7349,Chachagüí
+7350,Santo Tomás
+7351,Puerto Berrío
+7352,Guadalajara de Buga
+7353,Valparaíso
+7354,Colombia
+7355,San José del Fragua
+7356,Campamento
+7357,Venecia
+7358,Juradó
+7359,Sucre
+7360,Restrepo
+7361,Cravo Norte
+7362,Itagüí
+7363,Pajarito
+7364,Riosucio
+7365,Marquetalia
+7366,Palestina
+7367,Ponedera
+7368,Timbiquí
+7369,Guadalupe
+7370,Obando
+7371,Buenaventura
+7372,Guapi
+7373,Lérida
+7374,Papunahua
+7375,La Llanada
+7376,Rionegro
+7377,Titiribí
+7378,Puerto Libertador
+7379,Guatavita
+7380,Fusagasugá
+7381,Segovia
+7382,Sogamoso
+7383,Luruaco
+7384,El Retén
+7385,Sitionuevo
+7386,Aguada
+7387,Tuchín
+7388,Taminango
+7389,La Cumbre
+7390,Puerto Alegría
+7391,Guasca
+7392,Caloto
+7393,Versalles
+7394,Simacota
+7395,San Roque
+7396,Zipaquirá
+7397,Malambo
+7398,Tipacoque
+7399,San Carlos
+7400,Une
+7401,Ipiales
+7402,Santander de Quilichao
+7403,Cumaribo
+7404,Santacruz
+7405,Guapi
+7406,Vegachí
+7407,El Tambo
+7408,Marulanda
+7409,Angostura
+7410,Montelíbano
+7411,Siachoque
+7412,Arboledas
+7413,Marquetalia
+7414,Iza
+7415,San Juan de Rioseco
+7416,Chinácota
+7417,Filadelfia
+7418,Togüí
+7419,La Ceja
+7420,Vélez
+7421,Acevedo
+7422,Paya
+7423,Clemencia
+7424,Filadelfia
+7425,Girón
+7426,Atrato
+7427,Leiva
+7428,Sácama
+7429,Caicedonia
+7430,Lourdes
+7431,Carurú
+7432,Becerril
+7433,Guamal
+7434,San Francisco
+7435,Neira
+7436,Unguía
+7437,Sibaté
+7438,Ocamonte
+7439,Garagoa
+7440,Puerto Boyacá
+7441,Montelíbano
+7442,Fonseca
+7443,Río Quito
+7444,Silvia
+7445,Zapatoca
+7446,Sitionuevo
+7447,Fredonia
+7448,Curillo
+7449,Coromoro
+7450,Riofrío
+7451,Concordia
+7452,Ansermanuevo
+7453,El Molino
+7454,Pasca
+7455,Barrancabermeja
+7456,Granada
+7457,Orocué
+7458,San Diego
+7459,Samaná
+7460,Puerto Lleras
+7461,El Paso
+7462,Sácama
+7463,Cota
+7464,Pereira
+7465,El Paujíl
+7466,Puerto Concordia
+7467,Sevilla
+7468,Pamplonita
+7469,San Cayetano
+7470,Santiago
+7471,Medellín
+7472,Suan
+7473,Cacahual
+7474,Orito
+7475,Falan
+7476,San Vicente de Chucurí
+7477,Montelíbano
+7478,Marmato
+7479,Chaguaní
+7480,Carcasí
+7481,Argelia
+7482,Andes
+7483,La Ceja
+7484,Calima
+7485,Tibacuy
+7486,Tenza
+7487,Natagaima
+7488,Santo Domingo
+7489,Nocaima
+7490,Guatavita
+7491,Angelópolis
+7492,La Unión
+7493,Sasaima
+7494,Tamalameque
+7495,Sevilla
+7496,Cañasgordas
+7497,Monguí
+7498,Lenguazaque
+7499,Granada
+7500,Barranco de Loba
+7501,Juradó
+7502,La Calera
+7503,Tello
+7504,Aipe
+7505,Caucasia
+7506,La Gloria
+7507,Supatá
+7508,Otanche
+7509,Alejandría
+7510,Puerto Rondón
+7511,Herveo
+7512,Florián
+7513,Palmar
+7514,Puerto Carreño
+7515,San Cayetano
+7516,Salamina
+7517,Contadero
+7518,Onzaga
+7519,Soacha
+7520,Puerto Caicedo
+7521,Mutiscua
+7522,Tuchín
+7523,Regidor
+7524,Salamina
+7525,Chaparral
+7526,Puerto Gaitán
+7527,Samaniego
+7528,Rivera
+7529,San Pedro
+7530,Toledo
+7531,Majagual
+7532,Palmar de Varela
+7533,Tubará
+7534,Vijes
+7535,Tenerife
+7536,Santa Rosa de Cabal
+7537,Hatillo de Loba
+7538,Ovejas
+7539,Sonsón
+7540,Cajamarca
+7541,San Vicente de Chucurí
+7542,Bituima
+7543,Chipatá
+7544,Cómbita
+7545,Pelaya
+7546,Concordia
+7547,Yavaraté
+7548,Ortega
+7549,Ciudad Bolívar
+7550,Riohacha
+7551,Betania
+7552,San Pedro
+7553,"Bogotá, D.C."
+7554,Venadillo
+7555,Caicedonia
+7556,San Luis
+7557,Cota
+7558,Palmar de Varela
+7559,Guapotá
+7560,Guachetá
+7561,San Miguel
+7562,Turbaco
+7563,Génova
+7564,Yondó
+7565,Mahates
+7566,Jericó
+7567,Angelópolis
+7568,Retiro
+7569,Choachí
+7570,Papunahua
+7571,Soatá
+7572,Roncesvalles
+7573,Quinchía
+7574,Vetas
+7575,La Celia
+7576,Cota
+7577,La Unión
+7578,Colombia
+7579,Sutamarchán
+7580,Ebéjico
+7581,Tasco
+7582,Zipacón
+7583,Liborina
+7584,Aguadas
+7585,Hispania
+7586,Guapotá
+7587,Ebéjico
+7588,Arbeláez
+7589,Almaguer
+7590,El Paujíl
+7591,Agustín Codazzi
+7592,Orito
+7593,Guasca
+7594,San Cristóbal
+7595,La Plata
+7596,La Estrella
+7597,Chaguaní
+7598,Úmbita
+7599,Cajicá
+7600,Cácota
+7601,Sutatausa
+7602,Bochalema
+7603,Garzón
+7604,Supatá
+7605,Lorica
+7606,Montelíbano
+7607,Santa María
+7608,Cartago
+7609,Filadelfia
+7610,San Zenón
+7611,Puerto Escondido
+7612,Rionegro
+7613,Arcabuco
+7614,Sabanagrande
+7615,El Rosario
+7616,San Carlos de Guaroa
+7617,Río de Oro
+7618,Yolombó
+7619,Cajicá
+7620,Nimaima
+7621,Carmen del Darién
+7622,Ciénaga
+7623,Sampués
+7624,Murillo
+7625,Sabanas de San Ángel
+7626,La Victoria
+7627,Baraya
+7628,Ubaque
+7629,Cartagena del Chairá
+7630,Contratación
+7631,Cali
+7632,Suaza
+7633,El Litoral del San Juan
+7634,Tununguá
+7635,Soatá
+7636,Carolina
+7637,Une
+7638,Trinidad
+7639,Pradera
+7640,La Guadalupe
+7641,Úmbita
+7642,Puerto Concordia
+7643,Pandi
+7644,Sucre
+7645,Firavitoba
+7646,Arroyohondo
+7647,San Lorenzo
+7648,El Tambo
+7649,Vistahermosa
+7650,Puerto Rico
+7651,Lourdes
+7652,Cumaral
+7653,Puerto Santander
+7654,Pueblo Nuevo
+7655,Flandes
+7656,Cali
+7657,El Dorado
+7658,Norosí
+7659,Durania
+7660,Jesús María
+7661,Briceño
+7662,Vigía del Fuerte
+7663,Abejorral
+7664,Vijes
+7665,Pamplonita
+7666,El Zulia
+7667,Puerto Caicedo
+7668,Tona
+7669,Guadalajara de Buga
+7670,Momil
+7671,Canalete
+7672,Suárez
+7673,Pijao
+7674,Villahermosa
+7675,El Rosal
+7676,Acevedo
+7677,Turbaná
+7678,Recetor
+7679,Silos
+7680,Guatapé
+7681,Puerto Parra
+7682,Istmina
+7683,El Rosario
+7684,San Estanislao
+7685,Arboletes
+7686,Iles
+7687,Sucre
+7688,Nóvita
+7689,Sardinata
+7690,Leiva
+7691,Baranoa
+7692,Papunahua
+7693,Guaranda
+7694,Cartago
+7695,El Banco
+7696,Fómeque
+7697,Chivatá
+7698,Soacha
+7699,Sincelejo
+7700,Marmato
+7701,Santa Rosa de Cabal
+7702,Maripí
+7703,Barranco de Loba
+7704,Caldas
+7705,San Roque
+7706,Peque
+7707,Choachí
+7708,Regidor
+7709,Chiriguaná
+7710,Nimaima
+7711,Girardot
+7712,Ariguaní
+7713,Leiva
+7714,Piendamó - Tunía
+7715,Campamento
+7716,Mapiripán
+7717,Sahagún
+7718,Carurú
+7719,Taraira
+7720,Norosí
+7721,Villa del Rosario
+7722,Tadó
+7723,La Estrella
+7724,Yolombó
+7725,Achí
+7726,La Apartada
+7727,Sabanalarga
+7728,San Jacinto del Cauca
+7729,Bolívar
+7730,Gutiérrez
+7731,Pisba
+7732,Landázuri
+7733,La Unión
+7734,Pasto
+7735,Sopetrán
+7736,Junín
+7737,San Pedro de los Milagros
+7738,Guadalupe
+7739,El Molino
+7740,Lebrija
+7741,Bochalema
+7742,Puerto Arica
+7743,Repelón
+7744,Valparaíso
+7745,Cucaita
+7746,Maceo
+7747,Dolores
+7748,El Tambo
+7749,Tarqui
+7750,Silvania
+7751,Guapotá
+7752,Hatillo de Loba
+7753,Turmequé
+7754,Támara
+7755,Pamplona
+7756,Malambo
+7757,Santa Bárbara
+7758,Sevilla
+7759,Polonuevo
+7760,El Encanto
+7761,Sabana de Torres
+7762,La Calera
+7763,Quinchía
+7764,El Tambo
+7765,Fortul
+7766,Puerto López
+7767,Corrales
+7768,Bojayá
+7769,Villa Rica
+7770,Melgar
+7771,Socotá
+7772,Cartagena del Chairá
+7773,La Unión
+7774,Puerto Nariño
+7775,Oicatá
+7776,Páez
+7777,La Mesa
+7778,Dabeiba
+7779,La Victoria
+7780,Silvia
+7781,Barranca de Upía
+7782,Arauquita
+7783,Briceño
+7784,Ricaurte
+7785,Margarita
+7786,Puerto Colombia
+7787,Bagadó
+7788,San Agustín
+7789,Samaná
+7790,Nimaima
+7791,Sabanagrande
+7792,Ancuya
+7793,Tame
+7794,Achí
+7795,La Llanada
+7796,El Roble
+7797,Tuta
+7798,Tibaná
+7799,El Retorno
+7800,Sabanagrande
+7801,Astrea
+7802,Bochalema
+7803,Buenavista
+7804,Morales
+7805,Titiribí
+7806,Tibacuy
+7807,Buenaventura
+7808,Salgar
+7809,Riofrío
+7810,Quebradanegra
+7811,Providencia
+7812,Santa Rosalía
+7813,Guaranda
+7814,Buenavista
+7815,Aipe
+7816,Acacías
+7817,Palmar de Varela
+7818,Puerto Triunfo
+7819,Turbaco
+7820,Santa Cruz de Mompox
+7821,Valparaíso
+7822,Riosucio
+7823,Cañasgordas
+7824,Chivolo
+7825,Choachí
+7826,Quibdó
+7827,Suratá
+7828,La Argentina
+7829,Dosquebradas
+7830,Capitanejo
+7831,Ortega
+7832,Carepa
+7833,Puerto López
+7834,Galapa
+7835,Sáchica
+7836,Yaguará
+7837,Ciénaga de Oro
+7838,Valle del Guamuez
+7839,Quetame
+7840,Tarqui
+7841,La Jagua de Ibirico
+7842,Coromoro
+7843,Yopal
+7844,Venadillo
+7845,San Jacinto del Cauca
+7846,Giraldo
+7847,Pital
+7848,Timbiquí
+7849,Tarazá
+7850,San Carlos de Guaroa
+7851,La Unión
+7852,La Salina
+7853,Sasaima
+7854,Carurú
+7855,Maní
+7856,Angostura
+7857,El Rosario
+7858,Toribío
+7859,Barbosa
+7860,Choachí
+7861,Valledupar
+7862,Guachucal
+7863,Ansermanuevo
+7864,Cartagena de Indias
+7865,Cáchira
+7866,Guacamayas
+7867,Carepa
+7868,Marulanda
+7869,Calima
+7870,Carcasí
+7871,Nimaima
+7872,Buenavista
+7873,Cisneros
+7874,Dibulla
+7875,Mutatá
+7876,Belén
+7877,Tipacoque
+7878,San Calixto
+7879,Zapayán
+7880,Soplaviento
+7881,Cerinza
+7882,Tuchín
+7883,Nuevo Colón
+7884,Almaguer
+7885,Santa Rosa
+7886,Jambaló
+7887,Olaya
+7888,Puerto Gaitán
+7889,Norosí
+7890,Oicatá
+7891,San Martín
+7892,La Argentina
+7893,Pueblorrico
+7894,Suan
+7895,Piendamó - Tunía
+7896,Hatonuevo
+7897,Retiro
+7898,Útica
+7899,La Mesa
+7900,Pandi
+7901,Arboletes
+7902,Puerto Salgar
+7903,La Merced
+7904,Anapoima
+7905,Envigado
+7906,Ubalá
+7907,San Benito Abad
+7908,Timbiquí
+7909,Guática
+7910,Piendamó - Tunía
+7911,Cañasgordas
+7912,San Zenón
+7913,Orito
+7914,Nóvita
+7915,Guamal
+7916,Puerto Rondón
+7917,El Encanto
+7918,Bugalagrande
+7919,Puerto Santander
+7920,Calarcá
+7921,Medellín
+7922,San Juan del Cesar
+7923,El Zulia
+7924,Monterrey
+7925,La Jagua del Pilar
+7926,La Primavera
+7927,Puerto Caicedo
+7928,Mongua
+7929,Mistrató
+7930,Tipacoque
+7931,Arjona
+7932,El Tambo
+7933,Aratoca
+7934,Mercaderes
+7935,Jamundí
+7936,San Andrés de Tumaco
+7937,Bojayá
+7938,Santa Marta
+7939,Cachipay
+7940,La Argentina
+7941,Murillo
+7942,Ibagué
+7943,Condoto
+7944,Granada
+7945,Pamplona
+7946,Yolombó
+7947,Caloto
+7948,Bolívar
+7949,Elías
+7950,Nobsa
+7951,Remolino
+7952,Palmar de Varela
+7953,Guadalupe
+7954,Chachagüí
+7955,Valparaíso
+7956,Sibundoy
+7957,Sáchica
+7958,Valparaíso
+7959,Girardot
+7960,Fusagasugá
+7961,Caicedo
+7962,Circasia
+7963,Almeida
+7964,Pinchote
+7965,Remedios
+7966,Girardota
+7967,Arauquita
+7968,Envigado
+7969,Cartago
+7970,Lebrija
+7971,San Pablo
+7972,Guática
+7973,Bojacá
+7974,Campamento
+7975,Villagómez
+7976,López de Micay
+7977,Alpujarra
+7978,La Gloria
+7979,Aguada
+7980,Pajarito
+7981,Los Santos
+7982,Silos
+7983,Briceño
+7984,San José de Uré
+7985,Florida
+7986,Lorica
+7987,Candelaria
+7988,Cota
+7989,Buenavista
+7990,Jericó
+7991,Tuta
+7992,Elías
+7993,Sotará Paispamba
+7994,San Sebastián de Mariquita
+7995,San Cayetano
+7996,El Peñol
+7997,Bojayá
+7998,Albania
+7999,Hispania
+8000,Clemencia
+8001,Ayapel
+8002,La Montañita
+8003,Valle de San Juan
+8004,El Doncello
+8005,Piedras
+8006,Cocorná
+8007,Puerto Nare
+8008,Turbaná
+8009,Caicedo
+8010,El Doncello
+8011,Sampués
+8012,Tesalia
+8013,Milán
+8014,Bochalema
+8015,El Espino
+8016,Hatonuevo
+8017,Somondoco
+8018,Planeta Rica
+8019,Jericó
+8020,Falan
+8021,Caimito
+8022,Tauramena
+8023,Concordia
+8024,Tausa
+8025,Concordia
+8026,Yondó
+8027,Ituango
+8028,Coveñas
+8029,Lorica
+8030,Belén
+8031,Ramiriquí
+8032,Cerinza
+8033,La Virginia
+8034,Tarazá
+8035,Turbaná
+8036,Argelia
+8037,La Salina
+8038,Ragonvalia
+8039,Cali
+8040,Santa Marta
+8041,San Agustín
+8042,Riohacha
+8043,El Santuario
+8044,Puerto Carreño
+8045,Santa Rosa de Osos
+8046,Bugalagrande
+8047,Tadó
+8048,Altamira
+8049,Taraira
+8050,Santo Domingo
+8051,San José del Fragua
+8052,Valencia
+8053,Chiquinquirá
+8054,El Carmen de Chucurí
+8055,Alto Baudó
+8056,Unguía
+8057,Chiscas
+8058,Maní
+8059,Villavieja
+8060,Chivor
+8061,Villanueva
+8062,Mutatá
+8063,La Celia
+8064,Medio Baudó
+8065,Pinchote
+8066,San Bernardo
+8067,Betania
+8068,La Cumbre
+8069,Jamundí
+8070,Panqueba
+8071,Luruaco
+8072,Cácota
+8073,San Andrés
+8074,Mallama
+8075,Soracá
+8076,Guadalupe
+8077,Paya
+8078,Guayabal de Síquima
+8079,Concordia
+8080,Villagómez
+8081,Venecia
+8082,Turbo
+8083,Tame
+8084,San Pedro de Urabá
+8085,San Francisco
+8086,La Gloria
+8087,Castilla la Nueva
+8088,Mogotes
+8089,Zambrano
+8090,Mistrató
+8091,Nimaima
+8092,Girardot
+8093,Apartadó
+8094,Filadelfia
+8095,El Peñón
+8096,Los Palmitos
+8097,Guaduas
+8098,Orito
+8099,Puerto Leguízamo
+8100,Lejanías
+8101,La Gloria
+8102,Santa Rosa
+8103,Valparaíso
+8104,Arauca
+8105,Betania
+8106,El Retorno
+8107,San Francisco
+8108,Tununguá
+8109,Santa Rosa
+8110,Gachalá
+8111,Génova
+8112,Fosca
+8113,El Tambo
+8114,La Llanada
+8115,Guamo
+8116,Atrato
+8117,Tocaima
+8118,Paz de Ariporo
+8119,Suaza
+8120,Maní
+8121,Valparaíso
+8122,Belmira
+8123,Cáqueza
+8124,Caicedonia
+8125,Fonseca
+8126,Busbanzá
+8127,Anzá
+8128,El Cerrito
+8129,Oiba
+8130,Togüí
+8131,Puerto Libertador
+8132,Arboleda
+8133,Ricaurte
+8134,Ebéjico
+8135,Uribe
+8136,La Dorada
+8137,Chiquinquirá
+8138,Pore
+8139,Busbanzá
+8140,Jenesano
+8141,Tarqui
+8142,Pivijay
+8143,El Bagre
+8144,Nóvita
+8145,Valle de San Juan
+8146,La Peña
+8147,San Vicente Ferrer
+8148,Retiro
+8149,Ibagué
+8150,La Salina
+8151,Carepa
+8152,La Jagua de Ibirico
+8153,La Plata
+8154,Totoró
+8155,Girardot
+8156,Soacha
+8157,Angelópolis
+8158,Gualmatán
+8159,Salamina
+8160,San Pablo
+8161,Quipile
+8162,Nariño
+8163,Silvania
+8164,Pueblorrico
+8165,Jerusalén
+8166,El Peñón
+8167,Jerusalén
+8168,La Chorrera
+8169,San Pablo de Borbur
+8170,El Tarra
+8171,Tubará
+8172,Gámeza
+8173,Aquitania
+8174,Taraira
+8175,Puerto Tejada
+8176,Timaná
+8177,Planadas
+8178,Tocaima
+8179,Chinú
+8180,Buenavista
+8181,Monguí
+8182,La Calera
+8183,Cota
+8184,Santa Ana
+8185,Juan de Acosta
+8186,Piedecuesta
+8187,Coveñas
+8188,Medellín
+8189,Santa Ana
+8190,La Cumbre
+8191,Barichara
+8192,Garzón
+8193,Monterrey
+8194,Ubalá
+8195,Yaguará
+8196,Buenavista
+8197,Santiago
+8198,Sopó
+8199,Tópaga
+8200,Remedios
+8201,Istmina
+8202,Soracá
+8203,Villanueva
+8204,Morichal
+8205,La Playa
+8206,Ciénaga de Oro
+8207,Sabanas de San Ángel
+8208,La Belleza
+8209,Samacá
+8210,Palmar de Varela
+8211,Ragonvalia
+8212,Belén
+8213,Lourdes
+8214,Malambo
+8215,Albania
+8216,Pauna
+8217,Tota
+8218,La Tebaida
+8219,Saladoblanco
+8220,Guaitarilla
+8221,La Cumbre
+8222,Baranoa
+8223,Villa del Rosario
+8224,Mitú
+8225,Yumbo
+8226,Granada
+8227,Mahates
+8228,López de Micay
+8229,Jesús María
+8230,Cogua
+8231,El Águila
+8232,Maní
+8233,Ariguaní
+8234,Tena
+8235,Ciénega
+8236,Santo Domingo
+8237,Montecristo
+8238,Chalán
+8239,Suaza
+8240,La Gloria
+8241,Chaguaní
+8242,Aldana
+8243,Chámeza
+8244,Santa Helena del Opón
+8245,Puerto Arica
+8246,Aguachica
+8247,Fosca
+8248,Regidor
+8249,San Gil
+8250,Morales
+8251,Aguazul
+8252,Balboa
+8253,Guayabal de Síquima
+8254,Arauquita
+8255,Ventaquemada
+8256,La Sierra
+8257,Guamo
+8258,El Paso
+8259,San Miguel
+8260,Tona
+8261,Caimito
+8262,Risaralda
+8263,Cubarral
+8264,Carmen de Carupa
+8265,Aguazul
+8266,Pradera
+8267,Rionegro
+8268,Urumita
+8269,Guachucal
+8270,La Vega
+8271,Aipe
+8272,Chima
+8273,San Juan de Betulia
+8274,Monguí
+8275,Pamplona
+8276,Juradó
+8277,Quebradanegra
+8278,Andalucía
+8279,Pulí
+8280,Suaita
+8281,Tenerife
+8282,Simití
+8283,Caparrapí
+8284,Villavicencio
+8285,Mistrató
+8286,Sipí
+8287,Hato Corozal
+8288,San Cayetano
+8289,Ábrego
+8290,Vetas
+8291,Tocaima
+8292,Enciso
+8293,La Jagua del Pilar
+8294,Santo Tomás
+8295,Caldono
+8296,Pueblo Rico
+8297,Anserma
+8298,Zipaquirá
+8299,Sabanas de San Ángel
+8300,La Dorada
+8301,Baranoa
+8302,Galapa
+8303,Yaguará
+8304,Pivijay
+8305,San Estanislao
+8306,Viterbo
+8307,San Gil
+8308,Puerto Alegría
+8309,San Vicente del Caguán
+8310,San Cristóbal
+8311,Apulo
+8312,Cartagena de Indias
+8313,Junín
+8314,Concordia
+8315,Lourdes
+8316,San José de Pare
+8317,Alcalá
+8318,Cucunubá
+8319,Yolombó
+8320,Lloró
+8321,Tena
+8322,Vianí
+8323,Coyaima
+8324,Concepción
+8325,Tibirita
+8326,Chivatá
+8327,Cajicá
+8328,El Banco
+8329,Puracé
+8330,Morales
+8331,Ciudad Bolívar
+8332,Montelíbano
+8333,Yolombó
+8334,Majagual
+8335,San José de Uré
+8336,Vegachí
+8337,Jerusalén
+8338,El Retén
+8339,Valparaíso
+8340,Cocorná
+8341,Covarachía
+8342,Lérida
+8343,Tinjacá
+8344,Venadillo
+8345,Morelia
+8346,Puerto Colombia
+8347,Puebloviejo
+8348,La Peña
+8349,Risaralda
+8350,San Juan de Rioseco
+8351,San Juan del Cesar
+8352,Tasco
+8353,Buenaventura
+8354,El Piñón
+8355,Gama
+8356,Trujillo
+8357,Jericó
+8358,Génova
+8359,Puerto Nariño
+8360,San Pablo
+8361,Hobo
+8362,El Banco
+8363,Medio San Juan
+8364,Bahía Solano
+8365,Jerusalén
+8366,Planeta Rica
+8367,Aracataca
+8368,San Bernardo
+8369,San Juan de Rioseco
+8370,Suárez
+8371,Villarrica
+8372,Contratación
+8373,Tesalia
+8374,Puerto Gaitán
+8375,Samacá
+8376,Timbiquí
+8377,La Gloria
+8378,Abriaquí
+8379,Zapayán
+8380,La Peña
+8381,Mapiripán
+8382,Guamal
+8383,Medellín
+8384,Pelaya
+8385,Sardinata
+8386,Vianí
+8387,Carepa
+8388,Leticia
+8389,Iles
+8390,Acacías
+8391,Anserma
+8392,Roncesvalles
+8393,Betulia
+8394,Coyaima
+8395,Montería
+8396,Silos
+8397,San Pedro de Urabá
+8398,Isnos
+8399,Olaya
+8400,El Dorado
+8401,Campo de la Cruz
+8402,El Piñón
+8403,Túquerres
+8404,Piojó
+8405,La Plata
+8406,San Pedro de los Milagros
+8407,Mapiripán
+8408,La Victoria
+8409,Tenjo
+8410,Girón
+8411,Santa Lucía
+8412,Villagarzón
+8413,Sesquilé
+8414,Tame
+8415,Chocontá
+8416,Juan de Acosta
+8417,Santa Lucía
+8418,Nimaima
+8419,Sitionuevo
+8420,El Rosario
+8421,Macanal
+8422,Carurú
+8423,Garagoa
+8424,Puerto Wilches
+8425,El Carmen de Chucurí
+8426,Santa Rosa del Sur
+8427,Lérida
+8428,La Victoria
+8429,La Apartada
+8430,Guayatá
+8431,Sucre
+8432,Usiacurí
+8433,Florencia
+8434,Valdivia
+8435,Sesquilé
+8436,Cachipay
+8437,Carmen de Apicalá
+8438,Valledupar
+8439,Piendamó - Tunía
+8440,Mogotes
+8441,Sora
+8442,Santa Bárbara
+8443,San Antonio del Tequendama
+8444,Riofrío
+8445,Ulloa
+8446,Filadelfia
+8447,San Pedro de Cartago
+8448,Abriaquí
+8449,Aratoca
+8450,San Juan de Betulia
+8451,Andalucía
+8452,Villagómez
+8453,Aguazul
+8454,Barrancas
+8455,Calamar
+8456,San Zenón
+8457,Carcasí
+8458,Sáchica
+8459,Capitanejo
+8460,Planeta Rica
+8461,San José de la Montaña
+8462,Balboa
+8463,Suárez
+8464,Filadelfia
+8465,Curillo
+8466,Puerto Nare
+8467,El Rosal
+8468,Repelón
+8469,Mahates
+8470,Victoria
+8471,Barrancas
+8472,Tesalia
+8473,Alvarado
+8474,Victoria
+8475,Sabanalarga
+8476,Los Patios
+8477,Guaduas
+8478,Lejanías
+8479,Hato Corozal
+8480,Sabanalarga
+8481,Buriticá
+8482,Fómeque
+8483,Ciénaga
+8484,Santa Rosa de Osos
+8485,Santiago
+8486,Oiba
+8487,Providencia
+8488,Vijes
+8489,Caucasia
+8490,Suesca
+8491,La Celia
+8492,San Juan de Rioseco
+8493,Hobo
+8494,Ortega
+8495,Puerto Berrío
+8496,La Calera
+8497,Landázuri
+8498,Atrato
+8499,Ragonvalia
+8500,Tello
+8501,Santa María
+8502,Cota
+8503,Soatá
+8504,El Carmen de Viboral
+8505,La Llanada
+8506,Moniquirá
+8507,San Pedro de los Milagros
+8508,Apía
+8509,Villavieja
+8510,Bochalema
+8511,Útica
+8512,Magüí
+8513,Gramalote
+8514,Sasaima
+8515,Roncesvalles
+8516,Sucre
+8517,Guadalupe
+8518,Suesca
+8519,Oiba
+8520,Roldanillo
+8521,Cumaribo
+8522,La Argentina
+8523,Ciénaga de Oro
+8524,El Castillo
+8525,Puerto Caicedo
+8526,El Paso
+8527,Páez
+8528,San Roque
+8529,Quibdó
+8530,Sipí
+8531,Soatá
+8532,Simití
+8533,Bugalagrande
+8534,Montenegro
+8535,Lejanías
+8536,Funes
+8537,San Juan del Cesar
+8538,Pisba
+8539,Pinillos
+8540,Frontino
+8541,San Cristóbal
+8542,San Andrés
+8543,Providencia
+8544,Villanueva
+8545,Durania
+8546,Bucarasica
+8547,La Dorada
+8548,Manaure
+8549,Muzo
+8550,Cepitá
+8551,Villa del Rosario
+8552,Siachoque
+8553,Villanueva
+8554,San Rafael
+8555,Ponedera
+8556,Guática
+8557,Cerrito
+8558,Balboa
+8559,San Calixto
+8560,Guamal
+8561,Peñol
+8562,Villeta
+8563,Vianí
+8564,San Juan del Cesar
+8565,El Carmen
+8566,Puerto Leguízamo
+8567,La Llanada
+8568,San Benito
+8569,Santa Rosalía
+8570,Gómez Plata
+8571,Coveñas
+8572,Tibacuy
+8573,Sevilla
+8574,Florida
+8575,Melgar
+8576,Santa Rosa de Viterbo
+8577,Arboletes
+8578,El Carmen de Bolívar
+8579,La Celia
+8580,Tarso
+8581,Timaná
+8582,San Juan del Cesar
+8583,Nátaga
+8584,Repelón
+8585,Morelia
+8586,Albán
+8587,Salazar
+8588,Yotoco
+8589,Ambalema
+8590,Pasca
+8591,Guayatá
+8592,Inzá
+8593,Entrerríos
+8594,Armenia
+8595,Campo de la Cruz
+8596,Guarne
+8597,Guaranda
+8598,Puerto Gaitán
+8599,Puerto Asís
+8600,San Eduardo
+8601,Regidor
+8602,Plato
+8603,Chivor
+8604,Villeta
+8605,Armenia
+8606,Inzá
+8607,Cota
+8608,Manizales
+8609,Altos del Rosario
+8610,Timbío
+8611,Samaniego
+8612,Villarrica
+8613,Villagarzón
+8614,San Bernardo
+8615,Riofrío
+8616,Galapa
+8617,Colón
+8618,San José de Pare
+8619,Mongua
+8620,Mistrató
+8621,San Francisco
+8622,Útica
+8623,Nimaima
+8624,Guayabetal
+8625,Guasca
+8626,Achí
+8627,Santa Sofía
+8628,Cimitarra
+8629,Tibacuy
+8630,Balboa
+8631,Cachipay
+8632,Anserma
+8633,Río Iró
+8634,Santa Bárbara
+8635,Sipí
+8636,La Florida
+8637,Barranquilla
+8638,Entrerríos
+8639,Sutatenza
+8640,Tenerife
+8641,Guayatá
+8642,Puerto Tejada
+8643,Leticia
+8644,López de Micay
+8645,Pradera
+8646,Sabanagrande
+8647,Bochalema
+8648,Itagüí
+8649,Manatí
+8650,Muzo
+8651,Peñol
+8652,Caldas
+8653,López de Micay
+8654,Túquerres
+8655,La Unión
+8656,El Colegio
+8657,Belén
+8658,Cuaspud Carlosama
+8659,Villa Caro
+8660,Falan
+8661,Quimbaya
+8662,Andes
+8663,Imués
+8664,Machetá
+8665,Casabianca
+8666,Ambalema
+8667,Curití
+8668,Ambalema
+8669,Astrea
+8670,Caucasia
+8671,Concepción
+8672,Tocaima
+8673,Santa Bárbara
+8674,El Rosal
+8675,San Jerónimo
+8676,Suárez
+8677,Puerto Parra
+8678,Cumbitara
+8679,San Agustín
+8680,San Onofre
+8681,Mosquera
+8682,Nimaima
+8683,Vetas
+8684,Sabanas de San Ángel
+8685,Fómeque
+8686,Altamira
+8687,Monterrey
+8688,Ariguaní
+8689,Sabanagrande
+8690,Santiago
+8691,Ábrego
+8692,Támara
+8693,Bochalema
+8694,Pandi
+8695,Belmira
+8696,Tocaima
+8697,Puerto Libertador
+8698,Guatavita
+8699,Puerto Parra
+8700,Galapa
+8701,Hatillo de Loba
+8702,Cicuco
+8703,San Carlos
+8704,Lorica
+8705,Medina
+8706,Tutazá
+8707,Medellín
+8708,Villeta
+8709,Mahates
+8710,Sativanorte
+8711,Mahates
+8712,Facatativá
+8713,La Sierra
+8714,Linares
+8715,Vergara
+8716,Bucarasica
+8717,Florencia
+8718,Candelaria
+8719,Guavatá
+8720,Providencia
+8721,Titiribí
+8722,San Vicente de Chucurí
+8723,Santa Rosa
+8724,San Joaquín
+8725,Murindó
+8726,Planeta Rica
+8727,Guamo
+8728,La Uvita
+8729,Tenjo
+8730,Dolores
+8731,Guadalupe
+8732,Leiva
+8733,Melgar
+8734,Providencia
+8735,Luruaco
+8736,Pasca
+8737,Puerto Rondón
+8738,Murindó
+8739,La Unión
+8740,Tibaná
+8741,Enciso
+8742,Bolívar
+8743,La Argentina
+8744,Tibacuy
+8745,Filadelfia
+8746,El Santuario
+8747,Yarumal
+8748,Remedios
+8749,Sopetrán
+8750,San Juanito
+8751,Distracción
+8752,Fusagasugá
+8753,Rovira
+8754,Iza
+8755,Timaná
+8756,Facatativá
+8757,Yaguará
+8758,Chachagüí
+8759,Puerto Escondido
+8760,La Belleza
+8761,Tausa
+8762,Uramita
+8763,Puerto Concordia
+8764,Málaga
+8765,Barbacoas
+8766,Chinú
+8767,Santa Rosa
+8768,Amalfi
+8769,Yavaraté
+8770,La Paz
+8771,Maicao
+8772,Zapayán
+8773,Ráquira
+8774,Rionegro
+8775,Puracé
+8776,Buriticá
+8777,Betulia
+8778,Líbano
+8779,La Vega
+8780,Suárez
+8781,Cabuyaro
+8782,San José de Miranda
+8783,Circasia
+8784,Pamplonita
+8785,Candelaria
+8786,San Agustín
+8787,Sáchica
+8788,Gutiérrez
+8789,Puerto Tejada
+8790,Quimbaya
+8791,Sibaté
+8792,Concordia
+8793,Arauquita
+8794,Villahermosa
+8795,Miraflores
+8796,Puerto Leguízamo
+8797,Bello
+8798,Yacopí
+8799,Quipile
+8800,Cáceres
+8801,Ábrego
+8802,Lejanías
+8803,Toca
+8804,Donmatías
+8805,Pinchote
+8806,Guaca
+8807,Liborina
+8808,San Marcos
+8809,Cácota
+8810,San Pablo
+8811,Gramalote
+8812,Simití
+8813,Uribe
+8814,El Cantón del San Pablo
+8815,Bahía Solano
+8816,Madrid
+8817,Yavaraté
+8818,Rovira
+8819,El Carmen de Atrato
+8820,El Roble
+8821,Cunday
+8822,Turmequé
+8823,La Uvita
+8824,Ovejas
+8825,Vigía del Fuerte
+8826,Mesetas
+8827,Landázuri
+8828,Puerto Leguízamo
+8829,Cabuyaro
+8830,Ocaña
+8831,Peque
+8832,San Diego
+8833,El Carmen de Bolívar
+8834,Cubarral
+8835,Anapoima
+8836,Unión Panamericana
+8837,Socorro
+8838,Firavitoba
+8839,Tununguá
+8840,Sibaté
+8841,Cáceres
+8842,Santa Marta
+8843,San José del Fragua
+8844,Circasia
+8845,San Cristóbal
+8846,San Juanito
+8847,Providencia
+8848,Salgar
+8849,Agrado
+8850,San Cayetano
+8851,Ubaque
+8852,Bituima
+8853,Olaya Herrera
+8854,Jerusalén
+8855,Marquetalia
+8856,Guatavita
+8857,Quebradanegra
+8858,Samaniego
+8859,Albania
+8860,Labateca
+8861,Candelaria
+8862,Chivolo
+8863,San Bernardo
+8864,Soatá
+8865,Belmira
+8866,Samaná
+8867,Lenguazaque
+8868,El Guacamayo
+8869,Valparaíso
+8870,Almaguer
+8871,Titiribí
+8872,San Pedro
+8873,Maripí
+8874,Arjona
+8875,Casabianca
+8876,Villa Rica
+8877,Abejorral
+8878,Simijaca
+8879,La Esperanza
+8880,Albania
+8881,Florencia
+8882,Facatativá
+8883,El Peñón
+8884,Tadó
+8885,Zapatoca
+8886,Yarumal
+8887,Nátaga
+8888,Morelia
+8889,Galapa
+8890,Gutiérrez
+8891,Yaguará
+8892,Teruel
+8893,San Francisco
+8894,Supía
+8895,Páez
+8896,Santa Catalina
+8897,Paicol
+8898,Abriaquí
+8899,Subachoque
+8900,San Estanislao
+8901,Maripí
+8902,Pesca
+8903,Belén
+8904,Ibagué
+8905,Bolívar
+8906,Sasaima
+8907,Floresta
+8908,Villagarzón
+8909,San Luis de Gaceno
+8910,Sutatenza
+8911,Quinchía
+8912,Herrán
+8913,Támesis
+8914,Momil
+8915,Rionegro
+8916,Magangué
+8917,San Juan de Betulia
+8918,Candelaria
+8919,Suratá
+8920,Agrado
+8921,El Peñón
+8922,Roberto Payán
+8923,Cimitarra
+8924,Baranoa
+8925,Aipe
+8926,Tena
+8927,Planadas
+8928,San José del Guaviare
+8929,Arcabuco
+8930,Valdivia
+8931,La Apartada
+8932,Rionegro
+8933,Cerro de San Antonio
+8934,Villavieja
+8935,Guateque
+8936,San Pedro de Cartago
+8937,Mosquera
+8938,Bagadó
+8939,Coveñas
+8940,Campo de la Cruz
+8941,Santiago
+8942,Carmen de Apicalá
+8943,Mocoa
+8944,Corrales
+8945,Gómez Plata
+8946,Puracé
+8947,Quebradanegra
+8948,Suan
+8949,Pesca
+8950,Imués
+8951,Líbano
+8952,Matanza
+8953,El Tambo
+8954,Saladoblanco
+8955,Paz de Ariporo
+8956,Silos
+8957,Villanueva
+8958,San Luis
+8959,Villamaría
+8960,Cáchira
+8961,El Peñón
+8962,Tarso
+8963,Buenaventura
+8964,Norcasia
+8965,Puerto Colombia
+8966,Tuta
+8967,Chíquiza
+8968,Guasca
+8969,Togüí
+8970,Buenavista
+8971,Villahermosa
+8972,Sáchica
+8973,Bojayá
+8974,Ginebra
+8975,Puerto Rico
+8976,Orocué
+8977,Distracción
+8978,La Celia
+8979,Palermo
+8980,Santa Bárbara
+8981,Manaure Balcón del Cesar
+8982,Pueblorrico
+8983,Yumbo
+8984,Dosquebradas
+8985,Hispania
+8986,Curillo
+8987,Viterbo
+8988,Marinilla
+8989,El Calvario
+8990,Charalá
+8991,Potosí
+8992,San Pedro de Urabá
+8993,El Peñón
+8994,Chaguaní
+8995,La Ceja
+8996,Pandi
+8997,Riosucio
+8998,Albania
+8999,Gámeza
+9000,La Guadalupe
+9001,Susacón
+9002,Sabanas de San Ángel
+9003,Saldaña
+9004,Armero
+9005,Susacón
+9006,Caracolí
+9007,Pinchote
+9008,Muzo
+9009,Hobo
+9010,Buenavista
+9011,Fortul
+9012,Subachoque
+9013,Puerto Colombia
+9014,Sutatausa
+9015,Pailitas
+9016,El Carmen de Atrato
+9017,Cucutilla
+9018,Algarrobo
+9019,Puerto Alegría
+9020,Argelia
+9021,Orito
+9022,Fredonia
+9023,Teorama
+9024,Santa Bárbara
+9025,Hato
+9026,Chámeza
+9027,Cáqueza
+9028,Santa Bárbara de Pinto
+9029,Salamina
+9030,Lorica
+9031,Itagüí
+9032,San Rafael
+9033,El Bagre
+9034,Solita
+9035,Baranoa
+9036,Galán
+9037,Caucasia
+9038,Acevedo
+9039,Yolombó
+9040,Guática
+9041,Paipa
+9042,Barbosa
+9043,Pelaya
+9044,La Macarena
+9045,Anapoima
+9046,Teorama
+9047,Dosquebradas
+9048,Melgar
+9049,Tierralta
+9050,Caldas
+9051,Zapatoca
+9052,Gachancipá
+9053,Sotará Paispamba
+9054,Guatavita
+9055,San José
+9056,Marquetalia
+9057,La Cumbre
+9058,El Piñón
+9059,Pivijay
+9060,Barbacoas
+9061,Confines
+9062,Tuluá
+9063,Villanueva
+9064,Tarazá
+9065,Socorro
+9066,Coyaima
+9067,Ariguaní
+9068,Arboledas
+9069,Canalete
+9070,Curillo
+9071,Palermo
+9072,Puerto Triunfo
+9073,Murindó
+9074,Tasco
+9075,Soracá
+9076,Villa del Rosario
+9077,Amagá
+9078,Santa Ana
+9079,La Uvita
+9080,Maicao
+9081,Puerto Rico
+9082,Valle de San José
+9083,Carolina
+9084,Cunday
+9085,La Peña
+9086,Inzá
+9087,Chimichagua
+9088,Cabuyaro
+9089,San Jacinto
+9090,Guadalajara de Buga
+9091,Majagual
+9092,Santa Rosa del Sur
+9093,San Juan de Betulia
+9094,San Francisco
+9095,Mocoa
+9096,Tipacoque
+9097,Villeta
+9098,Puerto Caicedo
+9099,Cepitá
+9100,Ciénaga de Oro
+9101,Tuchín
+9102,Durania
+9103,Anorí
+9104,Cértegui
+9105,Obando
+9106,Taminango
+9107,Puerres
+9108,Puerto Rico
+9109,Manizales
+9110,Tona
+9111,San Cayetano
+9112,Tenza
+9113,Tuta
+9114,Granada
+9115,Saldaña
+9116,Salamina
+9117,La Celia
+9118,Puerto Nare
+9119,Manzanares
+9120,San Pedro de los Milagros
+9121,Santa Rosa de Osos
+9122,Yacuanquer
+9123,Ebéjico
+9124,San Bernardo
+9125,Pácora
+9126,Dabeiba
+9127,Villahermosa
+9128,Prado
+9129,Susa
+9130,Chocontá
+9131,Tibú
+9132,Tame
+9133,Tocaima
+9134,Puerto Caicedo
+9135,Valledupar
+9136,Túquerres
+9137,Puerto Gaitán
+9138,Dagua
+9139,Armenia
+9140,Guayabal de Síquima
+9141,Cocorná
+9142,Marinilla
+9143,San José de Miranda
+9144,Puerto Santander
+9145,San Felipe
+9146,Gutiérrez
+9147,Hobo
+9148,Caucasia
+9149,Tenjo
+9150,Guayabal de Síquima
+9151,Chinavita
+9152,San Calixto
+9153,San Alberto
+9154,Susacón
+9155,Aguadas
+9156,San Francisco
+9157,Zetaquira
+9158,El Guacamayo
+9159,Marsella
+9160,La Capilla
+9161,Simijaca
+9162,Arbeláez
+9163,Sitionuevo
+9164,Viotá
+9165,Arboledas
+9166,Chámeza
+9167,Villeta
+9168,Inírida
+9169,Venadillo
+9170,La Jagua del Pilar
+9171,Somondoco
+9172,Tununguá
+9173,Concepción
+9174,Floridablanca
+9175,San Pedro
+9176,San Andrés de Sotavento
+9177,Aranzazu
+9178,Los Córdobas
+9179,Macanal
+9180,Puerto Nare
+9181,Quetame
+9182,Manaure
+9183,Guadalupe
+9184,Concepción
+9185,Solita
+9186,Silvania
+9187,Turbaná
+9188,Cáqueza
+9189,Simití
+9190,Guatapé
+9191,Bucarasica
+9192,Mocoa
+9193,Candelaria
+9194,Guatavita
+9195,San José de Miranda
+9196,Covarachía
+9197,Manzanares
+9198,Jesús María
+9199,Galán
+9200,Momil
+9201,Guatavita
+9202,Girón
+9203,Tiquisio
+9204,Becerril
+9205,San Juan Nepomuceno
+9206,Guayabetal
+9207,Labateca
+9208,Medio Atrato
+9209,Sevilla
+9210,Sesquilé
+9211,Villahermosa
+9212,La Playa
+9213,Ibagué
+9214,Armero
+9215,Coper
+9216,Santa Cruz de Mompox
+9217,Beltrán
+9218,Timbío
+9219,Providencia
+9220,Balboa
+9221,Palestina
+9222,Palermo
+9223,Sevilla
+9224,Tutazá
+9225,San Carlos
+9226,San José del Palmar
+9227,Acandí
+9228,Viotá
+9229,Ubalá
+9230,Olaya
+9231,Tame
+9232,Medio Atrato
+9233,Malambo
+9234,Valle de San José
+9235,Gámeza
+9236,Güicán de la Sierra
+9237,Lorica
+9238,Oiba
+9239,Cimitarra
+9240,Olaya Herrera
+9241,Honda
+9242,Yalí
+9243,Moniquirá
+9244,California
+9245,Buesaco
+9246,Hatillo de Loba
+9247,Riosucio
+9248,Puerto López
+9249,Solita
+9250,Almaguer
+9251,Regidor
+9252,Nimaima
+9253,Mercaderes
+9254,Quibdó
+9255,Peñol
+9256,Marmato
+9257,La Merced
+9258,Amagá
+9259,Bolívar
+9260,Pulí
+9261,Ubalá
+9262,Palmito
+9263,Majagual
+9264,San Roque
+9265,Caparrapí
+9266,Nunchía
+9267,Tinjacá
+9268,Monterrey
+9269,Tierralta
+9270,Manizales
+9271,Buenavista
+9272,Algarrobo
+9273,Sincelejo
+9274,Suaita
+9275,Yumbo
+9276,Ricaurte
+9277,Marmato
+9278,Ayapel
+9279,Linares
+9280,Palermo
+9281,Cogua
+9282,Gachetá
+9283,Güicán de la Sierra
+9284,Santa Bárbara
+9285,Entrerríos
+9286,Santo Tomás
+9287,Pueblo Rico
+9288,Puerto Rondón
+9289,Cartagena de Indias
+9290,San José del Palmar
+9291,Andes
+9292,Carmen de Carupa
+9293,Santa Rosa de Osos
+9294,Aguachica
+9295,San Jacinto del Cauca
+9296,Villa del Rosario
+9297,Sibundoy
+9298,Santa Rosa de Cabal
+9299,Santa Bárbara
+9300,La Victoria
+9301,San Juanito
+9302,Ituango
+9303,Belén de los Andaquíes
+9304,Chigorodó
+9305,Arroyohondo
+9306,Toribío
+9307,Filandia
+9308,La Victoria
+9309,Istmina
+9310,San Felipe
+9311,Sabaneta
+9312,Aratoca
+9313,Puebloviejo
+9314,Donmatías
+9315,Guapotá
+9316,Cisneros
+9317,Palestina
+9318,Chimá
+9319,Los Palmitos
+9320,San Vicente Ferrer
+9321,Tadó
+9322,Lérida
+9323,Viracachá
+9324,Granada
+9325,Piedecuesta
+9326,San Andrés de Cuerquía
+9327,Lorica
+9328,Aldana
+9329,Planadas
+9330,Liborina
+9331,Salamina
+9332,Salamina
+9333,Abejorral
+9334,Hatonuevo
+9335,Buenavista
+9336,Cotorra
+9337,Vetas
+9338,Florencia
+9339,Nemocón
+9340,Nuevo Colón
+9341,Jericó
+9342,Belalcázar
+9343,Pore
+9344,Timbiquí
+9345,Arenal
+9346,San Rafael
+9347,Timaná
+9348,Buenavista
+9349,El Bagre
+9350,Puerto Carreño
+9351,Valparaíso
+9352,Susacón
+9353,Puerto Leguízamo
+9354,Villanueva
+9355,Circasia
+9356,Caracolí
+9357,San Francisco
+9358,Cachipay
+9359,Sibundoy
+9360,Patía
+9361,La Pintada
+9362,Guaca
+9363,San Zenón
+9364,Medellín
+9365,Togüí
+9366,Riofrío
+9367,El Tarra
+9368,Cotorra
+9369,Concordia
+9370,San Francisco
+9371,Guarne
+9372,Solita
+9373,Zona Bananera
+9374,Granada
+9375,San Pedro de Cartago
+9376,Gachetá
+9377,Argelia
+9378,Socorro
+9379,Toro
+9380,Villagarzón
+9381,Páramo
+9382,La Mesa
+9383,Acacías
+9384,Firavitoba
+9385,Salamina
+9386,Villapinzón
+9387,Simití
+9388,Nunchía
+9389,Maní
+9390,San Diego
+9391,Nocaima
+9392,Gámeza
+9393,Palocabildo
+9394,Providencia
+9395,Quetame
+9396,Pitalito
+9397,Une
+9398,Concepción
+9399,Galapa
+9400,Sabanalarga
+9401,Puerto Parra
+9402,Zipaquirá
+9403,San José de Toluviejo
+9404,Consacá
+9405,Recetor
+9406,Almeida
+9407,Espinal
+9408,Silvia
+9409,Santa Rosalía
+9410,Landázuri
+9411,Isnos
+9412,Juradó
+9413,Santa Sofía
+9414,Sácama
+9415,La Montañita
+9416,Colosó
+9417,San Vicente del Caguán
+9418,Magangué
+9419,Mirití - Paraná
+9420,Puebloviejo
+9421,La Tebaida
+9422,El Santuario
+9423,San Luis de Gaceno
+9424,La Merced
+9425,Granada
+9426,Santiago
+9427,Papunahua
+9428,Guadalupe
+9429,Balboa
+9430,Rivera
+9431,Calamar
+9432,Chivor
+9433,Morales
+9434,Puerto Colombia
+9435,Chipatá
+9436,Susa
+9437,Corozal
+9438,Morichal
+9439,San Agustín
+9440,Lloró
+9441,Barrancabermeja
+9442,Cucaita
+9443,Gramalote
+9444,El Tambo
+9445,Tarapacá
+9446,Sabana de Torres
+9447,Guayabetal
+9448,Ocamonte
+9449,Toledo
+9450,Guatapé
+9451,Abejorral
+9452,Calarcá
+9453,Baranoa
+9454,San José de Toluviejo
+9455,Tierralta
+9456,Vegachí
+9457,Puerto Wilches
+9458,Montelíbano
+9459,San Pablo
+9460,Vijes
+9461,Cumbitara
+9462,Viotá
+9463,Unguía
+9464,Córdoba
+9465,San Pelayo
+9466,Cabuyaro
+9467,Ginebra
+9468,San Andrés de Cuerquía
+9469,Turbaná
+9470,Girón
+9471,Circasia
+9472,Concepción
+9473,Marulanda
+9474,Soatá
+9475,Repelón
+9476,Ulloa
+9477,La Victoria
+9478,Gachancipá
+9479,Guayabal de Síquima
+9480,Ventaquemada
+9481,Ciénaga de Oro
+9482,Cucaita
+9483,Ocamonte
+9484,Guaranda
+9485,Sincelejo
+9486,Tesalia
+9487,El Carmen de Atrato
+9488,Tenerife
+9489,Cáchira
+9490,Florencia
+9491,Socorro
+9492,Mallama
+9493,Firavitoba
+9494,San Fernando
+9495,Manizales
+9496,Cacahual
+9497,San Alberto
+9498,Concepción
+9499,Quinchía
+9500,Buriticá
+9501,El Tablón de Gómez
+9502,El Carmen de Viboral
+9503,Acacías
+9504,Tibú
+9505,La Cruz
+9506,Astrea
+9507,Tenerife
+9508,Samacá
+9509,Rovira
+9510,Villanueva
+9511,Puerto Berrío
+9512,Paz de Ariporo
+9513,San Juan del Cesar
+9514,Cabuyaro
+9515,Quípama
+9516,Vetas
+9517,Planadas
+9518,San Andrés de Cuerquía
+9519,Arroyohondo
+9520,San Mateo
+9521,Bugalagrande
+9522,Tame
+9523,Ventaquemada
+9524,Remedios
+9525,Gama
+9526,Puerto Tejada
+9527,Soacha
+9528,Labateca
+9529,Charta
+9530,Morichal
+9531,Sopetrán
+9532,Segovia
+9533,Nariño
+9534,Sapuyes
+9535,Arcabuco
+9536,Pueblo Nuevo
+9537,Melgar
+9538,Santa Fé de Antioquia
+9539,El Carmen de Bolívar
+9540,Guadalupe
+9541,Yavaraté
+9542,San José
+9543,Yacuanquer
+9544,Vetas
+9545,Arboletes
+9546,Cerro de San Antonio
+9547,Jamundí
+9548,Hatonuevo
+9549,Arboleda
+9550,Pulí
+9551,Tarqui
+9552,Córdoba
+9553,Santiago
+9554,Roberto Payán
+9555,Muzo
+9556,Condoto
+9557,Durania
+9558,Los Córdobas
+9559,Cumaribo
+9560,Corozal
+9561,Tarso
+9562,San Jacinto del Cauca
+9563,San Miguel
+9564,Toca
+9565,Planeta Rica
+9566,Turbaná
+9567,Inírida
+9568,Manizales
+9569,Caldono
+9570,Úmbita
+9571,San Pedro
+9572,Fortul
+9573,Altamira
+9574,Unguía
+9575,Nóvita
+9576,Sardinata
+9577,El Roble
+9578,Arboledas
+9579,Villa Caro
+9580,La Guadalupe
+9581,Barrancominas
+9582,Puerto Caicedo
+9583,Risaralda
+9584,San Cayetano
+9585,Sabanas de San Ángel
+9586,Calarcá
+9587,Neira
+9588,Barrancas
+9589,Medio San Juan
+9590,Villavicencio
+9591,Nátaga
+9592,San Bernardo
+9593,San Eduardo
+9594,Venecia
+9595,Concordia
+9596,Durania
+9597,Rondón
+9598,Guadalupe
+9599,Tangua
+9600,Aguadas
+9601,Planadas
+9602,Bolívar
+9603,El Peñón
+9604,El Playón
+9605,Chitagá
+9606,Santa Rosa de Viterbo
+9607,San Cayetano
+9608,San Agustín
+9609,Málaga
+9610,Apulo
+9611,Viracachá
+9612,Victoria
+9613,Cajamarca
+9614,Puerto Nariño
+9615,Titiribí
+9616,Valencia
+9617,Cali
+9618,El Roble
+9619,Pore
+9620,Albán
+9621,San Martín
+9622,Macaravita
+9623,Coello
+9624,Albania
+9625,Sabana de Torres
+9626,Zaragoza
+9627,El Peñón
+9628,Ocaña
+9629,Providencia
+9630,El Copey
+9631,Guaduas
+9632,Guadalupe
+9633,Ancuya
+9634,Leticia
+9635,Tinjacá
+9636,Providencia
+9637,Mercaderes
+9638,El Paujíl
+9639,Chaparral
+9640,San Juan del Cesar
+9641,Dolores
+9642,Morelia
+9643,Timbiquí
+9644,Maicao
+9645,Sardinata
+9646,Toledo
+9647,San Jacinto del Cauca
+9648,Nariño
+9649,San Pedro de Urabá
+9650,San Luis de Gaceno
+9651,Pacho
+9652,Murindó
+9653,Siachoque
+9654,Apartadó
+9655,Norcasia
+9656,Sitionuevo
+9657,Armenia
+9658,Fómeque
+9659,González
+9660,Acevedo
+9661,San José del Guaviare
+9662,Pedraza
+9663,Puerto Colombia
+9664,Murillo
+9665,Tauramena
+9666,Oicatá
+9667,Margarita
+9668,Timbío
+9669,Pijao
+9670,Une
+9671,Calamar
+9672,Curillo
+9673,Norosí
+9674,Santa Lucía
+9675,San Pedro de Urabá
+9676,Saboyá
+9677,San Jerónimo
+9678,Santa Bárbara
+9679,Sabanalarga
+9680,Quebradanegra
+9681,Gama
+9682,Potosí
+9683,Guachucal
+9684,Aipe
+9685,Concepción
+9686,Tona
+9687,Puerto Colombia
+9688,Bolívar
+9689,Sativasur
+9690,Oiba
+9691,El Carmen de Chucurí
+9692,Sucre
+9693,Mercaderes
+9694,Charta
+9695,Colón
+9696,Tarapacá
+9697,Sardinata
+9698,Nunchía
+9699,Condoto
+9700,San Mateo
+9701,Guasca
+9702,Cañasgordas
+9703,Retiro
+9704,Chalán
+9705,San Andrés de Sotavento
+9706,Apartadó
+9707,Rionegro
+9708,Manatí
+9709,Mirití - Paraná
+9710,Sucre
+9711,Hispania
+9712,Rioblanco
+9713,Oicatá
+9714,Santa Rosa de Viterbo
+9715,Coromoro
+9716,Solano
+9717,El Guacamayo
+9718,Risaralda
+9719,El Guamo
+9720,Puerto Concordia
+9721,Tiquisio
+9722,San Pedro
+9723,Santa María
+9724,Bituima
+9725,Albania
+9726,Saboyá
+9727,Pamplona
+9728,Génova
+9729,Villamaría
+9730,Sativanorte
+9731,Jambaló
+9732,Pueblorrico
+9733,Ábrego
+9734,Sabanalarga
+9735,Nuevo Colón
+9736,Tamalameque
+9737,Zaragoza
+9738,Santa Rosa de Osos
+9739,Miranda
+9740,Pinchote
+9741,Argelia
+9742,Tibirita
+9743,Valparaíso
+9744,Confines
+9745,Ataco
+9746,Capitanejo
+9747,Tesalia
+9748,San Pedro de los Milagros
+9749,Bahía Solano
+9750,Santander de Quilichao
+9751,Chalán
+9752,Tubará
+9753,Zipacón
+9754,Medio San Juan
+9755,La Jagua de Ibirico
+9756,La Cruz
+9757,Tuchín
+9758,Manizales
+9759,Victoria
+9760,Los Santos
+9761,Florencia
+9762,Támesis
+9763,Trujillo
+9764,Guática
+9765,Socorro
+9766,Paratebueno
+9767,Versalles
+9768,Chitagá
+9769,Buenavista
+9770,Valledupar
+9771,Casabianca
+9772,Barichara
+9773,Consacá
+9774,El Retén
+9775,Sapuyes
+9776,Aipe
+9777,Motavita
+9778,Carepa
+9779,San Mateo
+9780,Florencia
+9781,Bolívar
+9782,Jesús María
+9783,Chitaraque
+9784,Pueblorrico
+9785,San Martín
+9786,Santuario
+9787,Sabanalarga
+9788,Motavita
+9789,Vistahermosa
+9790,Guadalupe
+9791,Toro
+9792,Baraya
+9793,Caicedo
+9794,Campoalegre
+9795,El Dorado
+9796,San Juan de Betulia
+9797,Zapayán
+9798,El Retorno
+9799,Hatillo de Loba
+9800,Mistrató
+9801,Soatá
+9802,Puerto Libertador
+9803,Uribe
+9804,Cantagallo
+9805,Solano
+9806,Altos del Rosario
+9807,Remedios
+9808,La Macarena
+9809,Suaita
+9810,Colón
+9811,Betulia
+9812,Venecia
+9813,Armenia
+9814,Puerto Asís
+9815,El Peñón
+9816,Mongua
+9817,Tarazá
+9818,Briceño
+9819,Guadalupe
+9820,Belalcázar
+9821,Ayapel
+9822,El Cerrito
+9823,Villagómez
+9824,Margarita
+9825,Chiquinquirá
+9826,Mallama
+9827,Firavitoba
+9828,Cantagallo
+9829,Facatativá
+9830,Nóvita
+9831,Aquitania
+9832,Vegachí
+9833,Nariño
+9834,Íquira
+9835,Paz de Río
+9836,Albania
+9837,Cali
+9838,La Dorada
+9839,Usiacurí
+9840,Sabanas de San Ángel
+9841,Fosca
+9842,El Santuario
+9843,Miraflores
+9844,Cerinza
+9845,Matanza
+9846,Mahates
+9847,Maripí
+9848,El Playón
+9849,La Pintada
+9850,Uribe
+9851,San Gil
+9852,Paipa
+9853,Caracolí
+9854,Villa Rica
+9855,Santa Rosa de Osos
+9856,San Andrés de Sotavento
+9857,Choachí
+9858,Corinto
+9859,Buenavista
+9860,Curumaní
+9861,Cacahual
+9862,Gachantivá
+9863,El Castillo
+9864,La Belleza
+9865,Socotá
+9866,Guamal
+9867,Tasco
+9868,Riofrío
+9869,Mosquera
+9870,Coello
+9871,Gachalá
+9872,Villanueva
+9873,Icononzo
+9874,Guachetá
+9875,La Vega
+9876,Caicedo
+9877,Oicatá
+9878,Cisneros
+9879,Nechí
+9880,Suan
+9881,El Piñón
+9882,Santo Domingo
+9883,Gámbita
+9884,Atrato
+9885,Ayapel
+9886,Tierralta
+9887,Bagadó
+9888,Salamina
+9889,Curití
+9890,Balboa
+9891,Dolores
+9892,Sabanalarga
+9893,Socorro
+9894,Villanueva
+9895,Majagual
+9896,Liborina
+9897,Vijes
+9898,Güepsa
+9899,Zarzal
+9900,Belén
+9901,Galán
+9902,Sutamarchán
+9903,Caicedonia
+9904,Támesis
+9905,Vigía del Fuerte
+9906,Gachantivá
+9907,Pulí
+9908,San José del Palmar
+9909,Colosó
+9910,La Virginia
+9911,La Jagua del Pilar
+9912,Villa de Leyva
+9913,Páez
+9914,Gámbita
+9915,San Zenón
+9916,Río Quito
+9917,Guadalupe
+9918,Chima
+9919,Quibdó
+9920,Une
+9921,Landázuri
+9922,Marinilla
+9923,Campo de la Cruz
+9924,Hispania
+9925,Chivatá
+9926,Yacopí
+9927,Puerto Colombia
+9928,Santa Catalina
+9929,Barranco de Loba
+9930,La Cruz
+9931,Filadelfia
+9932,Carcasí
+9933,Simití
+9934,Cantagallo
+9935,San Francisco
+9936,Campamento
+9937,El Peñón
+9938,Corrales
+9939,Sutamarchán
+9940,Pivijay
+9941,Socotá
+9942,Chivatá
+9943,San Sebastián
+9944,Castilla la Nueva
+9945,Cicuco
+9946,Santa Ana
+9947,La Playa
+9948,Moñitos
+9949,Garzón
+9950,Apartadó
+9951,Cajamarca
+9952,Donmatías
+9953,La Chorrera
+9954,Cepitá
+9955,La Sierra
+9956,Rionegro
+9957,Rondón
+9958,San Vicente Ferrer
+9959,Villanueva
+9960,Acevedo
+9961,Puerto Rondón
+9962,La Unión
+9963,Guasca
+9964,El Peñón
+9965,Tiquisio
+9966,Cucunubá
+9967,Dosquebradas
+9968,La Gloria
+9969,El Paujíl
+9970,Santa Rosa de Osos
+9971,Iles
+9972,El Santuario
+9973,Angostura
+9974,Calamar
+9975,Viracachá
+9976,Armenia
+9977,Puerto Tejada
+9978,Tuta
+9979,Juan de Acosta
+9980,El Litoral del San Juan
+9981,Pueblo Nuevo
+9982,Ebéjico
+9983,Villa Rica
+9984,Barranquilla
+9985,Orito
+9986,Caldas
+9987,Suaza
+9988,Ventaquemada
+9989,Bochalema
+9990,Solita
+9991,San José del Fragua
+9992,San Gil
+9993,Cumbal
+9994,La Chorrera
+9995,Madrid
+9996,Tierralta
+9997,Susa
+9998,Santa Ana
+9999,Albania
+10000,Marquetalia
