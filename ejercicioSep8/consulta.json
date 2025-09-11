@@ -1,5 +1,6 @@
 // nombre: Camilo Esteban Ramirez Salas - 202214307
 // endpoint: http://localhost:3000/people?page=100
+//prueba en el navegador: https://github.com/CamiloR0912/Distribuidos/blob/main/ejercicioSep8/respuestaDB.png
 
 {
   "page": 100,
