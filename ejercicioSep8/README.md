@@ -12,3 +12,7 @@
 
 
 # Utilizando un user-defined network
+![alt text](image-5.png)
+
+# Prueba metodos post y get
+![alt text](image-6.png)
