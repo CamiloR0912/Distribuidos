@@ -14,6 +14,11 @@ const driver = neo4j.driver(
 );
 
 // ======================
+// Middlewares
+// ======================
+app.use(express.json());
+
+// ======================
 // Rutas
 // ======================
 
@@ -87,6 +92,49 @@ app.get('/cities', async (req, res) => {
 
   } catch (error) {
     console.error('❌ Error al obtener ciudades:', error);
+    res.status(500).json({ error: 'Error interno en el servidor', details: error.message });
+  } finally {
+    await session.close();
+  }
+});
+
+// Crear una persona con datos aleatorios
+app.post('/people', async (req, res) => {
+  const session = driver.session();
+  try {
+    // Generar datos aleatorios
+    const randomId = Math.floor(Math.random() * 10000);
+    const names = ["Camilo", "Laura", "Andrés", "María", "Sofía", "Carlos", "Valentina", "Daniel"];
+    const cities = ["Bogotá", "Medellín", "Cali", "Barranquilla", "Cartagena"];
+    
+    const personName = names[Math.floor(Math.random() * names.length)];
+    const personAge = Math.floor(Math.random() * 80) + 18; // entre 18 y 98 años
+    const cityName = cities[Math.floor(Math.random() * cities.length)];
+
+    // Query de creación
+    const query = `
+      MERGE (c:City {name: $cityName})
+      CREATE (p:Person {personId: $id, name: $name, age: $age})
+      MERGE (p)-[:LIVES_IN]->(c)
+      RETURN p {.*, city: c.name } AS person
+    `;
+
+    const result = await session.run(query, {
+      id: neo4j.int(randomId),
+      name: personName,
+      age: neo4j.int(personAge),
+      cityName
+    });
+
+    const newPerson = result.records[0].get('person');
+
+    res.status(201).json({
+      message: '✅ Persona creada con éxito',
+      person: newPerson
+    });
+
+  } catch (error) {
+    console.error('❌ Error al crear persona:', error);
     res.status(500).json({ error: 'Error interno en el servidor', details: error.message });
   } finally {
     await session.close();
