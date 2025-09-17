@@ -8,9 +8,12 @@ Los labels en servicios proporcionan `configuración dinámica` donde cada servi
 Traefik se entera de los servicios nuevos a través de `providers` que monitorean continuamente diferentes fuentes de datos. En el caso de Docker, Traefik usa el Docker Provider que se conecta al socket de Docker `/var/run/docker.sock` y escucha eventos en tiempo real como container start, container stop, y container update. Cuando un contenedor se inicia con labels de Traefik (como traefik.enable=true), Docker emite un evento que Traefik detecta inmediatamente, lee los labels del contenedor, genera automáticamente la configuración de enrutamiento correspondiente y actualiza sus rutas sin necesidad de reiniciar, permitiendo así el auto-descubrimiento dinámico de servicios.
 
 ---
+![alt text](image-8.png) Versión de docker y docker compose
+
 ![alt text](image.png) Docker-compose.yml para traefik
 
 ![alt text](image-1.png) Iniciando Traefik
+![alt text](image-9.png) comprobación de funcionamiento con docker compose ps
 
 ![alt text](image-2.png) 
 ![alt text](image-3.png) Probando Traefik localmente
